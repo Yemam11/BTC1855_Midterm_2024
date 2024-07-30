@@ -3,7 +3,7 @@ Midterm Assignment for BTC1855H
 
 ## Project plan
 
-#### surface level analysis
+#### Surface Level Analysis
 I will look at the data, identify the columns in each data set, identify formats, any issues/missing values within the data (etc.)
 
 #### Data Cleaning
@@ -15,11 +15,11 @@ I will use the funModeling package to complete an exploratory data analysis on t
 
 ##### Temporal Analysis
 
-##### Identify rush hour/weekend traffic
+###### Identify rush hour/weekend traffic
 Do an exploratory analysis to identify which hours of the weekdays contain the highest number of trips. Once this is identified I will determine the 10 most frequent starting stations. I can also identify the 10 most frequent starting stations during the weekend, monthly utilization of bikes
 
 
-##### Weather Analysis
+###### Weather Analysis
 I will create a new dataset which encompasses both the trip and weather data, and create a correlation matrix, then flag the highest correlations
 
 
