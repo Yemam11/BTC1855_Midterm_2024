@@ -1,10 +1,6 @@
 #Creating an EDA of the data
 
 
-#installing packages
-install.packages("funModeling")
-install.packages("Hmisc")
-
 #loading packages
 library(funModeling) 
 library(tidyverse) 
