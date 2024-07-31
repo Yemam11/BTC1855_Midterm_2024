@@ -4,9 +4,9 @@
 
 
 #Import datasets
-stations <- read.csv("station.csv")
-trips <- read.csv("trip.csv")
-weather <- read.csv("weather.csv")
+stations <- read.csv("datasets/station.csv")
+trips <- read.csv("datasets/trip.csv")
+weather <- read.csv("datasets/weather.csv")
 
 #import libraries
 library(lubridate)
@@ -81,4 +81,22 @@ trips <- trips %>%
   filter(!(trips$id %in% outliers$id))
 
 #clean weather dataset
+summary(weather)
 
+#convert dates to posixct
+weather$date <- mdy(weather$date, tz = "UTC")
+
+#convert city, events to factors
+
+unique(weather$city)
+
+#there are some empty values
+unique(weather$events)
+
+#convert to NA
+weather$events[weather$events == ""] <-NA
+
+weather$city <- as.factor(weather$city)
+weather$events <- as.factor(weather$events)
+
+#identify anomolies in precipitation column
