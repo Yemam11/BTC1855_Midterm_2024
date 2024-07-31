@@ -45,7 +45,6 @@ trips <- trips %>%
 
 #identify any-non numeric data in zip-code
 nonnum <- grepl(x = trips$zip_code, pattern = "[^0-9]")
-table(nonnum)
 
 #convert that data to NA
 trips$zip_code[nonnum] <- NA
@@ -56,5 +55,30 @@ trips$zip_code[which(trips$zip_code == "")] <- NA
 #convert zip codes to integer
 trips$zip_code <- as.integer(trips$zip_code)
 
+sum(!is.na(trips$zip_cod))
+
 #remove any values outside of the valid zip code range (00501- 99950)
 trips$zip_code[trips$zip_code > 99950 | trips$zip_code < 501] <- NA
+
+#remove outliers from the data
+
+#find trips less than 3 mins in duration, that start and end at the same place
+cancelled_trips <- trips %>%
+  filter(duration < 180) %>%
+  filter(start_station_name == end_station_name)
+
+#remove from data set
+trips <- trips %>% 
+  filter(!(trips$id %in% cancelled_trips$id))
+
+#identify trips that are too long
+# Lets assume that the longest possible trip is one day, i.e 86400 seconds
+outliers <- trips %>% 
+  filter(duration > 86400)
+
+#Remove them from the data set
+trips <- trips %>% 
+  filter(!(trips$id %in% outliers$id))
+
+#clean weather dataset
+
