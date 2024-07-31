@@ -100,3 +100,15 @@ weather$city <- as.factor(weather$city)
 weather$events <- as.factor(weather$events)
 
 #identify anomolies in precipitation column
+
+#Smallest value that is non-zero is 0.01. "T" represents any value that is less than 0.01
+sort(as.numeric(unique(weather$precipitation_inches)), decreasing = F)
+
+#Set the Trace values as numeric 0.005
+weather$precipitation_inches[weather$precipitation_inches == "T"] <- 0.005
+
+#convert the values to numeric
+weather$precipitation_inches <- as.numeric(weather$precipitation_inches)
+
+#convert cloud cover to factor, and set levels since its a scale and not a measurement
+weather$cloud_cover <- as.factor(weather$cloud_cover)
