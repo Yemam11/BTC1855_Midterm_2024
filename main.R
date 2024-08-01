@@ -129,6 +129,8 @@ weather$cloud_cover <- as.factor(weather$cloud_cover)
 
 
 #=============== Rush Hour Analysis ===============#
+#load library
+library(ggplot2)
 
 #Identify highest traffic times on weekdays
 
@@ -137,11 +139,39 @@ weather$cloud_cover <- as.factor(weather$cloud_cover)
 weekdays <- trips
 weekdays$DOW <- as.factor(weekdays.POSIXt(weekdays$start_date))
 
+#filter to include only weekends
+weekends <- weekdays %>%
+  filter(DOW %in% c("Saturday", "Sunday"))
+
 #filter to only include weekdays
 weekdays <- weekdays %>%
   filter(!DOW %in% c("Saturday", "Sunday"))
 
-#find out the time of day
+#find out the hour of day
 weekdays <- weekdays %>% 
-  mutate(TOD = strftime(as.character(start_date), format = "%H:%M"))
+  mutate(TOD = strftime(start_date, tz = "UTC", format = "%H"))
+
+#summarize duration by the hour
+traffic <- weekdays %>%
+  group_by(TOD) %>% 
+  summarise(traffic = sum(duration)) %>% 
+  ungroup()
+
+class(traffic$TOD)
+
+#plot results
+ggplot(traffic, mapping = aes(x= TOD, y = traffic)) +
+  geom_col(fill = "lightseagreen")+
+  theme(axis.text.x = element_text(size=10, angle = 90))
+
+
+#rush hours seem to be 7-9am and 4-6pm
+
+#determine 10 most frequent starting locations on weekends
+
+locations <- weekends %>% 
+  group_by(start_station_name) %>% 
+  summarise(freq = nrow(id)) %>%
+  ungroup()
+
 
