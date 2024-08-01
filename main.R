@@ -10,12 +10,16 @@ stations <- read.csv("datasets/station.csv")
 trips <- read.csv("datasets/trip.csv")
 weather <- read.csv("datasets/weather.csv")
 
+#=============== EDA ===============#
+
 source("eda.R")
 
 #running EDAs
 basic_eda(stations)
 basic_eda(trips)
 basic_eda(weather)
+
+#=============== Data Cleaning ===============#
 
 #import libraries
 library(lubridate)
@@ -121,3 +125,23 @@ weather$precipitation_inches <- as.numeric(weather$precipitation_inches)
 
 #convert cloud cover to factor, and set levels since its a scale and not a measurement
 weather$cloud_cover <- as.factor(weather$cloud_cover)
+
+
+
+#=============== Rush Hour Analysis ===============#
+
+#Identify highest traffic times on weekdays
+
+#identify when a trip begins during a weekday
+#create a copy of the data set with a new column that contains day of the week
+weekdays <- trips
+weekdays$DOW <- as.factor(weekdays.POSIXt(weekdays$start_date))
+
+#filter to only include weekdays
+weekdays <- weekdays %>%
+  filter(!DOW %in% c("Saturday", "Sunday"))
+
+#find out the time of day
+weekdays <- weekdays %>% 
+  mutate(TOD = strftime(as.character(start_date), format = "%H:%M"))
+
