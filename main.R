@@ -249,7 +249,7 @@ joined_data <- left_join(joined_data, weather, by = join_by("date" == "date", "c
 
 #select the relevant columns and remove the added station ones
 joined_data <- joined_data %>% 
-  select(id:zip_code.x, date, city, max_temperature_f:events)
+  select(id:subscription_type, date, city, max_temperature_f:events)
 
 
 #investigate how the weather affects bike usage
@@ -258,14 +258,34 @@ library(ggcorrplot)
 
 #create df with only numeric values, remove ids
 joined_data_numeric <- joined_data %>% 
-  select_if(is.numeric) %>% 
-  select(!contains("id")) %>% 
-  select(!contains("zip"))
+  group_by(city, date) %>% 
+  summarise(total_trip_time = sum(duration),
+            number_of_trips = n()) %>% 
+  left_join(weather, by = join_by("city"=="city", "date"=="date")) %>% 
+  ungroup() %>% 
+  select(!zip_code)
 
-#Make the names more representative
-names(joined_data_numeric) <- c("Ride Duration", "Max Temperature", "Average Temperature", "Min Temperature", "Max Visibility", "Mean Visibility", "Min Visibility", "Max Wind Speed", "Min Wind Speed", "Max Gust Speed", "Precipitation")
+#corplot for each city
 
-#create and plot the matrix
-cor_matrix <- cor(joined_data_numeric, use = "pairwise.complete.obs")
-pmat <- cor_pmat(joined_data_numeric)
-corrplot(cor_matrix, type = "upper", method = "shade", order = "hclust", title = "Correlation Plot", p.mat = cor_matrix, insig = "blank", sig.level = 0.05, tl.col = "black")
+for (i in unique(joined_data_numeric$city)){
+  
+  cor_plot <- joined_data_numeric %>%
+    filter(city == i) %>% 
+    select_if(is.numeric) %>% 
+    cor(use = "complete.obs")
+  
+  #cor_plot[is.na(cor_plot)] <- 0
+  
+  p_mat <- joined_data_numeric %>%
+    filter(city == i) %>% 
+    select_if(is.numeric) %>% 
+    cor_pmat(use = "complete.obs")
+  
+  #p_mat[is.na(p_mat)] <- 0
+  
+  #clean the matrix to remove redundancy
+  cor_plot <- cor_plot[1:2, c(-1,-2)]
+  p_mat <- p_mat[1:2, c(-1,-2)]
+  
+  corrplot(cor_plot, method = "shade", oder = "hclust", title = i, p.mat = p_mat, sig.level = 0.05,insig = "blank",tl.col = "black")
+}
