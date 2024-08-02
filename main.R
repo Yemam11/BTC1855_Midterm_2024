@@ -227,5 +227,3 @@ percent_utilization %>%
   geom_col() + scale_fill_gradient(low = "red", high = "forestgreen")
 
 
-
-
