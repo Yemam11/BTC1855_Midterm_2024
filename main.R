@@ -129,8 +129,9 @@ weather$cloud_cover <- as.factor(weather$cloud_cover)
 
 
 #=============== Rush Hour Analysis ===============#
-#load library
+#load libraries
 library(ggplot2)
+library(scales)
 
 #Identify highest traffic times on weekdays
 
@@ -138,6 +139,14 @@ library(ggplot2)
 #create a copy of the data set with a new column that contains day of the week
 weekdays <- trips
 weekdays$DOW <- as.factor(weekdays.POSIXt(weekdays$start_date))
+
+#find the midpoint for each trip
+weekdays$midpoint <- weekdays$start_date + (weekdays$end_date - weekdays$start_date)/2
+#set the date to be the same day for all trips, makes it easy to plot and compare later
+date(weekdays$midpoint) <- as.Date("2000-01-01")
+
+
+#Create 2 dfs for weekends and weekdays
 
 #filter to include only weekends
 weekends <- weekdays %>%
@@ -147,31 +156,75 @@ weekends <- weekdays %>%
 weekdays <- weekdays %>%
   filter(!DOW %in% c("Saturday", "Sunday"))
 
-#find out the hour of day
-weekdays <- weekdays %>% 
-  mutate(TOD = strftime(start_date, tz = "UTC", format = "%H"))
 
-#summarize duration by the hour
-traffic <- weekdays %>%
-  group_by(TOD) %>% 
-  summarise(traffic = sum(duration)) %>% 
-  ungroup()
 
-class(traffic$TOD)
+
+#calculate the mean frequency of trips
+#anything above this should be considered "rush hour" (i.e it means people are using bikes more than average)
+meanfreq = nrow(weekdays)/48
 
 #plot results
-ggplot(traffic, mapping = aes(x= TOD, y = traffic)) +
-  geom_col(fill = "lightseagreen")+
-  theme(axis.text.x = element_text(size=10, angle = 90))
+ggplot(weekdays, mapping = aes(x = midpoint)) +
+  geom_histogram(fill = "lightseagreen", bins = 48) +
+  scale_x_datetime(date_labels = "%H:%S", breaks = "1 hour", minor_breaks = "30 min") +
+  theme(axis.text.x = element_text(size=7, angle = 70, vjust = 0.5)) +
+  geom_hline(yintercept = meanfreq)
+
+#rush hours seem to be 7-10:30am and 4-8pm
+#create a df with rush hour boundaries
+rushhr <- data.frame(early = c("07:00:00", "10:30:00"), late = c("16:00:00", "20:00:00"))
+
+#convert to times, and set the date to 2000-01-01 to be able to compare with midpoint
+rushhr$early <- strptime(rushhr$early, format = "%H:%M", tz = "UTC")
+date(rushhr$early) <- as.Date("2000-01-01")
+rushhr$late <- strptime(rushhr$late, format = "%H:%M", tz = "UTC")
+date(rushhr$late) <- as.Date("2000-01-01")
 
 
-#rush hours seem to be 7-9am and 4-6pm
+#determine 10 most frequent starting locations during rush hours
+locations_wkdy <- weekdays %>%
+  filter((midpoint >= rushhr$early[1] & midpoint <= rushhr$early[2]) |
+  (midpoint >= rushhr$late[1] & midpoint <= rushhr$late[2])) %>% 
+  group_by(start_station_name) %>% 
+  summarise(number = n()) %>% 
+  arrange(desc(number)) %>% 
+  head(10)
 
 #determine 10 most frequent starting locations on weekends
-
-locations <- weekends %>% 
+locations_wknd <- weekends %>% 
   group_by(start_station_name) %>% 
-  summarise(freq = nrow(id)) %>%
+  summarise(number = n()) %>% 
+  arrange(desc(number)) %>% 
+  head(10)
+
+
+#calculate average utilization per month
+months <- trips
+
+#add month column to copy of data
+months <- months %>%
+  mutate(month = month(start_date, label = T))
+
+#calculate utilization per month (total time used in the month/seconds in a month)
+utilization <- months %>%
+  group_by(month) %>% 
+  summarise(utilizaiton = (sum(duration)/2592000)) %>% 
+  ungroup
+
+# Alternatibley
+# The total number of possible seconds = number of bikes x number of seconds in the month
+# dividing this by the total trip duration per month tells us how much of the possible maximum duration we are using
+# this can be interpreted as a measure of the bike rental system utilization
+percent_utilization <- months %>%
+  group_by(month) %>%
+  #calculate the number of bikes within each group, so we only include bikes that go on trips in our estimate
+  summarise(system_utilization = (sum(duration)/((as.integer(length(unique(months$bike_id)))*2592000))*100)) %>% 
   ungroup()
+
+#plot
+percent_utilization %>% 
+  ggplot(mapping = aes(x = month, y= system_utilization, fill = system_utilization)) +
+  geom_col() + scale_fill_gradient(low = "red", high = "forestgreen")
+
 
 
