@@ -129,6 +129,8 @@ weather$cloud_cover <- as.factor(weather$cloud_cover)
 
 
 #=============== Rush Hour Analysis ===============#
+
+
 #load libraries
 library(ggplot2)
 library(scales)
@@ -227,3 +229,43 @@ percent_utilization %>%
   geom_col() + scale_fill_gradient(low = "red", high = "forestgreen")
 
 
+
+#=============== Rush Hour Analysis ===============#
+
+#combine trips dataset with weather dataset
+# identify columns to join on
+
+#shared columns are zipcode and date
+
+# create a standardized date column to join on by removing the time from the start_date column
+joined_data <- trips %>%
+  mutate(date = date(start_date))
+
+#Add city column by joining the stations data set
+joined_data <- left_join(joined_data, stations, by = join_by("start_station_id" == "id"))
+
+# join on the date and city columns
+joined_data <- left_join(joined_data, weather, by = join_by("date" == "date", "city" == "city"))
+
+#select the relevant columns and remove the added station ones
+joined_data <- joined_data %>% 
+  select(id:zip_code.x, date, city, max_temperature_f:events)
+
+
+#investigate how the weather affects bike usage
+library(corrplot)
+library(ggcorrplot)
+
+#create df with only numeric values, remove ids
+joined_data_numeric <- joined_data %>% 
+  select_if(is.numeric) %>% 
+  select(!contains("id")) %>% 
+  select(!contains("zip"))
+
+#Make the names more representative
+names(joined_data_numeric) <- c("Ride Duration", "Max Temperature", "Average Temperature", "Min Temperature", "Max Visibility", "Mean Visibility", "Min Visibility", "Max Wind Speed", "Min Wind Speed", "Max Gust Speed", "Precipitation")
+
+#create and plot the matrix
+cor_matrix <- cor(joined_data_numeric, use = "pairwise.complete.obs")
+pmat <- cor_pmat(joined_data_numeric)
+corrplot(cor_matrix, type = "upper", method = "shade", order = "hclust", title = "Correlation Plot", p.mat = cor_matrix, insig = "blank", sig.level = 0.05, tl.col = "black")
