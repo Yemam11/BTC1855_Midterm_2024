@@ -256,7 +256,8 @@ joined_data <- joined_data %>%
 library(corrplot)
 library(ggcorrplot)
 
-#create df with only numeric values, remove ids
+# create df with data to summarize
+# we will analyze each day, within each city, and join the weather for that date + city
 joined_data_numeric <- joined_data %>% 
   group_by(city, date) %>% 
   summarise(total_trip_time = sum(duration),
@@ -265,27 +266,26 @@ joined_data_numeric <- joined_data %>%
   ungroup() %>% 
   select(!zip_code)
 
-#corplot for each city
+#corrplot for each city
 
 for (i in unique(joined_data_numeric$city)){
   
+  #create correlation matrix for the city
   cor_plot <- joined_data_numeric %>%
     filter(city == i) %>% 
     select_if(is.numeric) %>% 
     cor(use = "complete.obs")
   
-  #cor_plot[is.na(cor_plot)] <- 0
-  
+  #create p-vale for correlations
   p_mat <- joined_data_numeric %>%
     filter(city == i) %>% 
     select_if(is.numeric) %>% 
     cor_pmat(use = "complete.obs")
   
-  #p_mat[is.na(p_mat)] <- 0
-  
   #clean the matrix to remove redundancy
   cor_plot <- cor_plot[1:2, c(-1,-2)]
   p_mat <- p_mat[1:2, c(-1,-2)]
   
+  #plot the matrix
   corrplot(cor_plot, method = "shade", oder = "hclust", title = i, p.mat = p_mat, sig.level = 0.05,insig = "blank",tl.col = "black")
 }
