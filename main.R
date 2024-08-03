@@ -14,10 +14,10 @@ weather <- read.csv("datasets/weather.csv")
 
 source("eda.R")
 
-# #running EDAs
-# basic_eda(stations)
-# basic_eda(trips)
-# basic_eda(weather)
+#running EDAs
+basic_eda(stations)
+basic_eda(trips)
+basic_eda(weather)
 
 #=============== Data Cleaning ===============#
 
