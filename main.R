@@ -68,8 +68,6 @@ trips$zip_code[which(trips$zip_code == "")] <- NA
 #convert zip codes to integer
 trips$zip_code <- as.integer(trips$zip_code)
 
-sum(!is.na(trips$zip_cod))
-
 #remove any values outside of the valid zip code range (00501- 99950)
 trips$zip_code[trips$zip_code > 99950 | trips$zip_code < 501] <- NA
 
@@ -129,6 +127,8 @@ weather$cloud_cover <- as.factor(weather$cloud_cover)
 
 
 #=============== Rush Hour Analysis ===============#
+
+
 #load libraries
 library(ggplot2)
 library(scales)
@@ -226,4 +226,55 @@ percent_utilization %>%
   ggplot(mapping = aes(x = month, y= system_utilization, fill = system_utilization)) +
   geom_col() + scale_fill_gradient(low = "red", high = "forestgreen")
 
+
+
+#=============== Rush Hour Analysis ===============#
+
+#combine trips dataset with weather dataset
+# identify columns to join on
+
+#shared columns are zipcode and date
+
+# create a standardized date column to join on by removing the time from the start_date column
+joined_data <- trips %>%
+  mutate(date = date(start_date))
+
+#Add city column by joining the stations data set
+joined_data <- left_join(joined_data, stations, by = join_by("start_station_id" == "id"))
+
+#investigate how the weather affects bike usage
+library(corrplot)
+library(Hmisc)
+
+# create df with data to summarize
+# we will analyze each day, within each city, and join the weather for that date + city
+joined_data_numeric <- joined_data %>% 
+  group_by(city, date) %>% 
+  summarise(total_trip_time = sum(duration),
+            number_of_trips = n()) %>% 
+  left_join(weather, by = join_by("city"=="city", "date"=="date")) %>% 
+  ungroup() %>% 
+  select(!zip_code)
+
+#corrplot for each city
+par(xpd=TRUE, mfrow = c(1,1))
+for(i in unique(joined_data_numeric$city)){
+  
+  #create correlation matrix for the city
+  cor_data <- joined_data_numeric %>%
+    filter(city == i) %>% 
+    select_if(is.numeric)
+  
+  #computes correlation values and p-values for the data
+  cor_plot <- rcorr(as.matrix(cor_data))
+  
+  #clean the matrix to remove redundancy
+  
+  cor_plot$r <- cor_plot$r[1:2, c(-1,-2)]
+  cor_plot$P <- cor_plot$P[1:2, c(-1,-2)]
+  
+  
+  #plot the matrix, hide insignificant results (i.e H0: pearson coefficient = 0)
+  corrplot(cor_plot$r, method = "shade", title = i, p.mat = cor_plot$P, sig.level = 0.05,insig = "blank",tl.col = "black", tl.srt = 50, cl.pos = "b", cl.ratio = 0.7, mar = c(2, 2, 2, 5))
+}
 
