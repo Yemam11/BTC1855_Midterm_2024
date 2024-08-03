@@ -14,10 +14,10 @@ weather <- read.csv("datasets/weather.csv")
 
 source("eda.R")
 
-#running EDAs
-basic_eda(stations)
-basic_eda(trips)
-basic_eda(weather)
+# #running EDAs
+# basic_eda(stations)
+# basic_eda(trips)
+# basic_eda(weather)
 
 #=============== Data Cleaning ===============#
 
@@ -67,8 +67,6 @@ trips$zip_code[which(trips$zip_code == "")] <- NA
 
 #convert zip codes to integer
 trips$zip_code <- as.integer(trips$zip_code)
-
-sum(!is.na(trips$zip_cod))
 
 #remove any values outside of the valid zip code range (00501- 99950)
 trips$zip_code[trips$zip_code > 99950 | trips$zip_code < 501] <- NA
@@ -244,17 +242,9 @@ joined_data <- trips %>%
 #Add city column by joining the stations data set
 joined_data <- left_join(joined_data, stations, by = join_by("start_station_id" == "id"))
 
-# join on the date and city columns
-joined_data <- left_join(joined_data, weather, by = join_by("date" == "date", "city" == "city"))
-
-#select the relevant columns and remove the added station ones
-joined_data <- joined_data %>% 
-  select(id:subscription_type, date, city, max_temperature_f:events)
-
-
 #investigate how the weather affects bike usage
 library(corrplot)
-library(ggcorrplot)
+library(Hmisc)
 
 # create df with data to summarize
 # we will analyze each day, within each city, and join the weather for that date + city
@@ -267,25 +257,24 @@ joined_data_numeric <- joined_data %>%
   select(!zip_code)
 
 #corrplot for each city
-
-for (i in unique(joined_data_numeric$city)){
+par(xpd=TRUE, mfrow = c(1,1))
+for(i in unique(joined_data_numeric$city)){
   
   #create correlation matrix for the city
-  cor_plot <- joined_data_numeric %>%
+  cor_data <- joined_data_numeric %>%
     filter(city == i) %>% 
-    select_if(is.numeric) %>% 
-    cor(use = "complete.obs")
+    select_if(is.numeric)
   
-  #create p-vale for correlations
-  p_mat <- joined_data_numeric %>%
-    filter(city == i) %>% 
-    select_if(is.numeric) %>% 
-    cor_pmat(use = "complete.obs")
+  #computes correlation values and p-values for the data
+  cor_plot <- rcorr(as.matrix(cor_data))
   
   #clean the matrix to remove redundancy
-  cor_plot <- cor_plot[1:2, c(-1,-2)]
-  p_mat <- p_mat[1:2, c(-1,-2)]
   
-  #plot the matrix
-  corrplot(cor_plot, method = "shade", oder = "hclust", title = i, p.mat = p_mat, sig.level = 0.05,insig = "blank",tl.col = "black")
+  cor_plot$r <- cor_plot$r[1:2, c(-1,-2)]
+  cor_plot$P <- cor_plot$P[1:2, c(-1,-2)]
+  
+  
+  #plot the matrix, hide insignificant results (i.e H0: pearson coefficient = 0)
+  corrplot(cor_plot$r, method = "shade", title = i, p.mat = cor_plot$P, sig.level = 0.05,insig = "blank",tl.col = "black", tl.srt = 50, cl.pos = "b", cl.ratio = 0.7, mar = c(2, 2, 2, 5))
 }
+
