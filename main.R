@@ -19,6 +19,35 @@ basic_eda(stations)
 basic_eda(trips)
 basic_eda(weather)
 
+
+#customized EDA
+
+#Find out how many trips start and stop at each station (traffic)
+stations_summary <- trips %>% 
+  group_by(start_station_id) %>% 
+  summarise(start_trips = n())
+
+
+stations_summary <- trips %>% 
+  group_by(end_station_id) %>% 
+  summarise(end_trips = n()) %>%
+  ungroup() %>% 
+  left_join(stations_summary, join_by("end_station_id" == "start_station_id")) %>%
+  left_join(stations, join_by("end_station_id" == "id")) %>% 
+  group_by(end_station_id) %>%
+  mutate(traffic = sum(start_trips) + sum(end_trips))
+
+
+#create a figure that summarizes station data
+library(ggplot2)
+ggplot(data = stations_summary, mapping = aes(x = reorder(name, traffic), y = traffic, fill = traffic)) +
+  geom_col() +
+  coord_flip()+
+  theme(axis.text.y = element_text(size = 5, vjust = 0.5))+
+  labs(y = "Traffic", x = "Station")
+
+
+
 #=============== Data Cleaning ===============#
 
 #import libraries
@@ -277,4 +306,3 @@ for(i in unique(joined_data_numeric$city)){
   #plot the matrix, hide insignificant results (i.e H0: pearson coefficient = 0)
   corrplot(cor_plot$r, method = "shade", title = i, p.mat = cor_plot$P, sig.level = 0.05,insig = "blank",tl.col = "black", tl.srt = 50, cl.pos = "b", cl.ratio = 0.7, mar = c(2, 2, 2, 5))
 }
-
