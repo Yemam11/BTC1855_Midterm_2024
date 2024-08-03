@@ -47,6 +47,27 @@ ggplot(data = stations_summary, mapping = aes(x = reorder(name, traffic), y = tr
   labs(y = "Traffic", x = "Station")
 
 
+#Summarise trips by mean duration over the course of the year
+trips_summary <- trips %>%
+  mutate(start_date = mdy_hm(start_date, tz = "UTC"),
+         month = month(start_date, label = T)) %>% 
+  group_by(month) %>% 
+  summarise(average_trip = mean(duration, na.rm = T))
+
+#plot the summary
+# Seems to be outliers, we will deal with this later
+ggplot(data = trips_summary, mapping = aes(x = month, y = average_trip, group = 1))+
+  geom_line() +
+  labs(y = "Average Trip Duration (Seconds)", x = "Month", title = "Average Trip Duration by Month") +
+  theme_classic()+
+  theme(plot.title = element_text(hjust = 0.5),
+        panel.grid.major.y = element_line(color = "gray", linetype = "dashed")) +
+  geom_label(aes(label = round(average_trip, 0)),
+             vjust = -0.5,
+             size = 2)
+  
+
+
 
 #=============== Data Cleaning ===============#
 
