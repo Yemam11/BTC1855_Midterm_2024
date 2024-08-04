@@ -253,9 +253,25 @@ locations_wkdy <- weekdays %>%
   arrange(desc(number)) %>% 
   head(10)
 
+#determine 10 most frequent ending locations during rush hours
+locations_wkdy_end <- weekdays %>%
+  filter((midpoint >= rushhr$early[1] & midpoint <= rushhr$early[2]) |
+           (midpoint >= rushhr$late[1] & midpoint <= rushhr$late[2])) %>% 
+  group_by(end_station_name) %>% 
+  summarise(number = n()) %>% 
+  arrange(desc(number)) %>% 
+  head(10)
+
 #determine 10 most frequent starting locations on weekends
 locations_wknd <- weekends %>% 
   group_by(start_station_name) %>% 
+  summarise(number = n()) %>% 
+  arrange(desc(number)) %>% 
+  head(10)
+
+#determine 10 most frequent starting locations on weekends
+locations_wknd_end <- weekends %>% 
+  group_by(end_station_name) %>% 
   summarise(number = n()) %>% 
   arrange(desc(number)) %>% 
   head(10)
