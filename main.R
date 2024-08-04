@@ -57,7 +57,7 @@ trips_summary <- trips %>%
 #plot the summary
 # Seems to be outliers, we will deal with this later
 ggplot(data = trips_summary, mapping = aes(x = month, y = average_trip, group = 1))+
-  geom_line() +
+  geom_line()+
   labs(y = "Average Trip Duration (Seconds)", x = "Month", title = "Average Trip Duration by Month") +
   theme_classic()+
   theme(plot.title = element_text(hjust = 0.5),
@@ -67,8 +67,20 @@ ggplot(data = trips_summary, mapping = aes(x = month, y = average_trip, group = 
              size = 2)
   
 
+#summarise the weather data
+weather_summary <- weather %>%
+  mutate(month = month(mdy(date), label = T)) %>% 
+  group_by(month, city) %>% 
+  summarise(precip = sum(as.numeric(precipitation_inches), na.rm = T)) %>% 
+  ungroup()
 
 
+#plot a summary
+ggplot(data = weather_summary, mapping = aes(x = month, y = precip, color = city, group = city))+
+  geom_line() +
+  labs(y = "Total Precipitation by Month (In)", x = "Month", title = "Total Precipitation")+
+  theme(plot.title = element_text(hjust = 0.5))
+         
 #=============== Data Cleaning ===============#
 
 #import libraries
@@ -217,8 +229,10 @@ meanfreq = nrow(weekdays)/48
 ggplot(weekdays, mapping = aes(x = midpoint)) +
   geom_histogram(fill = "lightseagreen", bins = 48) +
   scale_x_datetime(date_labels = "%H:%S", breaks = "1 hour", minor_breaks = "30 min") +
-  theme(axis.text.x = element_text(size=7, angle = 70, vjust = 0.5)) +
-  geom_hline(yintercept = meanfreq)
+  theme(axis.text.x = element_text(size=7, angle = 70, vjust = 0.5),
+        plot.title = element_text(hjust = 0.5)) +
+  geom_hline(yintercept = meanfreq) +
+  labs(title = "Trip Frequency by Hour", y = "Trips", x = "Time of Day")
 
 #rush hours seem to be 7-10:30am and 4-8pm
 #create a df with rush hour boundaries
@@ -274,7 +288,15 @@ percent_utilization <- months %>%
 #plot
 percent_utilization %>% 
   ggplot(mapping = aes(x = month, y= system_utilization, fill = system_utilization)) +
-  geom_col() + scale_fill_gradient(low = "red", high = "forestgreen")
+  geom_col() + 
+  scale_fill_gradient(low = "red", high = "forestgreen", name = "System Utilization (%)")+
+  labs(title = "Bike Rental System Utilization (%)",
+       y = "",
+       x = "Month")+
+  theme(plot.title = element_text(hjust = 0.5),
+        legend.position = "left",
+        legend.title = element_text(hjust = 0.5, angle = 90),
+        legend.title.position = "right")
 
 
 
