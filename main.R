@@ -47,12 +47,12 @@ stations_summary <- trips %>%
 
 
 #create a figure that summarizes station data
-library(ggplot2)
 ggplot(data = stations_summary, mapping = aes(x = reorder(name, traffic), y = traffic, fill = traffic)) +
   geom_col() +
   coord_flip()+
-  theme(axis.text.y = element_text(size = 5, vjust = 0.5))+
-  labs(y = "Traffic", x = "Station")
+  theme(axis.text.y = element_text(size = 4, vjust = 0.5),
+        plot.title = element_text(hjust = 0.5)) +
+  labs(y = "Traffic", x = "Station", title = "Station Traffic")
 
 
 #Summarise trips by mean duration over the course of the year
