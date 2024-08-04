@@ -1,23 +1,32 @@
 # BTC1855 Midterm 2024
 # Description: Main script
 # Author Youssef Emam
-# Set the wd to the repo homepage to run
+# Set the wd to the repo homepage to run.
 
+
+#load libraries
+library(lubridate)
+library(tidyverse)
+library(ggplot2)
+library(scales)
+library(corrplot)
+library(Hmisc)
+library(knitr)
+library(gt)
 
 
 #Import datasets
 stations <- read.csv("datasets/station.csv")
 trips <- read.csv("datasets/trip.csv")
 weather <- read.csv("datasets/weather.csv")
-
 #=============== EDA ===============#
 
 source("eda.R")
 
-#running EDAs
-basic_eda(stations)
-basic_eda(trips)
-basic_eda(weather)
+#running EDAs, commented out because I did my own
+# basic_eda(stations)
+# basic_eda(trips)
+# basic_eda(weather)
 
 
 #customized EDA
@@ -39,12 +48,12 @@ stations_summary <- trips %>%
 
 
 #create a figure that summarizes station data
-library(ggplot2)
 ggplot(data = stations_summary, mapping = aes(x = reorder(name, traffic), y = traffic, fill = traffic)) +
   geom_col() +
   coord_flip()+
-  theme(axis.text.y = element_text(size = 5, vjust = 0.5))+
-  labs(y = "Traffic", x = "Station")
+  theme(axis.text.y = element_text(size = 4, vjust = 0.5),
+        plot.title = element_text(hjust = 0.5)) +
+  labs(y = "Traffic", x = "Station", title = "Station Traffic")
 
 
 #Summarise trips by mean duration over the course of the year
@@ -57,7 +66,7 @@ trips_summary <- trips %>%
 #plot the summary
 # Seems to be outliers, we will deal with this later
 ggplot(data = trips_summary, mapping = aes(x = month, y = average_trip, group = 1))+
-  geom_line()+
+  geom_line(mapping = aes(group = 1))+
   labs(y = "Average Trip Duration (Seconds)", x = "Month", title = "Average Trip Duration by Month") +
   theme_classic()+
   theme(plot.title = element_text(hjust = 0.5),
@@ -82,10 +91,6 @@ ggplot(data = weather_summary, mapping = aes(x = month, y = precip, color = city
   theme(plot.title = element_text(hjust = 0.5))
          
 #=============== Data Cleaning ===============#
-
-#import libraries
-library(lubridate)
-library(tidyverse)
 
 # Clean the stations dataset
 
@@ -138,11 +143,12 @@ trips$zip_code[trips$zip_code > 99950 | trips$zip_code < 501] <- NA
 #find trips less than 3 mins in duration, that start and end at the same place
 cancelled_trips <- trips %>%
   filter(duration < 180) %>%
-  filter(start_station_name == end_station_name)
+  filter(start_station_name == end_station_name) %>% 
+  write.csv(file = "cancelled_trips.csv")
 
 #remove from data set
 trips <- trips %>% 
-  filter(!(trips$id %in% cancelled_trips$id))
+  filter(!(trips$id %in% cancelled_trips$id)) 
 
 #identify trips that are too long
 # Lets assume that the longest possible trip is one day, i.e 86400 seconds
@@ -189,11 +195,6 @@ weather$cloud_cover <- as.factor(weather$cloud_cover)
 
 
 #=============== Rush Hour Analysis ===============#
-
-
-#load libraries
-library(ggplot2)
-library(scales)
 
 #Identify highest traffic times on weekdays
 
@@ -254,9 +255,25 @@ locations_wkdy <- weekdays %>%
   arrange(desc(number)) %>% 
   head(10)
 
+#determine 10 most frequent ending locations during rush hours
+locations_wkdy_end <- weekdays %>%
+  filter((midpoint >= rushhr$early[1] & midpoint <= rushhr$early[2]) |
+           (midpoint >= rushhr$late[1] & midpoint <= rushhr$late[2])) %>% 
+  group_by(end_station_name) %>% 
+  summarise(number = n()) %>% 
+  arrange(desc(number)) %>% 
+  head(10)
+
 #determine 10 most frequent starting locations on weekends
 locations_wknd <- weekends %>% 
   group_by(start_station_name) %>% 
+  summarise(number = n()) %>% 
+  arrange(desc(number)) %>% 
+  head(10)
+
+#determine 10 most frequent ending locations on weekends
+locations_wknd_end <- weekends %>% 
+  group_by(end_station_name) %>% 
   summarise(number = n()) %>% 
   arrange(desc(number)) %>% 
   head(10)
@@ -285,6 +302,7 @@ percent_utilization <- months %>%
   summarise(system_utilization = (sum(duration)/((as.integer(length(unique(months$bike_id)))*2592000))*100)) %>% 
   ungroup()
 
+
 #plot
 percent_utilization %>% 
   ggplot(mapping = aes(x = month, y= system_utilization, fill = system_utilization)) +
@@ -298,9 +316,15 @@ percent_utilization %>%
         legend.title = element_text(hjust = 0.5, angle = 90),
         legend.title.position = "right")
 
+#identify the usage per bike
+bike_data <- months %>%
+  group_by(bike_id, month) %>% 
+  summarise(Usage = sum(duration)) %>% 
+  ungroup()
+  
 
 
-#=============== Rush Hour Analysis ===============#
+#=============== Weather Analysis ===============#
 
 #combine trips dataset with weather dataset
 # identify columns to join on
@@ -315,8 +339,6 @@ joined_data <- trips %>%
 joined_data <- left_join(joined_data, stations, by = join_by("start_station_id" == "id"))
 
 #investigate how the weather affects bike usage
-library(corrplot)
-library(Hmisc)
 
 # create df with data to summarize
 # we will analyze each day, within each city, and join the weather for that date + city
