@@ -19,6 +19,68 @@ basic_eda(stations)
 basic_eda(trips)
 basic_eda(weather)
 
+
+#customized EDA
+
+#Find out how many trips start and stop at each station (traffic)
+stations_summary <- trips %>% 
+  group_by(start_station_id) %>% 
+  summarise(start_trips = n())
+
+
+stations_summary <- trips %>% 
+  group_by(end_station_id) %>% 
+  summarise(end_trips = n()) %>%
+  ungroup() %>% 
+  left_join(stations_summary, join_by("end_station_id" == "start_station_id")) %>%
+  left_join(stations, join_by("end_station_id" == "id")) %>% 
+  group_by(end_station_id) %>%
+  mutate(traffic = sum(start_trips) + sum(end_trips))
+
+
+#create a figure that summarizes station data
+library(ggplot2)
+ggplot(data = stations_summary, mapping = aes(x = reorder(name, traffic), y = traffic, fill = traffic)) +
+  geom_col() +
+  coord_flip()+
+  theme(axis.text.y = element_text(size = 5, vjust = 0.5))+
+  labs(y = "Traffic", x = "Station")
+
+
+#Summarise trips by mean duration over the course of the year
+trips_summary <- trips %>%
+  mutate(start_date = mdy_hm(start_date, tz = "UTC"),
+         month = month(start_date, label = T)) %>% 
+  group_by(month) %>% 
+  summarise(average_trip = mean(duration, na.rm = T))
+
+#plot the summary
+# Seems to be outliers, we will deal with this later
+ggplot(data = trips_summary, mapping = aes(x = month, y = average_trip, group = 1))+
+  geom_line()+
+  labs(y = "Average Trip Duration (Seconds)", x = "Month", title = "Average Trip Duration by Month") +
+  theme_classic()+
+  theme(plot.title = element_text(hjust = 0.5),
+        panel.grid.major.y = element_line(color = "gray", linetype = "dashed")) +
+  geom_label(aes(label = round(average_trip, 0)),
+             vjust = -0.5,
+             size = 2)
+  
+
+#summarise the weather data
+weather_summary <- weather %>%
+  mutate(month = month(mdy(date), label = T)) %>% 
+  group_by(month, city) %>% 
+  summarise(precip = sum(as.numeric(precipitation_inches), na.rm = T)) %>% 
+  ungroup()
+
+
+#plot a summary
+ggplot(data = weather_summary, mapping = aes(x = month, y = precip, color = city, group = city))+
+  geom_line() +
+  labs(y = "Total Precipitation by Month (In)", x = "Month", title = "Total Precipitation")+
+  theme(plot.title = element_text(hjust = 0.5))
+         
 #=============== Data Cleaning ===============#
 
 #import libraries
@@ -167,8 +229,10 @@ meanfreq = nrow(weekdays)/48
 ggplot(weekdays, mapping = aes(x = midpoint)) +
   geom_histogram(fill = "lightseagreen", bins = 48) +
   scale_x_datetime(date_labels = "%H:%S", breaks = "1 hour", minor_breaks = "30 min") +
-  theme(axis.text.x = element_text(size=7, angle = 70, vjust = 0.5)) +
-  geom_hline(yintercept = meanfreq)
+  theme(axis.text.x = element_text(size=7, angle = 70, vjust = 0.5),
+        plot.title = element_text(hjust = 0.5)) +
+  geom_hline(yintercept = meanfreq) +
+  labs(title = "Trip Frequency by Hour", y = "Trips", x = "Time of Day")
 
 #rush hours seem to be 7-10:30am and 4-8pm
 #create a df with rush hour boundaries
@@ -224,7 +288,15 @@ percent_utilization <- months %>%
 #plot
 percent_utilization %>% 
   ggplot(mapping = aes(x = month, y= system_utilization, fill = system_utilization)) +
-  geom_col() + scale_fill_gradient(low = "red", high = "forestgreen")
+  geom_col() + 
+  scale_fill_gradient(low = "red", high = "forestgreen", name = "System Utilization (%)")+
+  labs(title = "Bike Rental System Utilization (%)",
+       y = "",
+       x = "Month")+
+  theme(plot.title = element_text(hjust = 0.5),
+        legend.position = "left",
+        legend.title = element_text(hjust = 0.5, angle = 90),
+        legend.title.position = "right")
 
 
 
@@ -277,4 +349,3 @@ for(i in unique(joined_data_numeric$city)){
   #plot the matrix, hide insignificant results (i.e H0: pearson coefficient = 0)
   corrplot(cor_plot$r, method = "shade", title = i, p.mat = cor_plot$P, sig.level = 0.05,insig = "blank",tl.col = "black", tl.srt = 50, cl.pos = "b", cl.ratio = 0.7, mar = c(2, 2, 2, 5))
 }
-
