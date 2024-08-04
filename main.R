@@ -3,6 +3,14 @@
 # Author Youssef Emam
 # Set the wd to the repo homepage to run
 
+#load libraries
+#import libraries
+library(lubridate)
+library(tidyverse)
+library(ggplot2)
+library(scales)
+library(corrplot)
+library(Hmisc)
 
 
 #Import datasets
@@ -82,10 +90,6 @@ ggplot(data = weather_summary, mapping = aes(x = month, y = precip, color = city
   theme(plot.title = element_text(hjust = 0.5))
          
 #=============== Data Cleaning ===============#
-
-#import libraries
-library(lubridate)
-library(tidyverse)
 
 # Clean the stations dataset
 
@@ -189,11 +193,6 @@ weather$cloud_cover <- as.factor(weather$cloud_cover)
 
 
 #=============== Rush Hour Analysis ===============#
-
-
-#load libraries
-library(ggplot2)
-library(scales)
 
 #Identify highest traffic times on weekdays
 
@@ -315,8 +314,6 @@ joined_data <- trips %>%
 joined_data <- left_join(joined_data, stations, by = join_by("start_station_id" == "id"))
 
 #investigate how the weather affects bike usage
-library(corrplot)
-library(Hmisc)
 
 # create df with data to summarize
 # we will analyze each day, within each city, and join the weather for that date + city
