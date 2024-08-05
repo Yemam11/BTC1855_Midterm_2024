@@ -81,20 +81,20 @@ These trips were removed from the data set and stored in a separate
 file. A snapshot of this file can be seen below (see the HTML version of
 this document to use an interactive version of the complete table):
 
-<div id="fyxobdngzy" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#fyxobdngzy table {
+<div id="hbksivcsyg" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#hbksivcsyg table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-&#10;#fyxobdngzy thead, #fyxobdngzy tbody, #fyxobdngzy tfoot, #fyxobdngzy tr, #fyxobdngzy td, #fyxobdngzy th {
+&#10;#hbksivcsyg thead, #hbksivcsyg tbody, #hbksivcsyg tfoot, #hbksivcsyg tr, #hbksivcsyg td, #hbksivcsyg th {
   border-style: none;
 }
-&#10;#fyxobdngzy p {
+&#10;#hbksivcsyg p {
   margin: 0;
   padding: 0;
 }
-&#10;#fyxobdngzy .gt_table {
+&#10;#hbksivcsyg .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -119,11 +119,11 @@ this document to use an interactive version of the complete table):
   border-left-width: 2px;
   border-left-color: #D3D3D3;
 }
-&#10;#fyxobdngzy .gt_caption {
+&#10;#hbksivcsyg .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
-&#10;#fyxobdngzy .gt_title {
+&#10;#hbksivcsyg .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -134,7 +134,7 @@ this document to use an interactive version of the complete table):
   border-bottom-color: #FFFFFF;
   border-bottom-width: 0;
 }
-&#10;#fyxobdngzy .gt_subtitle {
+&#10;#hbksivcsyg .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -145,7 +145,7 @@ this document to use an interactive version of the complete table):
   border-top-color: #FFFFFF;
   border-top-width: 0;
 }
-&#10;#fyxobdngzy .gt_heading {
+&#10;#hbksivcsyg .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -156,12 +156,12 @@ this document to use an interactive version of the complete table):
   border-right-width: 1px;
   border-right-color: #D3D3D3;
 }
-&#10;#fyxobdngzy .gt_bottom_border {
+&#10;#hbksivcsyg .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#fyxobdngzy .gt_col_headings {
+&#10;#hbksivcsyg .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -175,7 +175,7 @@ this document to use an interactive version of the complete table):
   border-right-width: 1px;
   border-right-color: #D3D3D3;
 }
-&#10;#fyxobdngzy .gt_col_heading {
+&#10;#hbksivcsyg .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -194,7 +194,7 @@ this document to use an interactive version of the complete table):
   padding-right: 5px;
   overflow-x: hidden;
 }
-&#10;#fyxobdngzy .gt_column_spanner_outer {
+&#10;#hbksivcsyg .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -205,13 +205,13 @@ this document to use an interactive version of the complete table):
   padding-left: 4px;
   padding-right: 4px;
 }
-&#10;#fyxobdngzy .gt_column_spanner_outer:first-child {
+&#10;#hbksivcsyg .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
-&#10;#fyxobdngzy .gt_column_spanner_outer:last-child {
+&#10;#hbksivcsyg .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
-&#10;#fyxobdngzy .gt_column_spanner {
+&#10;#hbksivcsyg .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -222,10 +222,10 @@ this document to use an interactive version of the complete table):
   display: inline-block;
   width: 100%;
 }
-&#10;#fyxobdngzy .gt_spanner_row {
+&#10;#hbksivcsyg .gt_spanner_row {
   border-bottom-style: hidden;
 }
-&#10;#fyxobdngzy .gt_group_heading {
+&#10;#hbksivcsyg .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -250,7 +250,7 @@ this document to use an interactive version of the complete table):
   vertical-align: middle;
   text-align: left;
 }
-&#10;#fyxobdngzy .gt_empty_group_heading {
+&#10;#hbksivcsyg .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -264,13 +264,13 @@ this document to use an interactive version of the complete table):
   border-bottom-color: #D3D3D3;
   vertical-align: middle;
 }
-&#10;#fyxobdngzy .gt_from_md > :first-child {
+&#10;#hbksivcsyg .gt_from_md > :first-child {
   margin-top: 0;
 }
-&#10;#fyxobdngzy .gt_from_md > :last-child {
+&#10;#hbksivcsyg .gt_from_md > :last-child {
   margin-bottom: 0;
 }
-&#10;#fyxobdngzy .gt_row {
+&#10;#hbksivcsyg .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -288,7 +288,7 @@ this document to use an interactive version of the complete table):
   vertical-align: middle;
   overflow-x: hidden;
 }
-&#10;#fyxobdngzy .gt_stub {
+&#10;#hbksivcsyg .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -300,7 +300,7 @@ this document to use an interactive version of the complete table):
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#fyxobdngzy .gt_stub_row_group {
+&#10;#hbksivcsyg .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -313,13 +313,13 @@ this document to use an interactive version of the complete table):
   padding-right: 5px;
   vertical-align: top;
 }
-&#10;#fyxobdngzy .gt_row_group_first td {
+&#10;#hbksivcsyg .gt_row_group_first td {
   border-top-width: 2px;
 }
-&#10;#fyxobdngzy .gt_row_group_first th {
+&#10;#hbksivcsyg .gt_row_group_first th {
   border-top-width: 2px;
 }
-&#10;#fyxobdngzy .gt_summary_row {
+&#10;#hbksivcsyg .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -328,14 +328,14 @@ this document to use an interactive version of the complete table):
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#fyxobdngzy .gt_first_summary_row {
+&#10;#hbksivcsyg .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
-&#10;#fyxobdngzy .gt_first_summary_row.thick {
+&#10;#hbksivcsyg .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
-&#10;#fyxobdngzy .gt_last_summary_row {
+&#10;#hbksivcsyg .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -344,7 +344,7 @@ this document to use an interactive version of the complete table):
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#fyxobdngzy .gt_grand_summary_row {
+&#10;#hbksivcsyg .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -353,7 +353,7 @@ this document to use an interactive version of the complete table):
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#fyxobdngzy .gt_first_grand_summary_row {
+&#10;#hbksivcsyg .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -362,7 +362,7 @@ this document to use an interactive version of the complete table):
   border-top-width: 6px;
   border-top-color: #D3D3D3;
 }
-&#10;#fyxobdngzy .gt_last_grand_summary_row_top {
+&#10;#hbksivcsyg .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -371,10 +371,10 @@ this document to use an interactive version of the complete table):
   border-bottom-width: 6px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#fyxobdngzy .gt_striped {
+&#10;#hbksivcsyg .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
-&#10;#fyxobdngzy .gt_table_body {
+&#10;#hbksivcsyg .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -382,7 +382,7 @@ this document to use an interactive version of the complete table):
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#fyxobdngzy .gt_footnotes {
+&#10;#hbksivcsyg .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -395,7 +395,7 @@ this document to use an interactive version of the complete table):
   border-right-width: 2px;
   border-right-color: #D3D3D3;
 }
-&#10;#fyxobdngzy .gt_footnote {
+&#10;#hbksivcsyg .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -403,7 +403,7 @@ this document to use an interactive version of the complete table):
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#fyxobdngzy .gt_sourcenotes {
+&#10;#hbksivcsyg .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -416,64 +416,64 @@ this document to use an interactive version of the complete table):
   border-right-width: 2px;
   border-right-color: #D3D3D3;
 }
-&#10;#fyxobdngzy .gt_sourcenote {
+&#10;#hbksivcsyg .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#fyxobdngzy .gt_left {
+&#10;#hbksivcsyg .gt_left {
   text-align: left;
 }
-&#10;#fyxobdngzy .gt_center {
+&#10;#hbksivcsyg .gt_center {
   text-align: center;
 }
-&#10;#fyxobdngzy .gt_right {
+&#10;#hbksivcsyg .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
-&#10;#fyxobdngzy .gt_font_normal {
+&#10;#hbksivcsyg .gt_font_normal {
   font-weight: normal;
 }
-&#10;#fyxobdngzy .gt_font_bold {
+&#10;#hbksivcsyg .gt_font_bold {
   font-weight: bold;
 }
-&#10;#fyxobdngzy .gt_font_italic {
+&#10;#hbksivcsyg .gt_font_italic {
   font-style: italic;
 }
-&#10;#fyxobdngzy .gt_super {
+&#10;#hbksivcsyg .gt_super {
   font-size: 65%;
 }
-&#10;#fyxobdngzy .gt_footnote_marks {
+&#10;#hbksivcsyg .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
-&#10;#fyxobdngzy .gt_asterisk {
+&#10;#hbksivcsyg .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
-&#10;#fyxobdngzy .gt_indent_1 {
+&#10;#hbksivcsyg .gt_indent_1 {
   text-indent: 5px;
 }
-&#10;#fyxobdngzy .gt_indent_2 {
+&#10;#hbksivcsyg .gt_indent_2 {
   text-indent: 10px;
 }
-&#10;#fyxobdngzy .gt_indent_3 {
+&#10;#hbksivcsyg .gt_indent_3 {
   text-indent: 15px;
 }
-&#10;#fyxobdngzy .gt_indent_4 {
+&#10;#hbksivcsyg .gt_indent_4 {
   text-indent: 20px;
 }
-&#10;#fyxobdngzy .gt_indent_5 {
+&#10;#hbksivcsyg .gt_indent_5 {
   text-indent: 25px;
 }
-&#10;#fyxobdngzy .katex-display {
+&#10;#hbksivcsyg .katex-display {
   display: inline-flex !important;
   margin-bottom: 0.75em !important;
 }
-&#10;#fyxobdngzy div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+&#10;#hbksivcsyg div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
   height: 0px !important;
 }
 </style>
@@ -674,870 +674,80 @@ grouped by station, filtered by time (within rush hour boundaries
 established above), and the frequency of trips beginning at that station
 can be counted. These results can be visualized below:
 
-<div id="xhekagklbh" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#xhekagklbh table {
-  font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-&#10;#xhekagklbh thead, #xhekagklbh tbody, #xhekagklbh tfoot, #xhekagklbh tr, #xhekagklbh td, #xhekagklbh th {
-  border-style: none;
-}
-&#10;#xhekagklbh p {
-  margin: 0;
-  padding: 0;
-}
-&#10;#xhekagklbh .gt_table {
-  display: table;
-  border-collapse: collapse;
-  line-height: normal;
-  margin-left: auto;
-  margin-right: auto;
-  color: #333333;
-  font-size: 16px;
-  font-weight: normal;
-  font-style: normal;
-  background-color: #FFFFFF;
-  width: auto;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #A8A8A8;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #A8A8A8;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-}
-&#10;#xhekagklbh .gt_caption {
-  padding-top: 4px;
-  padding-bottom: 4px;
-}
-&#10;#xhekagklbh .gt_title {
-  color: #333333;
-  font-size: 125%;
-  font-weight: initial;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-bottom-color: #FFFFFF;
-  border-bottom-width: 0;
-}
-&#10;#xhekagklbh .gt_subtitle {
-  color: #333333;
-  font-size: 85%;
-  font-weight: initial;
-  padding-top: 3px;
-  padding-bottom: 5px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-top-color: #FFFFFF;
-  border-top-width: 0;
-}
-&#10;#xhekagklbh .gt_heading {
-  background-color: #FFFFFF;
-  text-align: center;
-  border-bottom-color: #FFFFFF;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-}
-&#10;#xhekagklbh .gt_bottom_border {
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-&#10;#xhekagklbh .gt_col_headings {
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-}
-&#10;#xhekagklbh .gt_col_heading {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: normal;
-  text-transform: inherit;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: bottom;
-  padding-top: 5px;
-  padding-bottom: 6px;
-  padding-left: 5px;
-  padding-right: 5px;
-  overflow-x: hidden;
-}
-&#10;#xhekagklbh .gt_column_spanner_outer {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: normal;
-  text-transform: inherit;
-  padding-top: 0;
-  padding-bottom: 0;
-  padding-left: 4px;
-  padding-right: 4px;
-}
-&#10;#xhekagklbh .gt_column_spanner_outer:first-child {
-  padding-left: 0;
-}
-&#10;#xhekagklbh .gt_column_spanner_outer:last-child {
-  padding-right: 0;
-}
-&#10;#xhekagklbh .gt_column_spanner {
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  vertical-align: bottom;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  overflow-x: hidden;
-  display: inline-block;
-  width: 100%;
-}
-&#10;#xhekagklbh .gt_spanner_row {
-  border-bottom-style: hidden;
-}
-&#10;#xhekagklbh .gt_group_heading {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: middle;
-  text-align: left;
-}
-&#10;#xhekagklbh .gt_empty_group_heading {
-  padding: 0.5px;
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  vertical-align: middle;
-}
-&#10;#xhekagklbh .gt_from_md > :first-child {
-  margin-top: 0;
-}
-&#10;#xhekagklbh .gt_from_md > :last-child {
-  margin-bottom: 0;
-}
-&#10;#xhekagklbh .gt_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  margin: 10px;
-  border-top-style: solid;
-  border-top-width: 1px;
-  border-top-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: middle;
-  overflow-x: hidden;
-}
-&#10;#xhekagklbh .gt_stub {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-right-style: solid;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-&#10;#xhekagklbh .gt_stub_row_group {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-right-style: solid;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  padding-left: 5px;
-  padding-right: 5px;
-  vertical-align: top;
-}
-&#10;#xhekagklbh .gt_row_group_first td {
-  border-top-width: 2px;
-}
-&#10;#xhekagklbh .gt_row_group_first th {
-  border-top-width: 2px;
-}
-&#10;#xhekagklbh .gt_summary_row {
-  color: #333333;
-  background-color: #FFFFFF;
-  text-transform: inherit;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-&#10;#xhekagklbh .gt_first_summary_row {
-  border-top-style: solid;
-  border-top-color: #D3D3D3;
-}
-&#10;#xhekagklbh .gt_first_summary_row.thick {
-  border-top-width: 2px;
-}
-&#10;#xhekagklbh .gt_last_summary_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-&#10;#xhekagklbh .gt_grand_summary_row {
-  color: #333333;
-  background-color: #FFFFFF;
-  text-transform: inherit;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-&#10;#xhekagklbh .gt_first_grand_summary_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-top-style: double;
-  border-top-width: 6px;
-  border-top-color: #D3D3D3;
-}
-&#10;#xhekagklbh .gt_last_grand_summary_row_top {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-bottom-style: double;
-  border-bottom-width: 6px;
-  border-bottom-color: #D3D3D3;
-}
-&#10;#xhekagklbh .gt_striped {
-  background-color: rgba(128, 128, 128, 0.05);
-}
-&#10;#xhekagklbh .gt_table_body {
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-&#10;#xhekagklbh .gt_footnotes {
-  color: #333333;
-  background-color: #FFFFFF;
-  border-bottom-style: none;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-}
-&#10;#xhekagklbh .gt_footnote {
-  margin: 0px;
-  font-size: 90%;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-&#10;#xhekagklbh .gt_sourcenotes {
-  color: #333333;
-  background-color: #FFFFFF;
-  border-bottom-style: none;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-}
-&#10;#xhekagklbh .gt_sourcenote {
-  font-size: 90%;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-&#10;#xhekagklbh .gt_left {
-  text-align: left;
-}
-&#10;#xhekagklbh .gt_center {
-  text-align: center;
-}
-&#10;#xhekagklbh .gt_right {
-  text-align: right;
-  font-variant-numeric: tabular-nums;
-}
-&#10;#xhekagklbh .gt_font_normal {
-  font-weight: normal;
-}
-&#10;#xhekagklbh .gt_font_bold {
-  font-weight: bold;
-}
-&#10;#xhekagklbh .gt_font_italic {
-  font-style: italic;
-}
-&#10;#xhekagklbh .gt_super {
-  font-size: 65%;
-}
-&#10;#xhekagklbh .gt_footnote_marks {
-  font-size: 75%;
-  vertical-align: 0.4em;
-  position: initial;
-}
-&#10;#xhekagklbh .gt_asterisk {
-  font-size: 100%;
-  vertical-align: 0;
-}
-&#10;#xhekagklbh .gt_indent_1 {
-  text-indent: 5px;
-}
-&#10;#xhekagklbh .gt_indent_2 {
-  text-indent: 10px;
-}
-&#10;#xhekagklbh .gt_indent_3 {
-  text-indent: 15px;
-}
-&#10;#xhekagklbh .gt_indent_4 {
-  text-indent: 20px;
-}
-&#10;#xhekagklbh .gt_indent_5 {
-  text-indent: 25px;
-}
-&#10;#xhekagklbh .katex-display {
-  display: inline-flex !important;
-  margin-bottom: 0.75em !important;
-}
-&#10;#xhekagklbh div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
-  height: 0px !important;
-}
-</style>
-<table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false">
-  <thead>
-    <tr class="gt_heading">
-      <td colspan="2" class="gt_heading gt_title gt_font_normal" style>Most Frequent Starting Locations</td>
+<div id="kfpyidsxni" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+  &#10;  <table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; display: table; border-collapse: collapse; line-height: normal; margin-left: auto; margin-right: auto; color: #333333; font-size: 16px; font-weight: normal; font-style: normal; background-color: #FFFFFF; width: auto; border-top-style: solid; border-top-width: 2px; border-top-color: #A8A8A8; border-right-style: none; border-right-width: 2px; border-right-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #A8A8A8; border-left-style: none; border-left-width: 2px; border-left-color: #D3D3D3;" bgcolor="#FFFFFF">
+  <thead style="border-style: none;">
+    <tr class="gt_heading" style="border-style: none; background-color: #FFFFFF; text-align: center; border-bottom-color: #FFFFFF; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3;" bgcolor="#FFFFFF" align="center">
+      <td colspan="2" class="gt_heading gt_title gt_font_normal" style="border-style: none; color: #333333; font-size: 125%; padding-top: 4px; padding-bottom: 4px; padding-left: 5px; padding-right: 5px; border-bottom-width: 0; background-color: #FFFFFF; text-align: center; border-bottom-color: #FFFFFF; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; font-weight: normal;" bgcolor="#FFFFFF" align="center">Most Frequent Starting Locations</td>
     </tr>
-    <tr class="gt_heading">
-      <td colspan="2" class="gt_heading gt_subtitle gt_font_normal gt_bottom_border" style>During Rush Hours</td>
+    <tr class="gt_heading" style="border-style: none; background-color: #FFFFFF; text-align: center; border-bottom-color: #FFFFFF; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3;" bgcolor="#FFFFFF" align="center">
+      <td colspan="2" class="gt_heading gt_subtitle gt_font_normal gt_bottom_border" style="border-style: none; color: #333333; font-size: 85%; padding-top: 3px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px; border-top-color: #FFFFFF; border-top-width: 0; background-color: #FFFFFF; text-align: center; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #D3D3D3; font-weight: normal;" bgcolor="#FFFFFF" align="center">During Rush Hours</td>
     </tr>
-    <tr class="gt_col_headings">
-      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1" scope="col" id="start_station_name">start_station_name</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1" scope="col" id="number">number</th>
+    <tr class="gt_col_headings" style="border-style: none; border-top-style: solid; border-top-width: 2px; border-top-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3;">
+      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1" scope="col" id="start_station_name" style="border-style: none; color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: normal; text-transform: inherit; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: bottom; padding-top: 5px; padding-bottom: 6px; padding-left: 5px; padding-right: 5px; overflow-x: hidden; text-align: center;" bgcolor="#FFFFFF" valign="bottom" align="center">start_station_name</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1" scope="col" id="number" style="border-style: none; color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: normal; text-transform: inherit; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: bottom; padding-top: 5px; padding-bottom: 6px; padding-left: 5px; padding-right: 5px; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" bgcolor="#FFFFFF" valign="bottom" align="right">number</th>
     </tr>
   </thead>
-  <tbody class="gt_table_body">
-    <tr><td headers="start_station_name" class="gt_row gt_center">San Francisco Caltrain (Townsend at 4th)</td>
-<td headers="number" class="gt_row gt_right">19804</td></tr>
-    <tr><td headers="start_station_name" class="gt_row gt_center">San Francisco Caltrain 2 (330 Townsend)</td>
-<td headers="number" class="gt_row gt_right">11412</td></tr>
-    <tr><td headers="start_station_name" class="gt_row gt_center">Temporary Transbay Terminal (Howard at Beale)</td>
-<td headers="number" class="gt_row gt_right">10093</td></tr>
-    <tr><td headers="start_station_name" class="gt_row gt_center">Harry Bridges Plaza (Ferry Building)</td>
-<td headers="number" class="gt_row gt_right">8511</td></tr>
-    <tr><td headers="start_station_name" class="gt_row gt_center">2nd at Townsend</td>
-<td headers="number" class="gt_row gt_right">7938</td></tr>
-    <tr><td headers="start_station_name" class="gt_row gt_center">Steuart at Market</td>
-<td headers="number" class="gt_row gt_right">7865</td></tr>
-    <tr><td headers="start_station_name" class="gt_row gt_center">Market at Sansome</td>
-<td headers="number" class="gt_row gt_right">7456</td></tr>
-    <tr><td headers="start_station_name" class="gt_row gt_center">Townsend at 7th</td>
-<td headers="number" class="gt_row gt_right">7184</td></tr>
-    <tr><td headers="start_station_name" class="gt_row gt_center">Market at 10th</td>
-<td headers="number" class="gt_row gt_right">6181</td></tr>
-    <tr><td headers="start_station_name" class="gt_row gt_center">Embarcadero at Sansome</td>
-<td headers="number" class="gt_row gt_right">6024</td></tr>
+  <tbody class="gt_table_body" style="border-style: none; border-top-style: solid; border-top-width: 2px; border-top-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #D3D3D3;">
+    <tr style="border-style: none;"><td headers="start_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">San Francisco Caltrain (Townsend at 4th)</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">19804</td></tr>
+    <tr style="border-style: none;"><td headers="start_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">San Francisco Caltrain 2 (330 Townsend)</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">11412</td></tr>
+    <tr style="border-style: none;"><td headers="start_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Temporary Transbay Terminal (Howard at Beale)</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">10093</td></tr>
+    <tr style="border-style: none;"><td headers="start_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Harry Bridges Plaza (Ferry Building)</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">8511</td></tr>
+    <tr style="border-style: none;"><td headers="start_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">2nd at Townsend</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">7938</td></tr>
+    <tr style="border-style: none;"><td headers="start_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Steuart at Market</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">7865</td></tr>
+    <tr style="border-style: none;"><td headers="start_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Market at Sansome</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">7456</td></tr>
+    <tr style="border-style: none;"><td headers="start_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Townsend at 7th</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">7184</td></tr>
+    <tr style="border-style: none;"><td headers="start_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Market at 10th</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">6181</td></tr>
+    <tr style="border-style: none;"><td headers="start_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Embarcadero at Sansome</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">6024</td></tr>
   </tbody>
   &#10;  
 </table>
 </div>
-<div id="wunnojjqmm" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#wunnojjqmm table {
-  font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-&#10;#wunnojjqmm thead, #wunnojjqmm tbody, #wunnojjqmm tfoot, #wunnojjqmm tr, #wunnojjqmm td, #wunnojjqmm th {
-  border-style: none;
-}
-&#10;#wunnojjqmm p {
-  margin: 0;
-  padding: 0;
-}
-&#10;#wunnojjqmm .gt_table {
-  display: table;
-  border-collapse: collapse;
-  line-height: normal;
-  margin-left: auto;
-  margin-right: auto;
-  color: #333333;
-  font-size: 16px;
-  font-weight: normal;
-  font-style: normal;
-  background-color: #FFFFFF;
-  width: auto;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #A8A8A8;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #A8A8A8;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-}
-&#10;#wunnojjqmm .gt_caption {
-  padding-top: 4px;
-  padding-bottom: 4px;
-}
-&#10;#wunnojjqmm .gt_title {
-  color: #333333;
-  font-size: 125%;
-  font-weight: initial;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-bottom-color: #FFFFFF;
-  border-bottom-width: 0;
-}
-&#10;#wunnojjqmm .gt_subtitle {
-  color: #333333;
-  font-size: 85%;
-  font-weight: initial;
-  padding-top: 3px;
-  padding-bottom: 5px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-top-color: #FFFFFF;
-  border-top-width: 0;
-}
-&#10;#wunnojjqmm .gt_heading {
-  background-color: #FFFFFF;
-  text-align: center;
-  border-bottom-color: #FFFFFF;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-}
-&#10;#wunnojjqmm .gt_bottom_border {
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-&#10;#wunnojjqmm .gt_col_headings {
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-}
-&#10;#wunnojjqmm .gt_col_heading {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: normal;
-  text-transform: inherit;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: bottom;
-  padding-top: 5px;
-  padding-bottom: 6px;
-  padding-left: 5px;
-  padding-right: 5px;
-  overflow-x: hidden;
-}
-&#10;#wunnojjqmm .gt_column_spanner_outer {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: normal;
-  text-transform: inherit;
-  padding-top: 0;
-  padding-bottom: 0;
-  padding-left: 4px;
-  padding-right: 4px;
-}
-&#10;#wunnojjqmm .gt_column_spanner_outer:first-child {
-  padding-left: 0;
-}
-&#10;#wunnojjqmm .gt_column_spanner_outer:last-child {
-  padding-right: 0;
-}
-&#10;#wunnojjqmm .gt_column_spanner {
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  vertical-align: bottom;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  overflow-x: hidden;
-  display: inline-block;
-  width: 100%;
-}
-&#10;#wunnojjqmm .gt_spanner_row {
-  border-bottom-style: hidden;
-}
-&#10;#wunnojjqmm .gt_group_heading {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: middle;
-  text-align: left;
-}
-&#10;#wunnojjqmm .gt_empty_group_heading {
-  padding: 0.5px;
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  vertical-align: middle;
-}
-&#10;#wunnojjqmm .gt_from_md > :first-child {
-  margin-top: 0;
-}
-&#10;#wunnojjqmm .gt_from_md > :last-child {
-  margin-bottom: 0;
-}
-&#10;#wunnojjqmm .gt_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  margin: 10px;
-  border-top-style: solid;
-  border-top-width: 1px;
-  border-top-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: middle;
-  overflow-x: hidden;
-}
-&#10;#wunnojjqmm .gt_stub {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-right-style: solid;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-&#10;#wunnojjqmm .gt_stub_row_group {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-right-style: solid;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  padding-left: 5px;
-  padding-right: 5px;
-  vertical-align: top;
-}
-&#10;#wunnojjqmm .gt_row_group_first td {
-  border-top-width: 2px;
-}
-&#10;#wunnojjqmm .gt_row_group_first th {
-  border-top-width: 2px;
-}
-&#10;#wunnojjqmm .gt_summary_row {
-  color: #333333;
-  background-color: #FFFFFF;
-  text-transform: inherit;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-&#10;#wunnojjqmm .gt_first_summary_row {
-  border-top-style: solid;
-  border-top-color: #D3D3D3;
-}
-&#10;#wunnojjqmm .gt_first_summary_row.thick {
-  border-top-width: 2px;
-}
-&#10;#wunnojjqmm .gt_last_summary_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-&#10;#wunnojjqmm .gt_grand_summary_row {
-  color: #333333;
-  background-color: #FFFFFF;
-  text-transform: inherit;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-&#10;#wunnojjqmm .gt_first_grand_summary_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-top-style: double;
-  border-top-width: 6px;
-  border-top-color: #D3D3D3;
-}
-&#10;#wunnojjqmm .gt_last_grand_summary_row_top {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-bottom-style: double;
-  border-bottom-width: 6px;
-  border-bottom-color: #D3D3D3;
-}
-&#10;#wunnojjqmm .gt_striped {
-  background-color: rgba(128, 128, 128, 0.05);
-}
-&#10;#wunnojjqmm .gt_table_body {
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-&#10;#wunnojjqmm .gt_footnotes {
-  color: #333333;
-  background-color: #FFFFFF;
-  border-bottom-style: none;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-}
-&#10;#wunnojjqmm .gt_footnote {
-  margin: 0px;
-  font-size: 90%;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-&#10;#wunnojjqmm .gt_sourcenotes {
-  color: #333333;
-  background-color: #FFFFFF;
-  border-bottom-style: none;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-}
-&#10;#wunnojjqmm .gt_sourcenote {
-  font-size: 90%;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-&#10;#wunnojjqmm .gt_left {
-  text-align: left;
-}
-&#10;#wunnojjqmm .gt_center {
-  text-align: center;
-}
-&#10;#wunnojjqmm .gt_right {
-  text-align: right;
-  font-variant-numeric: tabular-nums;
-}
-&#10;#wunnojjqmm .gt_font_normal {
-  font-weight: normal;
-}
-&#10;#wunnojjqmm .gt_font_bold {
-  font-weight: bold;
-}
-&#10;#wunnojjqmm .gt_font_italic {
-  font-style: italic;
-}
-&#10;#wunnojjqmm .gt_super {
-  font-size: 65%;
-}
-&#10;#wunnojjqmm .gt_footnote_marks {
-  font-size: 75%;
-  vertical-align: 0.4em;
-  position: initial;
-}
-&#10;#wunnojjqmm .gt_asterisk {
-  font-size: 100%;
-  vertical-align: 0;
-}
-&#10;#wunnojjqmm .gt_indent_1 {
-  text-indent: 5px;
-}
-&#10;#wunnojjqmm .gt_indent_2 {
-  text-indent: 10px;
-}
-&#10;#wunnojjqmm .gt_indent_3 {
-  text-indent: 15px;
-}
-&#10;#wunnojjqmm .gt_indent_4 {
-  text-indent: 20px;
-}
-&#10;#wunnojjqmm .gt_indent_5 {
-  text-indent: 25px;
-}
-&#10;#wunnojjqmm .katex-display {
-  display: inline-flex !important;
-  margin-bottom: 0.75em !important;
-}
-&#10;#wunnojjqmm div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
-  height: 0px !important;
-}
-</style>
-<table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false">
-  <thead>
-    <tr class="gt_heading">
-      <td colspan="2" class="gt_heading gt_title gt_font_normal" style>Most Frequent Ending Stations</td>
+<div id="eeqfebsqex" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+  &#10;  <table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; display: table; border-collapse: collapse; line-height: normal; margin-left: auto; margin-right: auto; color: #333333; font-size: 16px; font-weight: normal; font-style: normal; background-color: #FFFFFF; width: auto; border-top-style: solid; border-top-width: 2px; border-top-color: #A8A8A8; border-right-style: none; border-right-width: 2px; border-right-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #A8A8A8; border-left-style: none; border-left-width: 2px; border-left-color: #D3D3D3;" bgcolor="#FFFFFF">
+  <thead style="border-style: none;">
+    <tr class="gt_heading" style="border-style: none; background-color: #FFFFFF; text-align: center; border-bottom-color: #FFFFFF; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3;" bgcolor="#FFFFFF" align="center">
+      <td colspan="2" class="gt_heading gt_title gt_font_normal" style="border-style: none; color: #333333; font-size: 125%; padding-top: 4px; padding-bottom: 4px; padding-left: 5px; padding-right: 5px; border-bottom-width: 0; background-color: #FFFFFF; text-align: center; border-bottom-color: #FFFFFF; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; font-weight: normal;" bgcolor="#FFFFFF" align="center">Most Frequent Ending Stations</td>
     </tr>
-    <tr class="gt_heading">
-      <td colspan="2" class="gt_heading gt_subtitle gt_font_normal gt_bottom_border" style>During Rush Hours</td>
+    <tr class="gt_heading" style="border-style: none; background-color: #FFFFFF; text-align: center; border-bottom-color: #FFFFFF; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3;" bgcolor="#FFFFFF" align="center">
+      <td colspan="2" class="gt_heading gt_subtitle gt_font_normal gt_bottom_border" style="border-style: none; color: #333333; font-size: 85%; padding-top: 3px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px; border-top-color: #FFFFFF; border-top-width: 0; background-color: #FFFFFF; text-align: center; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #D3D3D3; font-weight: normal;" bgcolor="#FFFFFF" align="center">During Rush Hours</td>
     </tr>
-    <tr class="gt_col_headings">
-      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1" scope="col" id="end_station_name">end_station_name</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1" scope="col" id="number">number</th>
+    <tr class="gt_col_headings" style="border-style: none; border-top-style: solid; border-top-width: 2px; border-top-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3;">
+      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1" scope="col" id="end_station_name" style="border-style: none; color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: normal; text-transform: inherit; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: bottom; padding-top: 5px; padding-bottom: 6px; padding-left: 5px; padding-right: 5px; overflow-x: hidden; text-align: center;" bgcolor="#FFFFFF" valign="bottom" align="center">end_station_name</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1" scope="col" id="number" style="border-style: none; color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: normal; text-transform: inherit; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: bottom; padding-top: 5px; padding-bottom: 6px; padding-left: 5px; padding-right: 5px; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" bgcolor="#FFFFFF" valign="bottom" align="right">number</th>
     </tr>
   </thead>
-  <tbody class="gt_table_body">
-    <tr><td headers="end_station_name" class="gt_row gt_center">San Francisco Caltrain (Townsend at 4th)</td>
-<td headers="number" class="gt_row gt_right">25520</td></tr>
-    <tr><td headers="end_station_name" class="gt_row gt_center">San Francisco Caltrain 2 (330 Townsend)</td>
-<td headers="number" class="gt_row gt_right">11252</td></tr>
-    <tr><td headers="end_station_name" class="gt_row gt_center">2nd at Townsend</td>
-<td headers="number" class="gt_row gt_right">9073</td></tr>
-    <tr><td headers="end_station_name" class="gt_row gt_center">Market at Sansome</td>
-<td headers="number" class="gt_row gt_right">9055</td></tr>
-    <tr><td headers="end_station_name" class="gt_row gt_center">Temporary Transbay Terminal (Howard at Beale)</td>
-<td headers="number" class="gt_row gt_right">8590</td></tr>
-    <tr><td headers="end_station_name" class="gt_row gt_center">Harry Bridges Plaza (Ferry Building)</td>
-<td headers="number" class="gt_row gt_right">8363</td></tr>
-    <tr><td headers="end_station_name" class="gt_row gt_center">Townsend at 7th</td>
-<td headers="number" class="gt_row gt_right">8251</td></tr>
-    <tr><td headers="end_station_name" class="gt_row gt_center">Steuart at Market</td>
-<td headers="number" class="gt_row gt_right">7842</td></tr>
-    <tr><td headers="end_station_name" class="gt_row gt_center">Embarcadero at Sansome</td>
-<td headers="number" class="gt_row gt_right">5980</td></tr>
-    <tr><td headers="end_station_name" class="gt_row gt_center">2nd at South Park</td>
-<td headers="number" class="gt_row gt_right">5433</td></tr>
+  <tbody class="gt_table_body" style="border-style: none; border-top-style: solid; border-top-width: 2px; border-top-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #D3D3D3;">
+    <tr style="border-style: none;"><td headers="end_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">San Francisco Caltrain (Townsend at 4th)</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">25520</td></tr>
+    <tr style="border-style: none;"><td headers="end_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">San Francisco Caltrain 2 (330 Townsend)</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">11252</td></tr>
+    <tr style="border-style: none;"><td headers="end_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">2nd at Townsend</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">9073</td></tr>
+    <tr style="border-style: none;"><td headers="end_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Market at Sansome</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">9055</td></tr>
+    <tr style="border-style: none;"><td headers="end_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Temporary Transbay Terminal (Howard at Beale)</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">8590</td></tr>
+    <tr style="border-style: none;"><td headers="end_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Harry Bridges Plaza (Ferry Building)</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">8363</td></tr>
+    <tr style="border-style: none;"><td headers="end_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Townsend at 7th</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">8251</td></tr>
+    <tr style="border-style: none;"><td headers="end_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Steuart at Market</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">7842</td></tr>
+    <tr style="border-style: none;"><td headers="end_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Embarcadero at Sansome</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">5980</td></tr>
+    <tr style="border-style: none;"><td headers="end_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">2nd at South Park</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">5433</td></tr>
   </tbody>
   &#10;  
 </table>
@@ -1546,870 +756,80 @@ can be counted. These results can be visualized below:
 The same methodology can be employed to identify the busiest stations on
 weekends:
 
-<div id="xbpsdugsxr" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#xbpsdugsxr table {
-  font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-&#10;#xbpsdugsxr thead, #xbpsdugsxr tbody, #xbpsdugsxr tfoot, #xbpsdugsxr tr, #xbpsdugsxr td, #xbpsdugsxr th {
-  border-style: none;
-}
-&#10;#xbpsdugsxr p {
-  margin: 0;
-  padding: 0;
-}
-&#10;#xbpsdugsxr .gt_table {
-  display: table;
-  border-collapse: collapse;
-  line-height: normal;
-  margin-left: auto;
-  margin-right: auto;
-  color: #333333;
-  font-size: 16px;
-  font-weight: normal;
-  font-style: normal;
-  background-color: #FFFFFF;
-  width: auto;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #A8A8A8;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #A8A8A8;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-}
-&#10;#xbpsdugsxr .gt_caption {
-  padding-top: 4px;
-  padding-bottom: 4px;
-}
-&#10;#xbpsdugsxr .gt_title {
-  color: #333333;
-  font-size: 125%;
-  font-weight: initial;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-bottom-color: #FFFFFF;
-  border-bottom-width: 0;
-}
-&#10;#xbpsdugsxr .gt_subtitle {
-  color: #333333;
-  font-size: 85%;
-  font-weight: initial;
-  padding-top: 3px;
-  padding-bottom: 5px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-top-color: #FFFFFF;
-  border-top-width: 0;
-}
-&#10;#xbpsdugsxr .gt_heading {
-  background-color: #FFFFFF;
-  text-align: center;
-  border-bottom-color: #FFFFFF;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-}
-&#10;#xbpsdugsxr .gt_bottom_border {
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-&#10;#xbpsdugsxr .gt_col_headings {
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-}
-&#10;#xbpsdugsxr .gt_col_heading {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: normal;
-  text-transform: inherit;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: bottom;
-  padding-top: 5px;
-  padding-bottom: 6px;
-  padding-left: 5px;
-  padding-right: 5px;
-  overflow-x: hidden;
-}
-&#10;#xbpsdugsxr .gt_column_spanner_outer {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: normal;
-  text-transform: inherit;
-  padding-top: 0;
-  padding-bottom: 0;
-  padding-left: 4px;
-  padding-right: 4px;
-}
-&#10;#xbpsdugsxr .gt_column_spanner_outer:first-child {
-  padding-left: 0;
-}
-&#10;#xbpsdugsxr .gt_column_spanner_outer:last-child {
-  padding-right: 0;
-}
-&#10;#xbpsdugsxr .gt_column_spanner {
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  vertical-align: bottom;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  overflow-x: hidden;
-  display: inline-block;
-  width: 100%;
-}
-&#10;#xbpsdugsxr .gt_spanner_row {
-  border-bottom-style: hidden;
-}
-&#10;#xbpsdugsxr .gt_group_heading {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: middle;
-  text-align: left;
-}
-&#10;#xbpsdugsxr .gt_empty_group_heading {
-  padding: 0.5px;
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  vertical-align: middle;
-}
-&#10;#xbpsdugsxr .gt_from_md > :first-child {
-  margin-top: 0;
-}
-&#10;#xbpsdugsxr .gt_from_md > :last-child {
-  margin-bottom: 0;
-}
-&#10;#xbpsdugsxr .gt_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  margin: 10px;
-  border-top-style: solid;
-  border-top-width: 1px;
-  border-top-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: middle;
-  overflow-x: hidden;
-}
-&#10;#xbpsdugsxr .gt_stub {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-right-style: solid;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-&#10;#xbpsdugsxr .gt_stub_row_group {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-right-style: solid;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  padding-left: 5px;
-  padding-right: 5px;
-  vertical-align: top;
-}
-&#10;#xbpsdugsxr .gt_row_group_first td {
-  border-top-width: 2px;
-}
-&#10;#xbpsdugsxr .gt_row_group_first th {
-  border-top-width: 2px;
-}
-&#10;#xbpsdugsxr .gt_summary_row {
-  color: #333333;
-  background-color: #FFFFFF;
-  text-transform: inherit;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-&#10;#xbpsdugsxr .gt_first_summary_row {
-  border-top-style: solid;
-  border-top-color: #D3D3D3;
-}
-&#10;#xbpsdugsxr .gt_first_summary_row.thick {
-  border-top-width: 2px;
-}
-&#10;#xbpsdugsxr .gt_last_summary_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-&#10;#xbpsdugsxr .gt_grand_summary_row {
-  color: #333333;
-  background-color: #FFFFFF;
-  text-transform: inherit;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-&#10;#xbpsdugsxr .gt_first_grand_summary_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-top-style: double;
-  border-top-width: 6px;
-  border-top-color: #D3D3D3;
-}
-&#10;#xbpsdugsxr .gt_last_grand_summary_row_top {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-bottom-style: double;
-  border-bottom-width: 6px;
-  border-bottom-color: #D3D3D3;
-}
-&#10;#xbpsdugsxr .gt_striped {
-  background-color: rgba(128, 128, 128, 0.05);
-}
-&#10;#xbpsdugsxr .gt_table_body {
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-&#10;#xbpsdugsxr .gt_footnotes {
-  color: #333333;
-  background-color: #FFFFFF;
-  border-bottom-style: none;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-}
-&#10;#xbpsdugsxr .gt_footnote {
-  margin: 0px;
-  font-size: 90%;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-&#10;#xbpsdugsxr .gt_sourcenotes {
-  color: #333333;
-  background-color: #FFFFFF;
-  border-bottom-style: none;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-}
-&#10;#xbpsdugsxr .gt_sourcenote {
-  font-size: 90%;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-&#10;#xbpsdugsxr .gt_left {
-  text-align: left;
-}
-&#10;#xbpsdugsxr .gt_center {
-  text-align: center;
-}
-&#10;#xbpsdugsxr .gt_right {
-  text-align: right;
-  font-variant-numeric: tabular-nums;
-}
-&#10;#xbpsdugsxr .gt_font_normal {
-  font-weight: normal;
-}
-&#10;#xbpsdugsxr .gt_font_bold {
-  font-weight: bold;
-}
-&#10;#xbpsdugsxr .gt_font_italic {
-  font-style: italic;
-}
-&#10;#xbpsdugsxr .gt_super {
-  font-size: 65%;
-}
-&#10;#xbpsdugsxr .gt_footnote_marks {
-  font-size: 75%;
-  vertical-align: 0.4em;
-  position: initial;
-}
-&#10;#xbpsdugsxr .gt_asterisk {
-  font-size: 100%;
-  vertical-align: 0;
-}
-&#10;#xbpsdugsxr .gt_indent_1 {
-  text-indent: 5px;
-}
-&#10;#xbpsdugsxr .gt_indent_2 {
-  text-indent: 10px;
-}
-&#10;#xbpsdugsxr .gt_indent_3 {
-  text-indent: 15px;
-}
-&#10;#xbpsdugsxr .gt_indent_4 {
-  text-indent: 20px;
-}
-&#10;#xbpsdugsxr .gt_indent_5 {
-  text-indent: 25px;
-}
-&#10;#xbpsdugsxr .katex-display {
-  display: inline-flex !important;
-  margin-bottom: 0.75em !important;
-}
-&#10;#xbpsdugsxr div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
-  height: 0px !important;
-}
-</style>
-<table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false">
-  <thead>
-    <tr class="gt_heading">
-      <td colspan="2" class="gt_heading gt_title gt_font_normal" style>Most Frequent Starting Stations</td>
+<div id="wuhmpvvdfj" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+  &#10;  <table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; display: table; border-collapse: collapse; line-height: normal; margin-left: auto; margin-right: auto; color: #333333; font-size: 16px; font-weight: normal; font-style: normal; background-color: #FFFFFF; width: auto; border-top-style: solid; border-top-width: 2px; border-top-color: #A8A8A8; border-right-style: none; border-right-width: 2px; border-right-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #A8A8A8; border-left-style: none; border-left-width: 2px; border-left-color: #D3D3D3;" bgcolor="#FFFFFF">
+  <thead style="border-style: none;">
+    <tr class="gt_heading" style="border-style: none; background-color: #FFFFFF; text-align: center; border-bottom-color: #FFFFFF; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3;" bgcolor="#FFFFFF" align="center">
+      <td colspan="2" class="gt_heading gt_title gt_font_normal" style="border-style: none; color: #333333; font-size: 125%; padding-top: 4px; padding-bottom: 4px; padding-left: 5px; padding-right: 5px; border-bottom-width: 0; background-color: #FFFFFF; text-align: center; border-bottom-color: #FFFFFF; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; font-weight: normal;" bgcolor="#FFFFFF" align="center">Most Frequent Starting Stations</td>
     </tr>
-    <tr class="gt_heading">
-      <td colspan="2" class="gt_heading gt_subtitle gt_font_normal gt_bottom_border" style>Weekends</td>
+    <tr class="gt_heading" style="border-style: none; background-color: #FFFFFF; text-align: center; border-bottom-color: #FFFFFF; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3;" bgcolor="#FFFFFF" align="center">
+      <td colspan="2" class="gt_heading gt_subtitle gt_font_normal gt_bottom_border" style="border-style: none; color: #333333; font-size: 85%; padding-top: 3px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px; border-top-color: #FFFFFF; border-top-width: 0; background-color: #FFFFFF; text-align: center; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #D3D3D3; font-weight: normal;" bgcolor="#FFFFFF" align="center">Weekends</td>
     </tr>
-    <tr class="gt_col_headings">
-      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1" scope="col" id="start_station_name">start_station_name</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1" scope="col" id="number">number</th>
+    <tr class="gt_col_headings" style="border-style: none; border-top-style: solid; border-top-width: 2px; border-top-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3;">
+      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1" scope="col" id="start_station_name" style="border-style: none; color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: normal; text-transform: inherit; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: bottom; padding-top: 5px; padding-bottom: 6px; padding-left: 5px; padding-right: 5px; overflow-x: hidden; text-align: center;" bgcolor="#FFFFFF" valign="bottom" align="center">start_station_name</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1" scope="col" id="number" style="border-style: none; color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: normal; text-transform: inherit; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: bottom; padding-top: 5px; padding-bottom: 6px; padding-left: 5px; padding-right: 5px; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" bgcolor="#FFFFFF" valign="bottom" align="right">number</th>
     </tr>
   </thead>
-  <tbody class="gt_table_body">
-    <tr><td headers="start_station_name" class="gt_row gt_center">Harry Bridges Plaza (Ferry Building)</td>
-<td headers="number" class="gt_row gt_right">3178</td></tr>
-    <tr><td headers="start_station_name" class="gt_row gt_center">Embarcadero at Sansome</td>
-<td headers="number" class="gt_row gt_right">3134</td></tr>
-    <tr><td headers="start_station_name" class="gt_row gt_center">Market at 4th</td>
-<td headers="number" class="gt_row gt_right">1667</td></tr>
-    <tr><td headers="start_station_name" class="gt_row gt_center">Embarcadero at Bryant</td>
-<td headers="number" class="gt_row gt_right">1608</td></tr>
-    <tr><td headers="start_station_name" class="gt_row gt_center">2nd at Townsend</td>
-<td headers="number" class="gt_row gt_right">1556</td></tr>
-    <tr><td headers="start_station_name" class="gt_row gt_center">Powell Street BART</td>
-<td headers="number" class="gt_row gt_right">1499</td></tr>
-    <tr><td headers="start_station_name" class="gt_row gt_center">San Francisco Caltrain (Townsend at 4th)</td>
-<td headers="number" class="gt_row gt_right">1368</td></tr>
-    <tr><td headers="start_station_name" class="gt_row gt_center">Grant Avenue at Columbus Avenue</td>
-<td headers="number" class="gt_row gt_right">1303</td></tr>
-    <tr><td headers="start_station_name" class="gt_row gt_center">Market at Sansome</td>
-<td headers="number" class="gt_row gt_right">1101</td></tr>
-    <tr><td headers="start_station_name" class="gt_row gt_center">Powell at Post (Union Square)</td>
-<td headers="number" class="gt_row gt_right">1096</td></tr>
+  <tbody class="gt_table_body" style="border-style: none; border-top-style: solid; border-top-width: 2px; border-top-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #D3D3D3;">
+    <tr style="border-style: none;"><td headers="start_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Harry Bridges Plaza (Ferry Building)</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">3178</td></tr>
+    <tr style="border-style: none;"><td headers="start_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Embarcadero at Sansome</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">3134</td></tr>
+    <tr style="border-style: none;"><td headers="start_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Market at 4th</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">1667</td></tr>
+    <tr style="border-style: none;"><td headers="start_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Embarcadero at Bryant</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">1608</td></tr>
+    <tr style="border-style: none;"><td headers="start_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">2nd at Townsend</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">1556</td></tr>
+    <tr style="border-style: none;"><td headers="start_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Powell Street BART</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">1499</td></tr>
+    <tr style="border-style: none;"><td headers="start_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">San Francisco Caltrain (Townsend at 4th)</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">1368</td></tr>
+    <tr style="border-style: none;"><td headers="start_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Grant Avenue at Columbus Avenue</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">1303</td></tr>
+    <tr style="border-style: none;"><td headers="start_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Market at Sansome</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">1101</td></tr>
+    <tr style="border-style: none;"><td headers="start_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Powell at Post (Union Square)</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">1096</td></tr>
   </tbody>
   &#10;  
 </table>
 </div>
-<div id="qdwtceywlx" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#qdwtceywlx table {
-  font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-&#10;#qdwtceywlx thead, #qdwtceywlx tbody, #qdwtceywlx tfoot, #qdwtceywlx tr, #qdwtceywlx td, #qdwtceywlx th {
-  border-style: none;
-}
-&#10;#qdwtceywlx p {
-  margin: 0;
-  padding: 0;
-}
-&#10;#qdwtceywlx .gt_table {
-  display: table;
-  border-collapse: collapse;
-  line-height: normal;
-  margin-left: auto;
-  margin-right: auto;
-  color: #333333;
-  font-size: 16px;
-  font-weight: normal;
-  font-style: normal;
-  background-color: #FFFFFF;
-  width: auto;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #A8A8A8;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #A8A8A8;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-}
-&#10;#qdwtceywlx .gt_caption {
-  padding-top: 4px;
-  padding-bottom: 4px;
-}
-&#10;#qdwtceywlx .gt_title {
-  color: #333333;
-  font-size: 125%;
-  font-weight: initial;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-bottom-color: #FFFFFF;
-  border-bottom-width: 0;
-}
-&#10;#qdwtceywlx .gt_subtitle {
-  color: #333333;
-  font-size: 85%;
-  font-weight: initial;
-  padding-top: 3px;
-  padding-bottom: 5px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-top-color: #FFFFFF;
-  border-top-width: 0;
-}
-&#10;#qdwtceywlx .gt_heading {
-  background-color: #FFFFFF;
-  text-align: center;
-  border-bottom-color: #FFFFFF;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-}
-&#10;#qdwtceywlx .gt_bottom_border {
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-&#10;#qdwtceywlx .gt_col_headings {
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-}
-&#10;#qdwtceywlx .gt_col_heading {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: normal;
-  text-transform: inherit;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: bottom;
-  padding-top: 5px;
-  padding-bottom: 6px;
-  padding-left: 5px;
-  padding-right: 5px;
-  overflow-x: hidden;
-}
-&#10;#qdwtceywlx .gt_column_spanner_outer {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: normal;
-  text-transform: inherit;
-  padding-top: 0;
-  padding-bottom: 0;
-  padding-left: 4px;
-  padding-right: 4px;
-}
-&#10;#qdwtceywlx .gt_column_spanner_outer:first-child {
-  padding-left: 0;
-}
-&#10;#qdwtceywlx .gt_column_spanner_outer:last-child {
-  padding-right: 0;
-}
-&#10;#qdwtceywlx .gt_column_spanner {
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  vertical-align: bottom;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  overflow-x: hidden;
-  display: inline-block;
-  width: 100%;
-}
-&#10;#qdwtceywlx .gt_spanner_row {
-  border-bottom-style: hidden;
-}
-&#10;#qdwtceywlx .gt_group_heading {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: middle;
-  text-align: left;
-}
-&#10;#qdwtceywlx .gt_empty_group_heading {
-  padding: 0.5px;
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  vertical-align: middle;
-}
-&#10;#qdwtceywlx .gt_from_md > :first-child {
-  margin-top: 0;
-}
-&#10;#qdwtceywlx .gt_from_md > :last-child {
-  margin-bottom: 0;
-}
-&#10;#qdwtceywlx .gt_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  margin: 10px;
-  border-top-style: solid;
-  border-top-width: 1px;
-  border-top-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: middle;
-  overflow-x: hidden;
-}
-&#10;#qdwtceywlx .gt_stub {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-right-style: solid;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-&#10;#qdwtceywlx .gt_stub_row_group {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-right-style: solid;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  padding-left: 5px;
-  padding-right: 5px;
-  vertical-align: top;
-}
-&#10;#qdwtceywlx .gt_row_group_first td {
-  border-top-width: 2px;
-}
-&#10;#qdwtceywlx .gt_row_group_first th {
-  border-top-width: 2px;
-}
-&#10;#qdwtceywlx .gt_summary_row {
-  color: #333333;
-  background-color: #FFFFFF;
-  text-transform: inherit;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-&#10;#qdwtceywlx .gt_first_summary_row {
-  border-top-style: solid;
-  border-top-color: #D3D3D3;
-}
-&#10;#qdwtceywlx .gt_first_summary_row.thick {
-  border-top-width: 2px;
-}
-&#10;#qdwtceywlx .gt_last_summary_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-&#10;#qdwtceywlx .gt_grand_summary_row {
-  color: #333333;
-  background-color: #FFFFFF;
-  text-transform: inherit;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-&#10;#qdwtceywlx .gt_first_grand_summary_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-top-style: double;
-  border-top-width: 6px;
-  border-top-color: #D3D3D3;
-}
-&#10;#qdwtceywlx .gt_last_grand_summary_row_top {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-bottom-style: double;
-  border-bottom-width: 6px;
-  border-bottom-color: #D3D3D3;
-}
-&#10;#qdwtceywlx .gt_striped {
-  background-color: rgba(128, 128, 128, 0.05);
-}
-&#10;#qdwtceywlx .gt_table_body {
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-&#10;#qdwtceywlx .gt_footnotes {
-  color: #333333;
-  background-color: #FFFFFF;
-  border-bottom-style: none;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-}
-&#10;#qdwtceywlx .gt_footnote {
-  margin: 0px;
-  font-size: 90%;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-&#10;#qdwtceywlx .gt_sourcenotes {
-  color: #333333;
-  background-color: #FFFFFF;
-  border-bottom-style: none;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-}
-&#10;#qdwtceywlx .gt_sourcenote {
-  font-size: 90%;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-&#10;#qdwtceywlx .gt_left {
-  text-align: left;
-}
-&#10;#qdwtceywlx .gt_center {
-  text-align: center;
-}
-&#10;#qdwtceywlx .gt_right {
-  text-align: right;
-  font-variant-numeric: tabular-nums;
-}
-&#10;#qdwtceywlx .gt_font_normal {
-  font-weight: normal;
-}
-&#10;#qdwtceywlx .gt_font_bold {
-  font-weight: bold;
-}
-&#10;#qdwtceywlx .gt_font_italic {
-  font-style: italic;
-}
-&#10;#qdwtceywlx .gt_super {
-  font-size: 65%;
-}
-&#10;#qdwtceywlx .gt_footnote_marks {
-  font-size: 75%;
-  vertical-align: 0.4em;
-  position: initial;
-}
-&#10;#qdwtceywlx .gt_asterisk {
-  font-size: 100%;
-  vertical-align: 0;
-}
-&#10;#qdwtceywlx .gt_indent_1 {
-  text-indent: 5px;
-}
-&#10;#qdwtceywlx .gt_indent_2 {
-  text-indent: 10px;
-}
-&#10;#qdwtceywlx .gt_indent_3 {
-  text-indent: 15px;
-}
-&#10;#qdwtceywlx .gt_indent_4 {
-  text-indent: 20px;
-}
-&#10;#qdwtceywlx .gt_indent_5 {
-  text-indent: 25px;
-}
-&#10;#qdwtceywlx .katex-display {
-  display: inline-flex !important;
-  margin-bottom: 0.75em !important;
-}
-&#10;#qdwtceywlx div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
-  height: 0px !important;
-}
-</style>
-<table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false">
-  <thead>
-    <tr class="gt_heading">
-      <td colspan="2" class="gt_heading gt_title gt_font_normal" style>Most Frequent Starting Stations</td>
+<div id="ggazobbptf" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+  &#10;  <table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; display: table; border-collapse: collapse; line-height: normal; margin-left: auto; margin-right: auto; color: #333333; font-size: 16px; font-weight: normal; font-style: normal; background-color: #FFFFFF; width: auto; border-top-style: solid; border-top-width: 2px; border-top-color: #A8A8A8; border-right-style: none; border-right-width: 2px; border-right-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #A8A8A8; border-left-style: none; border-left-width: 2px; border-left-color: #D3D3D3;" bgcolor="#FFFFFF">
+  <thead style="border-style: none;">
+    <tr class="gt_heading" style="border-style: none; background-color: #FFFFFF; text-align: center; border-bottom-color: #FFFFFF; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3;" bgcolor="#FFFFFF" align="center">
+      <td colspan="2" class="gt_heading gt_title gt_font_normal" style="border-style: none; color: #333333; font-size: 125%; padding-top: 4px; padding-bottom: 4px; padding-left: 5px; padding-right: 5px; border-bottom-width: 0; background-color: #FFFFFF; text-align: center; border-bottom-color: #FFFFFF; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; font-weight: normal;" bgcolor="#FFFFFF" align="center">Most Frequent Starting Stations</td>
     </tr>
-    <tr class="gt_heading">
-      <td colspan="2" class="gt_heading gt_subtitle gt_font_normal gt_bottom_border" style>Weekends</td>
+    <tr class="gt_heading" style="border-style: none; background-color: #FFFFFF; text-align: center; border-bottom-color: #FFFFFF; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3;" bgcolor="#FFFFFF" align="center">
+      <td colspan="2" class="gt_heading gt_subtitle gt_font_normal gt_bottom_border" style="border-style: none; color: #333333; font-size: 85%; padding-top: 3px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px; border-top-color: #FFFFFF; border-top-width: 0; background-color: #FFFFFF; text-align: center; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #D3D3D3; font-weight: normal;" bgcolor="#FFFFFF" align="center">Weekends</td>
     </tr>
-    <tr class="gt_col_headings">
-      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1" scope="col" id="end_station_name">end_station_name</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1" scope="col" id="number">number</th>
+    <tr class="gt_col_headings" style="border-style: none; border-top-style: solid; border-top-width: 2px; border-top-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3;">
+      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1" scope="col" id="end_station_name" style="border-style: none; color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: normal; text-transform: inherit; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: bottom; padding-top: 5px; padding-bottom: 6px; padding-left: 5px; padding-right: 5px; overflow-x: hidden; text-align: center;" bgcolor="#FFFFFF" valign="bottom" align="center">end_station_name</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1" scope="col" id="number" style="border-style: none; color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: normal; text-transform: inherit; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: bottom; padding-top: 5px; padding-bottom: 6px; padding-left: 5px; padding-right: 5px; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" bgcolor="#FFFFFF" valign="bottom" align="right">number</th>
     </tr>
   </thead>
-  <tbody class="gt_table_body">
-    <tr><td headers="end_station_name" class="gt_row gt_center">Embarcadero at Sansome</td>
-<td headers="number" class="gt_row gt_right">3386</td></tr>
-    <tr><td headers="end_station_name" class="gt_row gt_center">Harry Bridges Plaza (Ferry Building)</td>
-<td headers="number" class="gt_row gt_right">3190</td></tr>
-    <tr><td headers="end_station_name" class="gt_row gt_center">Market at 4th</td>
-<td headers="number" class="gt_row gt_right">1885</td></tr>
-    <tr><td headers="end_station_name" class="gt_row gt_center">Powell Street BART</td>
-<td headers="number" class="gt_row gt_right">1690</td></tr>
-    <tr><td headers="end_station_name" class="gt_row gt_center">San Francisco Caltrain (Townsend at 4th)</td>
-<td headers="number" class="gt_row gt_right">1664</td></tr>
-    <tr><td headers="end_station_name" class="gt_row gt_center">2nd at Townsend</td>
-<td headers="number" class="gt_row gt_right">1603</td></tr>
-    <tr><td headers="end_station_name" class="gt_row gt_center">Embarcadero at Bryant</td>
-<td headers="number" class="gt_row gt_right">1390</td></tr>
-    <tr><td headers="end_station_name" class="gt_row gt_center">Steuart at Market</td>
-<td headers="number" class="gt_row gt_right">1226</td></tr>
-    <tr><td headers="end_station_name" class="gt_row gt_center">Market at Sansome</td>
-<td headers="number" class="gt_row gt_right">1114</td></tr>
-    <tr><td headers="end_station_name" class="gt_row gt_center">Grant Avenue at Columbus Avenue</td>
-<td headers="number" class="gt_row gt_right">1102</td></tr>
+  <tbody class="gt_table_body" style="border-style: none; border-top-style: solid; border-top-width: 2px; border-top-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #D3D3D3;">
+    <tr style="border-style: none;"><td headers="end_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Embarcadero at Sansome</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">3386</td></tr>
+    <tr style="border-style: none;"><td headers="end_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Harry Bridges Plaza (Ferry Building)</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">3190</td></tr>
+    <tr style="border-style: none;"><td headers="end_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Market at 4th</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">1885</td></tr>
+    <tr style="border-style: none;"><td headers="end_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Powell Street BART</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">1690</td></tr>
+    <tr style="border-style: none;"><td headers="end_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">San Francisco Caltrain (Townsend at 4th)</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">1664</td></tr>
+    <tr style="border-style: none;"><td headers="end_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">2nd at Townsend</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">1603</td></tr>
+    <tr style="border-style: none;"><td headers="end_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Embarcadero at Bryant</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">1390</td></tr>
+    <tr style="border-style: none;"><td headers="end_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Steuart at Market</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">1226</td></tr>
+    <tr style="border-style: none;"><td headers="end_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Market at Sansome</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">1114</td></tr>
+    <tr style="border-style: none;"><td headers="end_station_name" class="gt_row gt_center" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;" valign="middle" align="center">Grant Avenue at Columbus Avenue</td>
+<td headers="number" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">1102</td></tr>
   </tbody>
   &#10;  
 </table>
@@ -2450,20 +870,20 @@ searched and the usage per month can be identified. The table can also
 be sorted by pressing on the headers to identify bikes with the lowest
 usage that might be broken, lost or need servicing:
 
-<div id="mjgjkmeugi" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#mjgjkmeugi table {
+<div id="dqjlvxuckr" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#dqjlvxuckr table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-&#10;#mjgjkmeugi thead, #mjgjkmeugi tbody, #mjgjkmeugi tfoot, #mjgjkmeugi tr, #mjgjkmeugi td, #mjgjkmeugi th {
+&#10;#dqjlvxuckr thead, #dqjlvxuckr tbody, #dqjlvxuckr tfoot, #dqjlvxuckr tr, #dqjlvxuckr td, #dqjlvxuckr th {
   border-style: none;
 }
-&#10;#mjgjkmeugi p {
+&#10;#dqjlvxuckr p {
   margin: 0;
   padding: 0;
 }
-&#10;#mjgjkmeugi .gt_table {
+&#10;#dqjlvxuckr .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -2488,11 +908,11 @@ usage that might be broken, lost or need servicing:
   border-left-width: 2px;
   border-left-color: #D3D3D3;
 }
-&#10;#mjgjkmeugi .gt_caption {
+&#10;#dqjlvxuckr .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
-&#10;#mjgjkmeugi .gt_title {
+&#10;#dqjlvxuckr .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -2503,7 +923,7 @@ usage that might be broken, lost or need servicing:
   border-bottom-color: #FFFFFF;
   border-bottom-width: 0;
 }
-&#10;#mjgjkmeugi .gt_subtitle {
+&#10;#dqjlvxuckr .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -2514,7 +934,7 @@ usage that might be broken, lost or need servicing:
   border-top-color: #FFFFFF;
   border-top-width: 0;
 }
-&#10;#mjgjkmeugi .gt_heading {
+&#10;#dqjlvxuckr .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -2525,12 +945,12 @@ usage that might be broken, lost or need servicing:
   border-right-width: 1px;
   border-right-color: #D3D3D3;
 }
-&#10;#mjgjkmeugi .gt_bottom_border {
+&#10;#dqjlvxuckr .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#mjgjkmeugi .gt_col_headings {
+&#10;#dqjlvxuckr .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2544,7 +964,7 @@ usage that might be broken, lost or need servicing:
   border-right-width: 1px;
   border-right-color: #D3D3D3;
 }
-&#10;#mjgjkmeugi .gt_col_heading {
+&#10;#dqjlvxuckr .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2563,7 +983,7 @@ usage that might be broken, lost or need servicing:
   padding-right: 5px;
   overflow-x: hidden;
 }
-&#10;#mjgjkmeugi .gt_column_spanner_outer {
+&#10;#dqjlvxuckr .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2574,13 +994,13 @@ usage that might be broken, lost or need servicing:
   padding-left: 4px;
   padding-right: 4px;
 }
-&#10;#mjgjkmeugi .gt_column_spanner_outer:first-child {
+&#10;#dqjlvxuckr .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
-&#10;#mjgjkmeugi .gt_column_spanner_outer:last-child {
+&#10;#dqjlvxuckr .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
-&#10;#mjgjkmeugi .gt_column_spanner {
+&#10;#dqjlvxuckr .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2591,10 +1011,10 @@ usage that might be broken, lost or need servicing:
   display: inline-block;
   width: 100%;
 }
-&#10;#mjgjkmeugi .gt_spanner_row {
+&#10;#dqjlvxuckr .gt_spanner_row {
   border-bottom-style: hidden;
 }
-&#10;#mjgjkmeugi .gt_group_heading {
+&#10;#dqjlvxuckr .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2619,7 +1039,7 @@ usage that might be broken, lost or need servicing:
   vertical-align: middle;
   text-align: left;
 }
-&#10;#mjgjkmeugi .gt_empty_group_heading {
+&#10;#dqjlvxuckr .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2633,13 +1053,13 @@ usage that might be broken, lost or need servicing:
   border-bottom-color: #D3D3D3;
   vertical-align: middle;
 }
-&#10;#mjgjkmeugi .gt_from_md > :first-child {
+&#10;#dqjlvxuckr .gt_from_md > :first-child {
   margin-top: 0;
 }
-&#10;#mjgjkmeugi .gt_from_md > :last-child {
+&#10;#dqjlvxuckr .gt_from_md > :last-child {
   margin-bottom: 0;
 }
-&#10;#mjgjkmeugi .gt_row {
+&#10;#dqjlvxuckr .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2657,7 +1077,7 @@ usage that might be broken, lost or need servicing:
   vertical-align: middle;
   overflow-x: hidden;
 }
-&#10;#mjgjkmeugi .gt_stub {
+&#10;#dqjlvxuckr .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2669,7 +1089,7 @@ usage that might be broken, lost or need servicing:
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#mjgjkmeugi .gt_stub_row_group {
+&#10;#dqjlvxuckr .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2682,13 +1102,13 @@ usage that might be broken, lost or need servicing:
   padding-right: 5px;
   vertical-align: top;
 }
-&#10;#mjgjkmeugi .gt_row_group_first td {
+&#10;#dqjlvxuckr .gt_row_group_first td {
   border-top-width: 2px;
 }
-&#10;#mjgjkmeugi .gt_row_group_first th {
+&#10;#dqjlvxuckr .gt_row_group_first th {
   border-top-width: 2px;
 }
-&#10;#mjgjkmeugi .gt_summary_row {
+&#10;#dqjlvxuckr .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2697,14 +1117,14 @@ usage that might be broken, lost or need servicing:
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#mjgjkmeugi .gt_first_summary_row {
+&#10;#dqjlvxuckr .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
-&#10;#mjgjkmeugi .gt_first_summary_row.thick {
+&#10;#dqjlvxuckr .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
-&#10;#mjgjkmeugi .gt_last_summary_row {
+&#10;#dqjlvxuckr .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2713,7 +1133,7 @@ usage that might be broken, lost or need servicing:
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#mjgjkmeugi .gt_grand_summary_row {
+&#10;#dqjlvxuckr .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2722,7 +1142,7 @@ usage that might be broken, lost or need servicing:
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#mjgjkmeugi .gt_first_grand_summary_row {
+&#10;#dqjlvxuckr .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2731,7 +1151,7 @@ usage that might be broken, lost or need servicing:
   border-top-width: 6px;
   border-top-color: #D3D3D3;
 }
-&#10;#mjgjkmeugi .gt_last_grand_summary_row_top {
+&#10;#dqjlvxuckr .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2740,10 +1160,10 @@ usage that might be broken, lost or need servicing:
   border-bottom-width: 6px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#mjgjkmeugi .gt_striped {
+&#10;#dqjlvxuckr .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
-&#10;#mjgjkmeugi .gt_table_body {
+&#10;#dqjlvxuckr .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2751,7 +1171,7 @@ usage that might be broken, lost or need servicing:
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#mjgjkmeugi .gt_footnotes {
+&#10;#dqjlvxuckr .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2764,7 +1184,7 @@ usage that might be broken, lost or need servicing:
   border-right-width: 2px;
   border-right-color: #D3D3D3;
 }
-&#10;#mjgjkmeugi .gt_footnote {
+&#10;#dqjlvxuckr .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -2772,7 +1192,7 @@ usage that might be broken, lost or need servicing:
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#mjgjkmeugi .gt_sourcenotes {
+&#10;#dqjlvxuckr .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2785,64 +1205,64 @@ usage that might be broken, lost or need servicing:
   border-right-width: 2px;
   border-right-color: #D3D3D3;
 }
-&#10;#mjgjkmeugi .gt_sourcenote {
+&#10;#dqjlvxuckr .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#mjgjkmeugi .gt_left {
+&#10;#dqjlvxuckr .gt_left {
   text-align: left;
 }
-&#10;#mjgjkmeugi .gt_center {
+&#10;#dqjlvxuckr .gt_center {
   text-align: center;
 }
-&#10;#mjgjkmeugi .gt_right {
+&#10;#dqjlvxuckr .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
-&#10;#mjgjkmeugi .gt_font_normal {
+&#10;#dqjlvxuckr .gt_font_normal {
   font-weight: normal;
 }
-&#10;#mjgjkmeugi .gt_font_bold {
+&#10;#dqjlvxuckr .gt_font_bold {
   font-weight: bold;
 }
-&#10;#mjgjkmeugi .gt_font_italic {
+&#10;#dqjlvxuckr .gt_font_italic {
   font-style: italic;
 }
-&#10;#mjgjkmeugi .gt_super {
+&#10;#dqjlvxuckr .gt_super {
   font-size: 65%;
 }
-&#10;#mjgjkmeugi .gt_footnote_marks {
+&#10;#dqjlvxuckr .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
-&#10;#mjgjkmeugi .gt_asterisk {
+&#10;#dqjlvxuckr .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
-&#10;#mjgjkmeugi .gt_indent_1 {
+&#10;#dqjlvxuckr .gt_indent_1 {
   text-indent: 5px;
 }
-&#10;#mjgjkmeugi .gt_indent_2 {
+&#10;#dqjlvxuckr .gt_indent_2 {
   text-indent: 10px;
 }
-&#10;#mjgjkmeugi .gt_indent_3 {
+&#10;#dqjlvxuckr .gt_indent_3 {
   text-indent: 15px;
 }
-&#10;#mjgjkmeugi .gt_indent_4 {
+&#10;#dqjlvxuckr .gt_indent_4 {
   text-indent: 20px;
 }
-&#10;#mjgjkmeugi .gt_indent_5 {
+&#10;#dqjlvxuckr .gt_indent_5 {
   text-indent: 25px;
 }
-&#10;#mjgjkmeugi .katex-display {
+&#10;#dqjlvxuckr .katex-display {
   display: inline-flex !important;
   margin-bottom: 0.75em !important;
 }
-&#10;#mjgjkmeugi div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+&#10;#dqjlvxuckr div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
   height: 0px !important;
 }
 </style>
