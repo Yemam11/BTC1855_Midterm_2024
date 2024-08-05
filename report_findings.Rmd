@@ -99,8 +99,9 @@ Zip Code outliers were removed \~ Any value beyond the valid zip code range of 0
 Cancelled trips were identified \~ Any trip that lasted less than 3 minutes and started/ended at the same station was considered cancelled. These trips were removed from the data set and stored in a separate file. A snapshot of this file can be seen below (see the HTML version of this document to use an interactive version of the complete table):
 
 ```{r eval=TRUE, echo=FALSE, include=TRUE, paged.print=TRUE}
-gt(head(read.csv("cancelled_trips.csv", header = T), 10)) %>% 
-  tab_header(title = "Cancelled Trips")
+as_raw_html(gt((read.csv("cancelled_trips.csv", header = T))) %>% 
+  tab_header(title = "Cancelled Trips")%>% 
+  opt_interactive(use_pagination = T, use_filters = T))
 ```
 
 Outliers were removed from the duration field \~ Any trip lasting longer than 1 day were removed from the data. It is assumed that any trip lasting longer than 1 day likely means that the customer forgot to return the bike.
@@ -148,16 +149,16 @@ To identify the busiest stations during rush hours the data can be grouped by st
 ```{r rush_hour_table, eval=TRUE, warning=FALSE, include=TRUE, paged.print=TRUE}
 
 #determine 10 most frequent starting locations during rush hours
-locations_wkdy %>%
+as_raw_html(locations_wkdy %>%
   gt() %>% 
   tab_header(title = "Most Frequent Starting Locations",
-             subtitle = "During Rush Hours")
+             subtitle = "During Rush Hours"))
 
 #determine 10 most frequent ending locations during rush hours
-locations_wkdy_end %>% 
+as_raw_html(locations_wkdy_end %>% 
   gt() %>% 
   tab_header(title = "Most Frequent Ending Stations",
-             subtitle = "During Rush Hours")
+             subtitle = "During Rush Hours"))
 
 
 ```
@@ -167,16 +168,16 @@ The same methodology can be employed to identify the busiest stations on weekend
 ```{r weekends, eval=TRUE, include=TRUE}
 
 #determine 10 most frequent starting locations on weekends
-locations_wknd %>%
+as_raw_html(locations_wknd %>%
   gt() %>% 
   tab_header(title = "Most Frequent Starting Stations",
-             subtitle = "Weekends")
+             subtitle = "Weekends"))
 
 #determine 10 most frequent starting locations on weekends
-locations_wknd_end %>%
+as_raw_html(locations_wknd_end %>%
   gt() %>% 
   tab_header(title = "Most Frequent Starting Stations",
-             subtitle = "Weekends")
+             subtitle = "Weekends"))
 
 ```
 
@@ -205,9 +206,11 @@ From this figure it is evident that the system is more than capable of supportin
 ```{r bike_usage, eval=TRUE, include=T}
 
 library(rmarkdown)
-bike_data[1:10,] %>% 
+
+as_raw_html(bike_data %>% 
   gt() %>% 
-  tab_header(title = "Total Bike Usage")
+  tab_header(title = "Total Bike Usage")%>% 
+  opt_interactive(use_pagination = T, use_filters = T, use_sorting = T))
 ```
 
 ------------------------------------------------------------------------
