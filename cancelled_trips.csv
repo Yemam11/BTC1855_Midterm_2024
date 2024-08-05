@@ -1,0 +1,1083 @@
+"","id","duration","start_date","start_station_name","start_station_id","end_date","end_station_name","end_station_id","bike_id","subscription_type","zip_code"
+"1",139945,73,2014-01-01 17:57:00,"5th at Howard",57,2014-01-01 17:59:00,"5th at Howard",57,509,"Subscriber",94103
+"2",139967,160,2014-01-01 19:11:00,"California Ave Caltrain Station",36,2014-01-01 19:13:00,"California Ave Caltrain Station",36,51,"Customer",6877
+"3",140179,63,2014-01-02 08:32:00,"2nd at Folsom",62,2014-01-02 08:33:00,"2nd at Folsom",62,632,"Subscriber",94107
+"4",140429,126,2014-01-02 11:49:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-01-02 11:51:00,"San Francisco Caltrain (Townsend at 4th)",70,321,"Customer",61801
+"5",140484,114,2014-01-02 12:49:00,"Harry Bridges Plaza (Ferry Building)",50,2014-01-02 12:51:00,"Harry Bridges Plaza (Ferry Building)",50,407,"Subscriber",94131
+"6",140715,69,2014-01-02 16:25:00,"Mountain View City Hall",27,2014-01-02 16:26:00,"Mountain View City Hall",27,98,"Subscriber",94102
+"7",140734,64,2014-01-02 16:32:00,"South Van Ness at Market",66,2014-01-02 16:33:00,"South Van Ness at Market",66,525,"Subscriber",94612
+"8",141227,123,2014-01-03 08:02:00,"South Van Ness at Market",66,2014-01-03 08:04:00,"South Van Ness at Market",66,368,"Customer",94114
+"9",141388,66,2014-01-03 09:15:00,"Powell Street BART",39,2014-01-03 09:16:00,"Powell Street BART",39,424,"Subscriber",94116
+"10",142332,64,2014-01-04 10:02:00,"Mechanics Plaza (Market at Battery)",75,2014-01-04 10:03:00,"Mechanics Plaza (Market at Battery)",75,573,"Subscriber",94105
+"11",143075,135,2014-01-05 16:23:00,"Mountain View Caltrain Station",28,2014-01-05 16:26:00,"Mountain View Caltrain Station",28,161,"Subscriber",94040
+"12",143707,64,2014-01-06 11:18:00,"Embarcadero at Folsom",51,2014-01-06 11:19:00,"Embarcadero at Folsom",51,430,"Subscriber",94109
+"13",144838,108,2014-01-07 08:47:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-01-07 08:49:00,"San Francisco Caltrain (Townsend at 4th)",70,481,"Subscriber",95014
+"14",145292,152,2014-01-07 15:32:00,"Mountain View City Hall",27,2014-01-07 15:35:00,"Mountain View City Hall",27,136,"Subscriber",94105
+"15",146812,148,2014-01-08 17:24:00,"Embarcadero at Sansome",60,2014-01-08 17:26:00,"Embarcadero at Sansome",60,427,"Customer",NA
+"16",147756,121,2014-01-09 12:05:00,"Embarcadero at Sansome",60,2014-01-09 12:07:00,"Embarcadero at Sansome",60,391,"Customer",46074
+"17",147842,90,2014-01-09 13:09:00,"Mechanics Plaza (Market at Battery)",75,2014-01-09 13:10:00,"Mechanics Plaza (Market at Battery)",75,515,"Subscriber",94117
+"18",148495,71,2014-01-09 19:26:00,"Howard at 2nd",63,2014-01-09 19:27:00,"Howard at 2nd",63,545,"Subscriber",94111
+"19",148593,86,2014-01-09 22:08:00,"Townsend at 7th",65,2014-01-09 22:09:00,"Townsend at 7th",65,314,"Subscriber",94103
+"20",148609,68,2014-01-09 23:20:00,"Howard at 2nd",63,2014-01-09 23:21:00,"Howard at 2nd",63,396,"Subscriber",94158
+"21",150138,105,2014-01-11 13:57:00,"Embarcadero at Sansome",60,2014-01-11 13:59:00,"Embarcadero at Sansome",60,426,"Customer",NA
+"22",150244,75,2014-01-11 18:53:00,"2nd at Townsend",61,2014-01-11 18:54:00,"2nd at Townsend",61,627,"Subscriber",94044
+"23",151208,178,2014-01-13 09:16:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-01-13 09:19:00,"San Francisco Caltrain 2 (330 Townsend)",69,427,"Subscriber",94107
+"24",151489,73,2014-01-13 12:43:00,"2nd at South Park",64,2014-01-13 12:44:00,"2nd at South Park",64,335,"Subscriber",94158
+"25",151958,107,2014-01-13 18:10:00,"2nd at Folsom",62,2014-01-13 18:12:00,"2nd at Folsom",62,372,"Subscriber",94102
+"26",153060,110,2014-01-14 16:12:00,"San Jose Diridon Caltrain Station",2,2014-01-14 16:14:00,"San Jose Diridon Caltrain Station",2,108,"Customer",38478
+"27",153181,111,2014-01-14 17:05:00,"Market at 10th",67,2014-01-14 17:06:00,"Market at 10th",67,569,"Subscriber",94109
+"28",153206,128,2014-01-14 17:13:00,"Embarcadero at Vallejo",48,2014-01-14 17:15:00,"Embarcadero at Vallejo",48,361,"Subscriber",94107
+"29",153280,62,2014-01-14 17:39:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,2014-01-14 17:40:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,505,"Subscriber",94044
+"30",154409,166,2014-01-15 14:28:00,"Harry Bridges Plaza (Ferry Building)",50,2014-01-15 14:31:00,"Harry Bridges Plaza (Ferry Building)",50,353,"Subscriber",94556
+"31",154445,172,2014-01-15 15:13:00,"Grant Avenue at Columbus Avenue",73,2014-01-15 15:16:00,"Grant Avenue at Columbus Avenue",73,573,"Customer",95762
+"32",155376,82,2014-01-16 08:51:00,"Mountain View City Hall",27,2014-01-16 08:52:00,"Mountain View City Hall",27,662,"Subscriber",94102
+"33",155643,116,2014-01-16 11:24:00,"San Jose Diridon Caltrain Station",2,2014-01-16 11:26:00,"San Jose Diridon Caltrain Station",2,175,"Customer",NA
+"34",155761,124,2014-01-16 12:53:00,"Powell Street BART",39,2014-01-16 12:55:00,"Powell Street BART",39,400,"Subscriber",94117
+"35",156239,85,2014-01-16 18:00:00,"Embarcadero at Folsom",51,2014-01-16 18:02:00,"Embarcadero at Folsom",51,375,"Subscriber",95014
+"36",156344,127,2014-01-16 18:38:00,"Market at 4th",76,2014-01-16 18:40:00,"Market at 4th",76,517,"Subscriber",94107
+"37",157057,74,2014-01-17 11:37:00,"South Van Ness at Market",66,2014-01-17 11:38:00,"South Van Ness at Market",66,427,"Customer",94105
+"38",157297,154,2014-01-17 15:23:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,2014-01-17 15:25:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,330,"Customer",NA
+"39",157594,124,2014-01-17 17:36:00,"Washington at Kearney",46,2014-01-17 17:38:00,"Washington at Kearney",46,367,"Customer",97816
+"40",157847,62,2014-01-17 21:29:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-01-17 21:30:00,"San Francisco Caltrain (Townsend at 4th)",70,383,"Subscriber",94002
+"41",157986,95,2014-01-18 10:56:00,"Civic Center BART (7th at Market)",72,2014-01-18 10:58:00,"Civic Center BART (7th at Market)",72,556,"Customer",94704
+"42",158111,111,2014-01-18 12:57:00,"Embarcadero at Vallejo",48,2014-01-18 12:58:00,"Embarcadero at Vallejo",48,350,"Customer",92882
+"43",158872,97,2014-01-19 16:10:00,"San Jose Civic Center",3,2014-01-19 16:11:00,"San Jose Civic Center",3,643,"Customer",NA
+"44",159323,67,2014-01-20 11:56:00,"Market at 10th",67,2014-01-20 11:57:00,"Market at 10th",67,424,"Customer",94103
+"45",159739,62,2014-01-20 18:38:00,"2nd at Folsom",62,2014-01-20 18:39:00,"2nd at Folsom",62,260,"Subscriber",94105
+"46",160325,88,2014-01-21 10:05:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-01-21 10:07:00,"San Francisco Caltrain (Townsend at 4th)",70,284,"Subscriber",94301
+"47",160479,60,2014-01-21 13:01:00,"2nd at Townsend",61,2014-01-21 13:02:00,"2nd at Townsend",61,320,"Subscriber",94115
+"48",160856,71,2014-01-21 17:26:00,"Redwood City Caltrain Station",22,2014-01-21 17:27:00,"Redwood City Caltrain Station",22,215,"Subscriber",94043
+"49",160925,101,2014-01-21 17:54:00,"Davis at Jackson",42,2014-01-21 17:56:00,"Davis at Jackson",42,627,"Subscriber",94111
+"50",161966,85,2014-01-22 14:09:00,"Howard at 2nd",63,2014-01-22 14:10:00,"Howard at 2nd",63,329,"Subscriber",94117
+"51",162375,118,2014-01-22 18:19:00,"2nd at South Park",64,2014-01-22 18:21:00,"2nd at South Park",64,292,"Subscriber",94608
+"52",162797,83,2014-01-23 08:07:00,"2nd at South Park",64,2014-01-23 08:09:00,"2nd at South Park",64,520,"Subscriber",94107
+"53",163324,111,2014-01-23 12:32:00,"Market at Sansome",77,2014-01-23 12:34:00,"Market at Sansome",77,529,"Subscriber",94115
+"54",163932,170,2014-01-23 18:31:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-01-23 18:34:00,"San Francisco Caltrain 2 (330 Townsend)",69,627,"Subscriber",94102
+"55",164656,135,2014-01-24 11:23:00,"California Ave Caltrain Station",36,2014-01-24 11:26:00,"California Ave Caltrain Station",36,165,"Customer",5401
+"56",164657,82,2014-01-24 11:23:00,"California Ave Caltrain Station",36,2014-01-24 11:25:00,"California Ave Caltrain Station",36,298,"Customer",5401
+"57",164720,131,2014-01-24 12:23:00,"South Van Ness at Market",66,2014-01-24 12:25:00,"South Van Ness at Market",66,574,"Subscriber",94117
+"58",165284,176,2014-01-24 18:31:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-01-24 18:34:00,"San Francisco Caltrain (Townsend at 4th)",70,499,"Subscriber",94105
+"59",165305,74,2014-01-24 18:44:00,"2nd at South Park",64,2014-01-24 18:45:00,"2nd at South Park",64,384,"Customer",94114
+"60",165599,64,2014-01-25 10:39:00,"Broadway St at Battery St",82,2014-01-25 10:41:00,"Broadway St at Battery St",82,335,"Subscriber",94133
+"61",165696,86,2014-01-25 12:19:00,"Washington at Kearney",46,2014-01-25 12:20:00,"Washington at Kearney",46,600,"Customer",57106
+"62",166129,74,2014-01-26 09:36:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,2014-01-26 09:37:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,621,"Customer",60654
+"63",169232,168,2014-01-28 21:30:00,"Harry Bridges Plaza (Ferry Building)",50,2014-01-28 21:33:00,"Harry Bridges Plaza (Ferry Building)",50,575,"Subscriber",94107
+"64",169559,99,2014-01-29 08:46:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-01-29 08:48:00,"Temporary Transbay Terminal (Howard at Beale)",55,598,"Subscriber",94609
+"65",169578,69,2014-01-29 08:51:00,"Santa Clara at Almaden",4,2014-01-29 08:52:00,"Santa Clara at Almaden",4,211,"Subscriber",95110
+"66",169778,133,2014-01-29 10:48:00,"SJSU - San Salvador at 9th",16,2014-01-29 10:50:00,"SJSU - San Salvador at 9th",16,91,"Subscriber",95112
+"67",169902,93,2014-01-29 12:52:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-01-29 12:54:00,"San Francisco Caltrain 2 (330 Townsend)",69,418,"Subscriber",94107
+"68",170269,104,2014-01-29 17:32:00,"2nd at Townsend",61,2014-01-29 17:34:00,"2nd at Townsend",61,578,"Subscriber",94103
+"69",170510,70,2014-01-29 19:32:00,"2nd at Folsom",62,2014-01-29 19:33:00,"2nd at Folsom",62,332,"Subscriber",94133
+"70",170547,77,2014-01-29 20:12:00,"Spear at Folsom",49,2014-01-29 20:13:00,"Spear at Folsom",49,521,"Subscriber",94109
+"71",171346,115,2014-01-30 15:15:00,"2nd at Folsom",62,2014-01-30 15:17:00,"2nd at Folsom",62,332,"Subscriber",94111
+"72",171508,119,2014-01-30 17:04:00,"2nd at Townsend",61,2014-01-30 17:06:00,"2nd at Townsend",61,269,"Subscriber",94706
+"73",171804,84,2014-01-30 21:02:00,"Market at 4th",76,2014-01-30 21:03:00,"Market at 4th",76,563,"Customer",94015
+"74",171822,60,2014-01-30 21:51:00,"2nd at Townsend",61,2014-01-30 21:52:00,"2nd at Townsend",61,404,"Subscriber",94107
+"75",172777,83,2014-01-31 18:23:00,"San Jose City Hall",10,2014-01-31 18:24:00,"San Jose City Hall",10,21,"Subscriber",95112
+"76",172816,127,2014-01-31 18:58:00,"Mountain View Caltrain Station",28,2014-01-31 19:00:00,"Mountain View Caltrain Station",28,650,"Subscriber",95032
+"77",172914,110,2014-02-01 02:23:00,"San Francisco City Hall",58,2014-02-01 02:24:00,"San Francisco City Hall",58,637,"Subscriber",94102
+"78",173120,100,2014-02-01 12:24:00,"Market at 4th",76,2014-02-01 12:26:00,"Market at 4th",76,265,"Customer",91506
+"79",173131,72,2014-02-01 12:43:00,"South Van Ness at Market",66,2014-02-01 12:44:00,"South Van Ness at Market",66,514,"Subscriber",94102
+"80",174470,62,2014-02-03 16:11:00,"Civic Center BART (7th at Market)",72,2014-02-03 16:12:00,"Civic Center BART (7th at Market)",72,443,"Customer",95818
+"81",175373,64,2014-02-04 09:35:00,"San Francisco City Hall",58,2014-02-04 09:36:00,"San Francisco City Hall",58,451,"Subscriber",94117
+"82",175484,173,2014-02-04 10:54:00,"Steuart at Market",74,2014-02-04 10:57:00,"Steuart at Market",74,270,"Customer",91206
+"83",175725,77,2014-02-04 15:46:00,"2nd at Townsend",61,2014-02-04 15:47:00,"2nd at Townsend",61,399,"Subscriber",94501
+"84",176175,114,2014-02-04 20:04:00,"Embarcadero at Sansome",60,2014-02-04 20:06:00,"Embarcadero at Sansome",60,453,"Customer",NA
+"85",176920,71,2014-02-05 13:40:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-02-05 13:41:00,"San Francisco Caltrain (Townsend at 4th)",70,496,"Subscriber",94114
+"86",177630,102,2014-02-06 10:55:00,"2nd at Folsom",62,2014-02-06 10:57:00,"2nd at Folsom",62,388,"Subscriber",94105
+"87",178595,166,2014-02-07 16:31:00,"Powell Street BART",39,2014-02-07 16:34:00,"Powell Street BART",39,560,"Subscriber",94102
+"88",178626,133,2014-02-07 17:02:00,"2nd at Folsom",62,2014-02-07 17:04:00,"2nd at Folsom",62,271,"Customer",94133
+"89",178766,70,2014-02-07 20:21:00,"2nd at South Park",64,2014-02-07 20:22:00,"2nd at South Park",64,584,"Subscriber",94107
+"90",178887,61,2014-02-08 14:28:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-02-08 14:29:00,"San Francisco Caltrain (Townsend at 4th)",70,615,"Customer",94117
+"91",178901,152,2014-02-08 15:23:00,"Townsend at 7th",65,2014-02-08 15:26:00,"Townsend at 7th",65,637,"Subscriber",94107
+"92",179528,130,2014-02-10 12:11:00,"Embarcadero at Sansome",60,2014-02-10 12:13:00,"Embarcadero at Sansome",60,561,"Subscriber",94111
+"93",182355,72,2014-02-12 16:37:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-02-12 16:38:00,"Temporary Transbay Terminal (Howard at Beale)",55,361,"Subscriber",94061
+"94",182906,92,2014-02-13 07:06:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-02-13 07:08:00,"Temporary Transbay Terminal (Howard at Beale)",55,456,"Subscriber",94611
+"95",183794,77,2014-02-13 17:03:00,"San Francisco City Hall",58,2014-02-13 17:04:00,"San Francisco City Hall",58,624,"Subscriber",94707
+"96",184113,103,2014-02-13 20:35:00,"Market at 4th",76,2014-02-13 20:37:00,"Market at 4th",76,379,"Subscriber",94114
+"97",184316,96,2014-02-14 08:12:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-02-14 08:14:00,"Temporary Transbay Terminal (Howard at Beale)",55,531,"Subscriber",94501
+"98",184703,110,2014-02-14 11:59:00,"Harry Bridges Plaza (Ferry Building)",50,2014-02-14 12:01:00,"Harry Bridges Plaza (Ferry Building)",50,493,"Subscriber",94103
+"99",185232,119,2014-02-14 18:01:00,"Davis at Jackson",42,2014-02-14 18:03:00,"Davis at Jackson",42,561,"Subscriber",94111
+"100",185480,80,2014-02-15 07:24:00,"San Pedro Square",6,2014-02-15 07:26:00,"San Pedro Square",6,107,"Subscriber",95112
+"101",185714,74,2014-02-15 13:51:00,"Townsend at 7th",65,2014-02-15 13:53:00,"Townsend at 7th",65,623,"Subscriber",94107
+"102",185761,75,2014-02-15 15:16:00,"Townsend at 7th",65,2014-02-15 15:17:00,"Townsend at 7th",65,470,"Subscriber",94107
+"103",185802,88,2014-02-15 15:55:00,"2nd at Townsend",61,2014-02-15 15:56:00,"2nd at Townsend",61,609,"Subscriber",94107
+"104",185899,131,2014-02-15 17:59:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-02-15 18:01:00,"San Francisco Caltrain (Townsend at 4th)",70,428,"Subscriber",94127
+"105",186437,89,2014-02-16 17:12:00,"Embarcadero at Sansome",60,2014-02-16 17:14:00,"Embarcadero at Sansome",60,610,"Subscriber",94301
+"106",186779,142,2014-02-17 11:54:00,"Embarcadero at Sansome",60,2014-02-17 11:56:00,"Embarcadero at Sansome",60,526,"Customer",63445
+"107",186884,80,2014-02-17 14:33:00,"Market at 4th",76,2014-02-17 14:34:00,"Market at 4th",76,434,"Customer",91104
+"108",186999,98,2014-02-17 16:43:00,"Market at 10th",67,2014-02-17 16:45:00,"Market at 10th",67,355,"Customer",94107
+"109",187141,64,2014-02-17 19:22:00,"Market at 4th",76,2014-02-17 19:23:00,"Market at 4th",76,506,"Subscriber",94104
+"110",188209,111,2014-02-18 17:21:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,2014-02-18 17:23:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,599,"Customer",NA
+"111",188339,160,2014-02-18 18:13:00,"Townsend at 7th",65,2014-02-18 18:16:00,"Townsend at 7th",65,626,"Subscriber",94107
+"112",189973,70,2014-02-20 06:57:00,"San Jose Diridon Caltrain Station",2,2014-02-20 06:58:00,"San Jose Diridon Caltrain Station",2,648,"Subscriber",95020
+"113",190379,114,2014-02-20 10:15:00,"Steuart at Market",74,2014-02-20 10:17:00,"Steuart at Market",74,357,"Subscriber",94301
+"114",191927,157,2014-02-21 15:36:00,"San Pedro Square",6,2014-02-21 15:39:00,"San Pedro Square",6,44,"Subscriber",95014
+"115",192405,88,2014-02-21 22:42:00,"Clay at Battery",41,2014-02-21 22:44:00,"Clay at Battery",41,472,"Subscriber",94114
+"116",192613,166,2014-02-22 11:57:00,"San Pedro Square",6,2014-02-22 12:00:00,"San Pedro Square",6,715,"Subscriber",94114
+"117",192695,67,2014-02-22 13:27:00,"University and Emerson",35,2014-02-22 13:28:00,"University and Emerson",35,681,"Customer",94025
+"118",192705,72,2014-02-22 13:42:00,"Harry Bridges Plaza (Ferry Building)",50,2014-02-22 13:44:00,"Harry Bridges Plaza (Ferry Building)",50,516,"Customer",90503
+"119",192774,122,2014-02-22 14:46:00,"2nd at Townsend",61,2014-02-22 14:48:00,"2nd at Townsend",61,510,"Customer",94131
+"120",192886,127,2014-02-22 16:31:00,"Embarcadero at Vallejo",48,2014-02-22 16:33:00,"Embarcadero at Vallejo",48,527,"Customer",94110
+"121",193025,116,2014-02-22 22:28:00,"Market at 10th",67,2014-02-22 22:30:00,"Market at 10th",67,589,"Subscriber",94115
+"122",193114,143,2014-02-23 10:42:00,"San Pedro Square",6,2014-02-23 10:44:00,"San Pedro Square",6,660,"Subscriber",95110
+"123",193120,158,2014-02-23 10:49:00,"Powell at Post (Union Square)",71,2014-02-23 10:52:00,"Powell at Post (Union Square)",71,285,"Customer",10973
+"124",193362,123,2014-02-23 16:23:00,"Palo Alto Caltrain Station",34,2014-02-23 16:26:00,"Palo Alto Caltrain Station",34,670,"Subscriber",94010
+"125",193374,72,2014-02-23 17:01:00,"Market at 4th",76,2014-02-23 17:03:00,"Market at 4th",76,598,"Subscriber",94105
+"126",193477,72,2014-02-23 22:56:00,"San Jose Diridon Caltrain Station",2,2014-02-23 22:57:00,"San Jose Diridon Caltrain Station",2,193,"Subscriber",95110
+"127",193638,101,2014-02-24 08:03:00,"Market at 4th",76,2014-02-24 08:05:00,"Market at 4th",76,285,"Subscriber",94102
+"128",194285,127,2014-02-24 15:59:00,"Market at Sansome",77,2014-02-24 16:01:00,"Market at Sansome",77,513,"Subscriber",94105
+"129",196859,65,2014-02-27 06:30:00,"Harry Bridges Plaza (Ferry Building)",50,2014-02-27 06:31:00,"Harry Bridges Plaza (Ferry Building)",50,292,"Customer",22314
+"130",196913,93,2014-02-27 07:36:00,"San Jose Diridon Caltrain Station",2,2014-02-27 07:37:00,"San Jose Diridon Caltrain Station",2,308,"Subscriber",94502
+"131",197796,105,2014-02-27 18:21:00,"Embarcadero at Sansome",60,2014-02-27 18:23:00,"Embarcadero at Sansome",60,493,"Subscriber",94111
+"132",197960,164,2014-02-27 20:20:00,"2nd at South Park",64,2014-02-27 20:23:00,"2nd at South Park",64,506,"Subscriber",94103
+"133",432795,79,2014-08-31 17:38:00,"Washington at Kearny",46,2014-08-31 17:39:00,"Washington at Kearny",46,599,"Customer",NA
+"134",432753,168,2014-08-31 16:58:00,"Embarcadero at Sansome",60,2014-08-31 17:00:00,"Embarcadero at Sansome",60,418,"Customer",98257
+"135",432708,138,2014-08-31 16:05:00,"Market at Sansome",77,2014-08-31 16:07:00,"Market at Sansome",77,587,"Customer",NA
+"136",432584,64,2014-08-31 13:18:00,"Davis at Jackson",42,2014-08-31 13:19:00,"Davis at Jackson",42,273,"Customer",60565
+"137",432473,114,2014-08-31 11:37:00,"Powell Street BART",39,2014-08-31 11:39:00,"Powell Street BART",39,280,"Customer",80797
+"138",432417,103,2014-08-31 10:33:00,"Powell Street BART",39,2014-08-31 10:35:00,"Powell Street BART",39,424,"Customer",95519
+"139",432304,85,2014-08-30 22:44:00,"Market at 4th",76,2014-08-30 22:46:00,"Market at 4th",76,477,"Subscriber",94158
+"140",432164,122,2014-08-30 17:30:00,"San Antonio Shopping Center",31,2014-08-30 17:32:00,"San Antonio Shopping Center",31,249,"Customer",94704
+"141",431886,174,2014-08-30 11:54:00,"2nd at South Park",64,2014-08-30 11:57:00,"2nd at South Park",64,448,"Subscriber",94107
+"142",431885,159,2014-08-30 11:52:00,"2nd at South Park",64,2014-08-30 11:54:00,"2nd at South Park",64,448,"Subscriber",94107
+"143",431877,62,2014-08-30 11:47:00,"Mechanics Plaza (Market at Battery)",75,2014-08-30 11:48:00,"Mechanics Plaza (Market at Battery)",75,429,"Customer",94598
+"144",431872,83,2014-08-30 11:34:00,"Embarcadero at Sansome",60,2014-08-30 11:35:00,"Embarcadero at Sansome",60,334,"Customer",30535
+"145",431764,121,2014-08-30 09:40:00,"Harry Bridges Plaza (Ferry Building)",50,2014-08-30 09:42:00,"Harry Bridges Plaza (Ferry Building)",50,567,"Subscriber",94133
+"146",431692,62,2014-08-29 23:35:00,"Commercial at Montgomery",45,2014-08-29 23:37:00,"Commercial at Montgomery",45,437,"Customer",94109
+"147",429029,66,2014-08-28 12:11:00,"Civic Center BART (7th at Market)",72,2014-08-28 12:12:00,"Civic Center BART (7th at Market)",72,273,"Subscriber",94501
+"148",427340,77,2014-08-27 15:10:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-08-27 15:12:00,"San Francisco Caltrain (Townsend at 4th)",70,454,"Customer",94949
+"149",427006,95,2014-08-27 10:32:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-08-27 10:34:00,"San Francisco Caltrain 2 (330 Townsend)",69,607,"Subscriber",94107
+"150",426408,120,2014-08-27 07:40:00,"2nd at Folsom",62,2014-08-27 07:42:00,"2nd at Folsom",62,527,"Subscriber",94107
+"151",426231,68,2014-08-26 22:32:00,"Grant Avenue at Columbus Avenue",73,2014-08-26 22:33:00,"Grant Avenue at Columbus Avenue",73,281,"Customer",NA
+"152",426115,99,2014-08-26 19:59:00,"Market at 4th",76,2014-08-26 20:00:00,"Market at 4th",76,877,"Subscriber",94109
+"153",425916,78,2014-08-26 18:27:00,"South Van Ness at Market",66,2014-08-26 18:28:00,"South Van Ness at Market",66,541,"Customer",10011
+"154",425355,139,2014-08-26 15:57:00,"South Van Ness at Market",66,2014-08-26 15:59:00,"South Van Ness at Market",66,592,"Subscriber",94703
+"155",424820,179,2014-08-26 09:46:00,"San Salvador at 1st",8,2014-08-26 09:49:00,"San Salvador at 1st",8,199,"Subscriber",95112
+"156",423272,75,2014-08-25 15:18:00,"Embarcadero at Folsom",51,2014-08-25 15:20:00,"Embarcadero at Folsom",51,393,"Subscriber",94568
+"157",421797,64,2014-08-23 23:13:00,"San Francisco City Hall",58,2014-08-23 23:14:00,"San Francisco City Hall",58,66,"Customer",NA
+"158",421417,97,2014-08-23 12:40:00,"Powell at Post (Union Square)",71,2014-08-23 12:41:00,"Powell at Post (Union Square)",71,614,"Customer",69004
+"159",421267,62,2014-08-23 09:21:00,"Post at Kearny",47,2014-08-23 09:22:00,"Post at Kearny",47,375,"Customer",748
+"160",420691,116,2014-08-22 16:27:00,"Davis at Jackson",42,2014-08-22 16:29:00,"Davis at Jackson",42,618,"Subscriber",95125
+"161",419506,104,2014-08-21 20:03:00,"Embarcadero at Bryant",54,2014-08-21 20:05:00,"Embarcadero at Bryant",54,283,"Subscriber",94105
+"162",419504,64,2014-08-21 20:00:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-08-21 20:01:00,"San Francisco Caltrain (Townsend at 4th)",70,352,"Subscriber",94133
+"163",419290,98,2014-08-21 18:09:00,"Santa Clara County Civic Center",80,2014-08-21 18:11:00,"Santa Clara County Civic Center",80,32,"Subscriber",95018
+"164",419199,78,2014-08-21 17:37:00,"Embarcadero at Sansome",60,2014-08-21 17:39:00,"Embarcadero at Sansome",60,517,"Customer",93277
+"165",418587,74,2014-08-21 11:41:00,"Market at 10th",67,2014-08-21 11:42:00,"Market at 10th",67,452,"Subscriber",94103
+"166",417880,97,2014-08-21 07:31:00,"Ryland Park",84,2014-08-21 07:33:00,"Ryland Park",84,142,"Subscriber",95112
+"167",417561,90,2014-08-20 18:56:00,"Townsend at 7th",65,2014-08-20 18:57:00,"Townsend at 7th",65,624,"Subscriber",94103
+"168",417074,72,2014-08-20 16:21:00,"Embarcadero at Sansome",60,2014-08-20 16:22:00,"Embarcadero at Sansome",60,340,"Subscriber",94131
+"169",416452,64,2014-08-20 08:55:00,"Steuart at Market",74,2014-08-20 08:57:00,"Steuart at Market",74,340,"Subscriber",94110
+"170",414736,115,2014-08-19 09:25:00,"Powell at Post (Union Square)",71,2014-08-19 09:26:00,"Powell at Post (Union Square)",71,395,"Customer",91402
+"171",412441,64,2014-08-17 22:37:00,"MLK Library",11,2014-08-17 22:38:00,"MLK Library",11,223,"Customer",95127
+"172",412246,110,2014-08-17 16:37:00,"Powell Street BART",39,2014-08-17 16:39:00,"Powell Street BART",39,546,"Customer",22557
+"173",412121,147,2014-08-17 14:03:00,"Embarcadero at Folsom",51,2014-08-17 14:06:00,"Embarcadero at Folsom",51,527,"Customer",94044
+"174",412119,158,2014-08-17 14:00:00,"Embarcadero at Folsom",51,2014-08-17 14:02:00,"Embarcadero at Folsom",51,393,"Customer",92011
+"175",412004,61,2014-08-17 11:41:00,"Powell Street BART",39,2014-08-17 11:42:00,"Powell Street BART",39,424,"Customer",NA
+"176",411589,93,2014-08-16 15:16:00,"Civic Center BART (7th at Market)",72,2014-08-16 15:18:00,"Civic Center BART (7th at Market)",72,189,"Customer",NA
+"177",411516,167,2014-08-16 14:02:00,"2nd at Townsend",61,2014-08-16 14:05:00,"2nd at Townsend",61,598,"Subscriber",94107
+"178",411312,171,2014-08-16 09:48:00,"Spear at Folsom",49,2014-08-16 09:51:00,"Spear at Folsom",49,363,"Subscriber",94602
+"179",411033,138,2014-08-15 18:17:00,"2nd at Townsend",61,2014-08-15 18:19:00,"2nd at Townsend",61,598,"Subscriber",94123
+"180",410597,60,2014-08-15 15:15:00,"Broadway St at Battery St",82,2014-08-15 15:16:00,"Broadway St at Battery St",82,516,"Subscriber",94107
+"181",410162,64,2014-08-15 09:26:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-08-15 09:27:00,"Temporary Transbay Terminal (Howard at Beale)",55,427,"Subscriber",94108
+"182",410102,71,2014-08-15 09:05:00,"Grant Avenue at Columbus Avenue",73,2014-08-15 09:06:00,"Grant Avenue at Columbus Avenue",73,410,"Customer",NA
+"183",410101,79,2014-08-15 09:05:00,"Grant Avenue at Columbus Avenue",73,2014-08-15 09:06:00,"Grant Avenue at Columbus Avenue",73,515,"Customer",NA
+"184",409979,63,2014-08-15 08:37:00,"Powell Street BART",39,2014-08-15 08:38:00,"Powell Street BART",39,609,"Customer",NA
+"185",409345,62,2014-08-14 17:37:00,"Townsend at 7th",65,2014-08-14 17:38:00,"Townsend at 7th",65,554,"Subscriber",94133
+"186",407303,85,2014-08-13 15:38:00,"2nd at Townsend",61,2014-08-13 15:39:00,"2nd at Townsend",61,489,"Subscriber",94002
+"187",407302,84,2014-08-13 15:38:00,"2nd at Townsend",61,2014-08-13 15:39:00,"2nd at Townsend",61,403,"Subscriber",94002
+"188",406512,69,2014-08-13 08:09:00,"San Salvador at 1st",8,2014-08-13 08:10:00,"San Salvador at 1st",8,80,"Customer",92025
+"189",405485,85,2014-08-12 16:28:00,"Howard at 2nd",63,2014-08-12 16:29:00,"Howard at 2nd",63,349,"Subscriber",94618
+"190",405130,174,2014-08-12 12:20:00,"Howard at 2nd",63,2014-08-12 12:23:00,"Howard at 2nd",63,300,"Subscriber",94105
+"191",405126,122,2014-08-12 12:20:00,"Howard at 2nd",63,2014-08-12 12:22:00,"Howard at 2nd",63,309,"Subscriber",94105
+"192",404833,103,2014-08-12 09:25:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-08-12 09:26:00,"San Francisco Caltrain 2 (330 Townsend)",69,629,"Subscriber",94404
+"193",404794,117,2014-08-12 09:10:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-08-12 09:12:00,"San Francisco Caltrain (Townsend at 4th)",70,629,"Subscriber",94086
+"194",404133,179,2014-08-11 20:48:00,"Spear at Folsom",49,2014-08-11 20:51:00,"Spear at Folsom",49,317,"Subscriber",94501
+"195",403886,70,2014-08-11 18:14:00,"Davis at Jackson",42,2014-08-11 18:15:00,"Davis at Jackson",42,566,"Subscriber",95129
+"196",403304,117,2014-08-11 14:56:00,"Embarcadero at Vallejo",48,2014-08-11 14:58:00,"Embarcadero at Vallejo",48,566,"Subscriber",94043
+"197",403141,117,2014-08-11 12:00:00,"Embarcadero at Vallejo",48,2014-08-11 12:02:00,"Embarcadero at Vallejo",48,566,"Subscriber",94114
+"198",402968,148,2014-08-11 09:41:00,"Broadway St at Battery St",82,2014-08-11 09:44:00,"Broadway St at Battery St",82,532,"Subscriber",94133
+"199",402714,71,2014-08-11 08:36:00,"Market at 10th",67,2014-08-11 08:37:00,"Market at 10th",67,477,"Subscriber",94131
+"200",402529,61,2014-08-11 07:43:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-08-11 07:44:00,"San Francisco Caltrain (Townsend at 4th)",70,311,"Subscriber",94025
+"201",402193,176,2014-08-10 18:21:00,"Grant Avenue at Columbus Avenue",73,2014-08-10 18:24:00,"Grant Avenue at Columbus Avenue",73,623,"Customer",7076
+"202",402148,144,2014-08-10 17:15:00,"Civic Center BART (7th at Market)",72,2014-08-10 17:17:00,"Civic Center BART (7th at Market)",72,529,"Customer",21409
+"203",401877,83,2014-08-10 12:49:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,2014-08-10 12:50:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,320,"Customer",NA
+"204",401640,69,2014-08-09 18:41:00,"Grant Avenue at Columbus Avenue",73,2014-08-09 18:42:00,"Grant Avenue at Columbus Avenue",73,429,"Customer",NA
+"205",401561,95,2014-08-09 16:37:00,"Commercial at Montgomery",45,2014-08-09 16:39:00,"Commercial at Montgomery",45,495,"Customer",NA
+"206",401470,120,2014-08-09 14:49:00,"SJSU 4th at San Carlos",12,2014-08-09 14:51:00,"SJSU 4th at San Carlos",12,132,"Customer",NA
+"207",401302,124,2014-08-09 10:41:00,"Grant Avenue at Columbus Avenue",73,2014-08-09 10:43:00,"Grant Avenue at Columbus Avenue",73,477,"Subscriber",94133
+"208",401293,128,2014-08-09 10:35:00,"Commercial at Montgomery",45,2014-08-09 10:37:00,"Commercial at Montgomery",45,564,"Subscriber",94133
+"209",401171,71,2014-08-08 23:01:00,"Embarcadero at Bryant",54,2014-08-08 23:02:00,"Embarcadero at Bryant",54,620,"Subscriber",94105
+"210",401167,99,2014-08-08 22:28:00,"San Salvador at 1st",8,2014-08-08 22:29:00,"San Salvador at 1st",8,11,"Subscriber",95112
+"211",400943,73,2014-08-08 18:18:00,"Broadway St at Battery St",82,2014-08-08 18:19:00,"Broadway St at Battery St",82,546,"Subscriber",94107
+"212",400902,66,2014-08-08 18:06:00,"Market at Sansome",77,2014-08-08 18:07:00,"Market at Sansome",77,67,"Subscriber",94402
+"213",400122,107,2014-08-08 10:30:00,"Powell Street BART",39,2014-08-08 10:31:00,"Powell Street BART",39,622,"Subscriber",94103
+"214",399593,153,2014-08-08 05:43:00,"Grant Avenue at Columbus Avenue",73,2014-08-08 05:46:00,"Grant Avenue at Columbus Avenue",73,383,"Subscriber",94133
+"215",399551,83,2014-08-07 21:56:00,"Howard at 2nd",63,2014-08-07 21:57:00,"Howard at 2nd",63,488,"Customer",NA
+"216",399515,88,2014-08-07 20:50:00,"Market at 4th",76,2014-08-07 20:52:00,"Market at 4th",76,411,"Subscriber",94158
+"217",399150,76,2014-08-07 17:37:00,"Washington at Kearny",46,2014-08-07 17:38:00,"Washington at Kearny",46,610,"Subscriber",94115
+"218",398598,112,2014-08-07 12:38:00,"Powell at Post (Union Square)",71,2014-08-07 12:40:00,"Powell at Post (Union Square)",71,491,"Customer",94108
+"219",398360,93,2014-08-07 10:03:00,"Grant Avenue at Columbus Avenue",73,2014-08-07 10:05:00,"Grant Avenue at Columbus Avenue",73,387,"Subscriber",94104
+"220",398084,90,2014-08-07 08:44:00,"Civic Center BART (7th at Market)",72,2014-08-07 08:45:00,"Civic Center BART (7th at Market)",72,410,"Customer",80129
+"221",397931,85,2014-08-07 07:55:00,"Washington at Kearny",46,2014-08-07 07:57:00,"Washington at Kearny",46,610,"Subscriber",94133
+"222",396985,71,2014-08-06 16:09:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-08-06 16:10:00,"Temporary Transbay Terminal (Howard at Beale)",55,594,"Subscriber",94121
+"223",396749,72,2014-08-06 12:37:00,"Golden Gate at Polk",59,2014-08-06 12:38:00,"Golden Gate at Polk",59,568,"Subscriber",94103
+"224",395646,63,2014-08-05 19:16:00,"Townsend at 7th",65,2014-08-05 19:17:00,"Townsend at 7th",65,69,"Subscriber",94066
+"225",395535,128,2014-08-05 18:36:00,"San Jose City Hall",10,2014-08-05 18:38:00,"San Jose City Hall",10,658,"Subscriber",94041
+"226",395071,76,2014-08-05 16:00:00,"2nd at Townsend",61,2014-08-05 16:01:00,"2nd at Townsend",61,422,"Customer",11365
+"227",395068,72,2014-08-05 15:58:00,"2nd at Townsend",61,2014-08-05 16:00:00,"2nd at Townsend",61,421,"Customer",11365
+"228",395053,117,2014-08-05 15:50:00,"2nd at Townsend",61,2014-08-05 15:52:00,"2nd at Townsend",61,422,"Customer",11365
+"229",395037,144,2014-08-05 15:44:00,"Davis at Jackson",42,2014-08-05 15:46:00,"Davis at Jackson",42,455,"Subscriber",95125
+"230",395023,100,2014-08-05 15:39:00,"2nd at Townsend",61,2014-08-05 15:41:00,"2nd at Townsend",61,421,"Customer",11365
+"231",394843,123,2014-08-05 12:49:00,"Commercial at Montgomery",45,2014-08-05 12:51:00,"Commercial at Montgomery",45,420,"Subscriber",94107
+"232",393905,86,2014-08-04 20:06:00,"Market at 4th",76,2014-08-04 20:07:00,"Market at 4th",76,452,"Subscriber",94107
+"233",393524,112,2014-08-04 17:30:00,"Steuart at Market",74,2014-08-04 17:32:00,"Steuart at Market",74,483,"Customer",NA
+"234",393517,91,2014-08-04 17:28:00,"Steuart at Market",74,2014-08-04 17:29:00,"Steuart at Market",74,483,"Customer",NA
+"235",393324,77,2014-08-04 16:21:00,"California Ave Caltrain Station",36,2014-08-04 16:22:00,"California Ave Caltrain Station",36,60,"Customer",94301
+"236",392709,71,2014-08-04 08:51:00,"Grant Avenue at Columbus Avenue",73,2014-08-04 08:52:00,"Grant Avenue at Columbus Avenue",73,536,"Subscriber",94133
+"237",392591,134,2014-08-04 08:19:00,"Powell at Post (Union Square)",71,2014-08-04 08:21:00,"Powell at Post (Union Square)",71,426,"Customer",11215
+"238",391985,168,2014-08-03 14:13:00,"Civic Center BART (7th at Market)",72,2014-08-03 14:16:00,"Civic Center BART (7th at Market)",72,417,"Customer",NA
+"239",391854,110,2014-08-03 11:21:00,"Market at 10th",67,2014-08-03 11:22:00,"Market at 10th",67,632,"Customer",82718
+"240",391795,65,2014-08-03 09:47:00,"Powell at Post (Union Square)",71,2014-08-03 09:48:00,"Powell at Post (Union Square)",71,426,"Subscriber",94111
+"241",391635,100,2014-08-02 18:22:00,"Townsend at 7th",65,2014-08-02 18:24:00,"Townsend at 7th",65,619,"Subscriber",94402
+"242",391628,74,2014-08-02 18:13:00,"Market at 4th",76,2014-08-02 18:14:00,"Market at 4th",76,469,"Customer",97223
+"243",391515,68,2014-08-02 16:02:00,"Redwood City Caltrain Station",22,2014-08-02 16:03:00,"Redwood City Caltrain Station",22,125,"Subscriber",94109
+"244",391124,74,2014-08-01 22:06:00,"Howard at 2nd",63,2014-08-01 22:07:00,"Howard at 2nd",63,545,"Customer",NA
+"245",390458,76,2014-08-01 15:14:00,"Market at 10th",67,2014-08-01 15:15:00,"Market at 10th",67,97,"Subscriber",95112
+"246",390373,80,2014-08-01 13:56:00,"Powell at Post (Union Square)",71,2014-08-01 13:58:00,"Powell at Post (Union Square)",71,426,"Subscriber",94107
+"247",390245,66,2014-08-01 12:14:00,"Harry Bridges Plaza (Ferry Building)",50,2014-08-01 12:15:00,"Harry Bridges Plaza (Ferry Building)",50,347,"Subscriber",94705
+"248",389771,110,2014-08-01 08:08:00,"Harry Bridges Plaza (Ferry Building)",50,2014-08-01 08:10:00,"Harry Bridges Plaza (Ferry Building)",50,515,"Subscriber",94546
+"249",389034,113,2014-07-31 17:03:00,"Embarcadero at Vallejo",48,2014-07-31 17:05:00,"Embarcadero at Vallejo",48,451,"Subscriber",94086
+"250",388866,173,2014-07-31 16:01:00,"Santa Clara County Civic Center",80,2014-07-31 16:04:00,"Santa Clara County Civic Center",80,127,"Subscriber",95116
+"251",388558,97,2014-07-31 11:49:00,"Powell Street BART",39,2014-07-31 11:51:00,"Powell Street BART",39,329,"Customer",NA
+"252",387043,91,2014-07-30 16:10:00,"MLK Library",11,2014-07-30 16:11:00,"MLK Library",11,664,"Customer",95112
+"253",386598,74,2014-07-30 10:18:00,"Embarcadero at Sansome",60,2014-07-30 10:19:00,"Embarcadero at Sansome",60,334,"Customer",10110
+"254",385913,107,2014-07-29 22:25:00,"2nd at Townsend",61,2014-07-29 22:27:00,"2nd at Townsend",61,453,"Subscriber",94133
+"255",385761,123,2014-07-29 19:52:00,"2nd at Folsom",62,2014-07-29 19:55:00,"2nd at Folsom",62,421,"Subscriber",94107
+"256",385728,72,2014-07-29 19:25:00,"Embarcadero at Folsom",51,2014-07-29 19:26:00,"Embarcadero at Folsom",51,409,"Customer",95927
+"257",385595,133,2014-07-29 18:31:00,"California Ave Caltrain Station",36,2014-07-29 18:33:00,"California Ave Caltrain Station",36,28,"Subscriber",94402
+"258",384644,98,2014-07-29 09:28:00,"MLK Library",11,2014-07-29 09:30:00,"MLK Library",11,58,"Subscriber",95113
+"259",384269,77,2014-07-29 07:50:00,"Civic Center BART (7th at Market)",72,2014-07-29 07:51:00,"Civic Center BART (7th at Market)",72,609,"Subscriber",94111
+"260",383893,65,2014-07-28 19:26:00,"Embarcadero at Bryant",54,2014-07-28 19:27:00,"Embarcadero at Bryant",54,677,"Subscriber",94122
+"261",383292,98,2014-07-28 16:16:00,"Howard at 2nd",63,2014-07-28 16:18:00,"Howard at 2nd",63,429,"Subscriber",94107
+"262",383130,86,2014-07-28 13:46:00,"Harry Bridges Plaza (Ferry Building)",50,2014-07-28 13:48:00,"Harry Bridges Plaza (Ferry Building)",50,356,"Customer",94110
+"263",383034,70,2014-07-28 12:28:00,"Market at Sansome",77,2014-07-28 12:29:00,"Market at Sansome",77,567,"Subscriber",94608
+"264",382721,166,2014-07-28 09:15:00,"Civic Center BART (7th at Market)",72,2014-07-28 09:17:00,"Civic Center BART (7th at Market)",72,289,"Subscriber",94103
+"265",382648,169,2014-07-28 08:56:00,"Howard at 2nd",63,2014-07-28 08:59:00,"Howard at 2nd",63,366,"Subscriber",94702
+"266",382631,123,2014-07-28 08:52:00,"Civic Center BART (7th at Market)",72,2014-07-28 08:54:00,"Civic Center BART (7th at Market)",72,289,"Subscriber",94551
+"267",382561,72,2014-07-28 08:36:00,"2nd at Townsend",61,2014-07-28 08:37:00,"2nd at Townsend",61,413,"Subscriber",94025
+"268",382334,125,2014-07-28 07:15:00,"Civic Center BART (7th at Market)",72,2014-07-28 07:17:00,"Civic Center BART (7th at Market)",72,491,"Subscriber",94122
+"269",382260,71,2014-07-28 04:31:00,"Civic Center BART (7th at Market)",72,2014-07-28 04:32:00,"Civic Center BART (7th at Market)",72,709,"Subscriber",94118
+"270",382259,65,2014-07-28 04:30:00,"Civic Center BART (7th at Market)",72,2014-07-28 04:31:00,"Civic Center BART (7th at Market)",72,463,"Subscriber",94118
+"271",382082,102,2014-07-27 16:54:00,"Howard at 2nd",63,2014-07-27 16:55:00,"Howard at 2nd",63,366,"Subscriber",2139
+"272",381793,103,2014-07-27 10:50:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-07-27 10:52:00,"San Francisco Caltrain 2 (330 Townsend)",69,436,"Subscriber",94107
+"273",381791,126,2014-07-27 10:50:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-07-27 10:52:00,"San Francisco Caltrain 2 (330 Townsend)",69,463,"Subscriber",94107
+"274",381670,89,2014-07-27 05:17:00,"South Van Ness at Market",66,2014-07-27 05:18:00,"South Van Ness at Market",66,335,"Subscriber",94117
+"275",381660,94,2014-07-27 02:52:00,"San Pedro Square",6,2014-07-27 02:53:00,"San Pedro Square",6,45,"Subscriber",95112
+"276",381478,66,2014-07-26 18:02:00,"Harry Bridges Plaza (Ferry Building)",50,2014-07-26 18:03:00,"Harry Bridges Plaza (Ferry Building)",50,449,"Customer",60061
+"277",381342,145,2014-07-26 15:47:00,"Mechanics Plaza (Market at Battery)",75,2014-07-26 15:49:00,"Mechanics Plaza (Market at Battery)",75,555,"Customer",95051
+"278",381273,161,2014-07-26 14:28:00,"Powell at Post (Union Square)",71,2014-07-26 14:31:00,"Powell at Post (Union Square)",71,521,"Customer",10547
+"279",380912,83,2014-07-25 21:28:00,"Castro Street and El Camino Real",32,2014-07-25 21:30:00,"Castro Street and El Camino Real",32,155,"Customer",NA
+"280",380584,60,2014-07-25 17:30:00,"Castro Street and El Camino Real",32,2014-07-25 17:31:00,"Castro Street and El Camino Real",32,155,"Subscriber",94133
+"281",380498,67,2014-07-25 17:00:00,"Grant Avenue at Columbus Avenue",73,2014-07-25 17:01:00,"Grant Avenue at Columbus Avenue",73,483,"Customer",NA
+"282",380231,88,2014-07-25 14:19:00,"Market at Sansome",77,2014-07-25 14:21:00,"Market at Sansome",77,438,"Subscriber",94965
+"283",380026,171,2014-07-25 11:51:00,"2nd at Townsend",61,2014-07-25 11:54:00,"2nd at Townsend",61,630,"Subscriber",94117
+"284",379667,121,2014-07-25 08:47:00,"Washington at Kearny",46,2014-07-25 08:49:00,"Washington at Kearny",46,347,"Customer",63104
+"285",379466,132,2014-07-25 07:46:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-07-25 07:49:00,"San Francisco Caltrain 2 (330 Townsend)",69,877,"Subscriber",94040
+"286",378420,100,2014-07-24 13:31:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-07-24 13:33:00,"San Francisco Caltrain 2 (330 Townsend)",69,428,"Subscriber",94107
+"287",377777,118,2014-07-24 08:12:00,"Mechanics Plaza (Market at Battery)",75,2014-07-24 08:14:00,"Mechanics Plaza (Market at Battery)",75,405,"Subscriber",94590
+"288",376936,100,2014-07-23 17:21:00,"Davis at Jackson",42,2014-07-23 17:22:00,"Davis at Jackson",42,541,"Subscriber",94132
+"289",376699,101,2014-07-23 15:59:00,"Grant Avenue at Columbus Avenue",73,2014-07-23 16:01:00,"Grant Avenue at Columbus Avenue",73,292,"Customer",75063
+"290",376698,108,2014-07-23 15:59:00,"Grant Avenue at Columbus Avenue",73,2014-07-23 16:01:00,"Grant Avenue at Columbus Avenue",73,273,"Customer",75063
+"291",376560,114,2014-07-23 13:54:00,"Broadway St at Battery St",82,2014-07-23 13:56:00,"Broadway St at Battery St",82,404,"Subscriber",94606
+"292",376352,82,2014-07-23 11:35:00,"Paseo de San Antonio",7,2014-07-23 11:37:00,"Paseo de San Antonio",7,713,"Subscriber",95113
+"293",376204,80,2014-07-23 10:13:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-07-23 10:15:00,"San Francisco Caltrain 2 (330 Townsend)",69,614,"Subscriber",94066
+"294",372630,67,2014-07-21 14:10:00,"Clay at Battery",41,2014-07-21 14:11:00,"Clay at Battery",41,652,"Subscriber",94107
+"295",372314,63,2014-07-21 09:21:00,"SJSU - San Salvador at 9th",16,2014-07-21 09:22:00,"SJSU - San Salvador at 9th",16,226,"Subscriber",95112
+"296",371977,72,2014-07-21 07:44:00,"Market at 10th",67,2014-07-21 07:45:00,"Market at 10th",67,598,"Subscriber",94103
+"297",371573,73,2014-07-20 14:22:00,"Civic Center BART (7th at Market)",72,2014-07-20 14:23:00,"Civic Center BART (7th at Market)",72,442,"Customer",89109
+"298",371186,161,2014-07-19 17:29:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-07-19 17:31:00,"San Francisco Caltrain 2 (330 Townsend)",69,271,"Subscriber",94103
+"299",371048,63,2014-07-19 14:45:00,"Embarcadero at Sansome",60,2014-07-19 14:46:00,"Embarcadero at Sansome",60,622,"Customer",3660
+"300",370872,82,2014-07-19 11:40:00,"Embarcadero at Bryant",54,2014-07-19 11:41:00,"Embarcadero at Bryant",54,320,"Subscriber",94107
+"301",370852,76,2014-07-19 11:29:00,"Embarcadero at Vallejo",48,2014-07-19 11:30:00,"Embarcadero at Vallejo",48,563,"Customer",95060
+"302",370850,147,2014-07-19 11:27:00,"Embarcadero at Vallejo",48,2014-07-19 11:30:00,"Embarcadero at Vallejo",48,489,"Customer",95066
+"303",370656,80,2014-07-18 22:23:00,"Steuart at Market",74,2014-07-18 22:24:00,"Steuart at Market",74,400,"Customer",NA
+"304",370513,115,2014-07-18 18:57:00,"2nd at Townsend",61,2014-07-18 18:59:00,"2nd at Townsend",61,572,"Customer",94158
+"305",369931,107,2014-07-18 14:13:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-07-18 14:15:00,"Temporary Transbay Terminal (Howard at Beale)",55,348,"Subscriber",94105
+"306",369909,69,2014-07-18 13:56:00,"Spear at Folsom",49,2014-07-18 13:57:00,"Spear at Folsom",49,475,"Subscriber",94111
+"307",369545,144,2014-07-18 09:22:00,"2nd at Townsend",61,2014-07-18 09:24:00,"2nd at Townsend",61,483,"Subscriber",94107
+"308",369264,142,2014-07-18 07:59:00,"Steuart at Market",74,2014-07-18 08:01:00,"Steuart at Market",74,535,"Subscriber",94941
+"309",369128,73,2014-07-17 23:00:00,"Grant Avenue at Columbus Avenue",73,2014-07-17 23:01:00,"Grant Avenue at Columbus Avenue",73,496,"Subscriber",94102
+"310",369120,145,2014-07-17 22:17:00,"Commercial at Montgomery",45,2014-07-17 22:19:00,"Commercial at Montgomery",45,370,"Subscriber",94107
+"311",369068,167,2014-07-17 20:42:00,"Castro Street and El Camino Real",32,2014-07-17 20:45:00,"Castro Street and El Camino Real",32,16,"Subscriber",94041
+"312",368785,164,2014-07-17 17:40:00,"Harry Bridges Plaza (Ferry Building)",50,2014-07-17 17:42:00,"Harry Bridges Plaza (Ferry Building)",50,677,"Subscriber",94703
+"313",368498,64,2014-07-17 16:13:00,"2nd at Townsend",61,2014-07-17 16:14:00,"2nd at Townsend",61,325,"Subscriber",94611
+"314",368161,160,2014-07-17 12:13:00,"Civic Center BART (7th at Market)",72,2014-07-17 12:16:00,"Civic Center BART (7th at Market)",72,335,"Customer",NA
+"315",366075,97,2014-07-16 09:43:00,"Harry Bridges Plaza (Ferry Building)",50,2014-07-16 09:44:00,"Harry Bridges Plaza (Ferry Building)",50,430,"Subscriber",94103
+"316",365458,72,2014-07-15 20:38:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,2014-07-15 20:39:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,625,"Subscriber",94941
+"317",363454,65,2014-07-14 18:52:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-07-14 18:53:00,"Temporary Transbay Terminal (Howard at Beale)",55,449,"Subscriber",94608
+"318",362788,60,2014-07-14 14:09:00,"Powell Street BART",39,2014-07-14 14:10:00,"Powell Street BART",39,372,"Subscriber",94102
+"319",362685,68,2014-07-14 12:06:00,"Embarcadero at Sansome",60,2014-07-14 12:07:00,"Embarcadero at Sansome",60,391,"Subscriber",94109
+"320",362449,85,2014-07-14 09:28:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-07-14 09:29:00,"San Francisco Caltrain (Townsend at 4th)",70,222,"Subscriber",94040
+"321",362273,122,2014-07-14 08:43:00,"Market at 10th",67,2014-07-14 08:45:00,"Market at 10th",67,322,"Subscriber",94102
+"322",361865,124,2014-07-13 19:23:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-07-13 19:25:00,"San Francisco Caltrain (Townsend at 4th)",70,504,"Subscriber",94133
+"323",361584,152,2014-07-13 15:05:00,"South Van Ness at Market",66,2014-07-13 15:08:00,"South Van Ness at Market",66,575,"Customer",85016
+"324",361379,168,2014-07-13 09:58:00,"Palo Alto Caltrain Station",34,2014-07-13 10:01:00,"Palo Alto Caltrain Station",34,217,"Subscriber",94117
+"325",360744,73,2014-07-12 08:18:00,"Harry Bridges Plaza (Ferry Building)",50,2014-07-12 08:20:00,"Harry Bridges Plaza (Ferry Building)",50,602,"Subscriber",94546
+"326",360471,68,2014-07-11 18:15:00,"Townsend at 7th",65,2014-07-11 18:16:00,"Townsend at 7th",65,490,"Subscriber",94105
+"327",360102,75,2014-07-11 16:10:00,"Spear at Folsom",49,2014-07-11 16:11:00,"Spear at Folsom",49,283,"Subscriber",94028
+"328",360073,140,2014-07-11 15:57:00,"Embarcadero at Sansome",60,2014-07-11 15:59:00,"Embarcadero at Sansome",60,447,"Subscriber",94109
+"329",358911,82,2014-07-10 18:06:00,"Redwood City Public Library",24,2014-07-10 18:07:00,"Redwood City Public Library",24,641,"Subscriber",94041
+"330",358605,61,2014-07-10 16:34:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-07-10 16:35:00,"San Francisco Caltrain (Townsend at 4th)",70,622,"Subscriber",94706
+"331",358195,115,2014-07-10 11:27:00,"Mechanics Plaza (Market at Battery)",75,2014-07-10 11:29:00,"Mechanics Plaza (Market at Battery)",75,370,"Subscriber",94804
+"332",357966,118,2014-07-10 09:17:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-07-10 09:19:00,"San Francisco Caltrain (Townsend at 4th)",70,342,"Subscriber",94158
+"333",355819,115,2014-07-09 07:52:00,"SJSU 4th at San Carlos",12,2014-07-09 07:54:00,"SJSU 4th at San Carlos",12,132,"Subscriber",95112
+"334",355410,115,2014-07-08 18:35:00,"Mechanics Plaza (Market at Battery)",75,2014-07-08 18:37:00,"Mechanics Plaza (Market at Battery)",75,418,"Customer",94134
+"335",354472,124,2014-07-08 09:21:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-07-08 09:23:00,"San Francisco Caltrain (Townsend at 4th)",70,417,"Subscriber",94122
+"336",354444,97,2014-07-08 09:16:00,"Davis at Jackson",42,2014-07-08 09:17:00,"Davis at Jackson",42,468,"Subscriber",94111
+"337",354287,73,2014-07-08 08:39:00,"Grant Avenue at Columbus Avenue",73,2014-07-08 08:41:00,"Grant Avenue at Columbus Avenue",73,402,"Subscriber",94133
+"338",353955,95,2014-07-07 22:32:00,"Market at 4th",76,2014-07-07 22:34:00,"Market at 4th",76,326,"Subscriber",94301
+"339",353765,62,2014-07-07 18:59:00,"Townsend at 7th",65,2014-07-07 19:00:00,"Townsend at 7th",65,287,"Subscriber",94122
+"340",353684,98,2014-07-07 18:20:00,"Market at 10th",67,2014-07-07 18:22:00,"Market at 10th",67,548,"Subscriber",94108
+"341",353374,67,2014-07-07 16:58:00,"Mechanics Plaza (Market at Battery)",75,2014-07-07 16:59:00,"Mechanics Plaza (Market at Battery)",75,368,"Subscriber",94121
+"342",352973,84,2014-07-07 11:05:00,"Civic Center BART (7th at Market)",72,2014-07-07 11:06:00,"Civic Center BART (7th at Market)",72,349,"Subscriber",94107
+"343",352936,104,2014-07-07 10:26:00,"2nd at Townsend",61,2014-07-07 10:28:00,"2nd at Townsend",61,581,"Subscriber",94107
+"344",352741,62,2014-07-07 08:55:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-07-07 08:56:00,"Temporary Transbay Terminal (Howard at Beale)",55,597,"Subscriber",94618
+"345",352572,104,2014-07-07 08:16:00,"Paseo de San Antonio",7,2014-07-07 08:17:00,"Paseo de San Antonio",7,142,"Subscriber",95113
+"346",352169,169,2014-07-06 16:58:00,"Harry Bridges Plaza (Ferry Building)",50,2014-07-06 17:01:00,"Harry Bridges Plaza (Ferry Building)",50,490,"Customer",95660
+"347",352099,68,2014-07-06 15:25:00,"Mechanics Plaza (Market at Battery)",75,2014-07-06 15:26:00,"Mechanics Plaza (Market at Battery)",75,546,"Customer",NA
+"348",352094,137,2014-07-06 15:18:00,"Redwood City Caltrain Station",22,2014-07-06 15:20:00,"Redwood City Caltrain Station",22,38,"Subscriber",94609
+"349",352036,104,2014-07-06 14:34:00,"Beale at Market",56,2014-07-06 14:36:00,"Beale at Market",56,372,"Customer",NA
+"350",351951,115,2014-07-06 12:12:00,"University and Emerson",35,2014-07-06 12:14:00,"University and Emerson",35,9,"Customer",NA
+"351",351711,119,2014-07-05 18:48:00,"Washington at Kearny",46,2014-07-05 18:50:00,"Washington at Kearny",46,406,"Customer",94158
+"352",351551,130,2014-07-05 15:54:00,"2nd at Townsend",61,2014-07-05 15:57:00,"2nd at Townsend",61,317,"Customer",94103
+"353",351540,171,2014-07-05 15:39:00,"Harry Bridges Plaza (Ferry Building)",50,2014-07-05 15:42:00,"Harry Bridges Plaza (Ferry Building)",50,276,"Subscriber",94618
+"354",351174,128,2014-07-04 22:13:00,"Commercial at Montgomery",45,2014-07-04 22:15:00,"Commercial at Montgomery",45,687,"Subscriber",94132
+"355",350760,64,2014-07-04 11:19:00,"Embarcadero at Sansome",60,2014-07-04 11:20:00,"Embarcadero at Sansome",60,592,"Customer",NA
+"356",350599,133,2014-07-03 21:54:00,"SJSU 4th at San Carlos",12,2014-07-03 21:56:00,"SJSU 4th at San Carlos",12,708,"Subscriber",94086
+"357",350523,158,2014-07-03 19:31:00,"Embarcadero at Bryant",54,2014-07-03 19:34:00,"Embarcadero at Bryant",54,559,"Customer",92506
+"358",350302,139,2014-07-03 17:04:00,"San Francisco City Hall",58,2014-07-03 17:06:00,"San Francisco City Hall",58,310,"Customer",93230
+"359",348975,162,2014-07-02 18:21:00,"Townsend at 7th",65,2014-07-02 18:23:00,"Townsend at 7th",65,289,"Subscriber",94121
+"360",348468,95,2014-07-02 13:56:00,"San Mateo County Center",23,2014-07-02 13:58:00,"San Mateo County Center",23,108,"Customer",94025
+"361",347798,61,2014-07-02 08:03:00,"2nd at Townsend",61,2014-07-02 08:04:00,"2nd at Townsend",61,270,"Subscriber",94107
+"362",344472,114,2014-06-30 08:03:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-06-30 08:05:00,"San Francisco Caltrain 2 (330 Townsend)",69,274,"Subscriber",94402
+"363",344450,81,2014-06-30 07:59:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-06-30 08:00:00,"San Francisco Caltrain 2 (330 Townsend)",69,274,"Subscriber",94070
+"364",344383,109,2014-06-30 07:36:00,"Commercial at Montgomery",45,2014-06-30 07:37:00,"Commercial at Montgomery",45,502,"Customer",30309
+"365",344218,102,2014-06-29 21:01:00,"Washington at Kearny",46,2014-06-29 21:03:00,"Washington at Kearny",46,546,"Customer",84065
+"366",344094,72,2014-06-29 17:54:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-06-29 17:55:00,"San Francisco Caltrain 2 (330 Townsend)",69,877,"Subscriber",94105
+"367",343996,69,2014-06-29 16:12:00,"2nd at Townsend",61,2014-06-29 16:13:00,"2nd at Townsend",61,591,"Customer",94121
+"368",343925,101,2014-06-29 14:59:00,"San Jose Diridon Caltrain Station",2,2014-06-29 15:01:00,"San Jose Diridon Caltrain Station",2,44,"Subscriber",95112
+"369",343771,70,2014-06-29 10:57:00,"Townsend at 7th",65,2014-06-29 10:59:00,"Townsend at 7th",65,520,"Subscriber",94043
+"370",343567,113,2014-06-28 19:22:00,"2nd at Townsend",61,2014-06-28 19:24:00,"2nd at Townsend",61,595,"Subscriber",94131
+"371",343456,64,2014-06-28 16:42:00,"Embarcadero at Sansome",60,2014-06-28 16:43:00,"Embarcadero at Sansome",60,342,"Subscriber",94546
+"372",343349,165,2014-06-28 14:51:00,"California Ave Caltrain Station",36,2014-06-28 14:54:00,"California Ave Caltrain Station",36,192,"Customer",NA
+"373",343277,69,2014-06-28 13:31:00,"San Jose City Hall",10,2014-06-28 13:32:00,"San Jose City Hall",10,146,"Customer",94043
+"374",343176,166,2014-06-28 11:19:00,"Embarcadero at Sansome",60,2014-06-28 11:21:00,"Embarcadero at Sansome",60,337,"Customer",92663
+"375",343175,178,2014-06-28 11:18:00,"Embarcadero at Sansome",60,2014-06-28 11:21:00,"Embarcadero at Sansome",60,594,"Customer",92663
+"376",343072,101,2014-06-28 07:53:00,"Beale at Market",56,2014-06-28 07:55:00,"Beale at Market",56,559,"Subscriber",94546
+"377",342954,115,2014-06-27 20:45:00,"Harry Bridges Plaza (Ferry Building)",50,2014-06-27 20:47:00,"Harry Bridges Plaza (Ferry Building)",50,325,"Customer",80302
+"378",342931,82,2014-06-27 20:21:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-06-27 20:23:00,"San Francisco Caltrain (Townsend at 4th)",70,383,"Subscriber",94549
+"379",341966,133,2014-06-27 09:53:00,"Embarcadero at Folsom",51,2014-06-27 09:55:00,"Embarcadero at Folsom",51,595,"Subscriber",94107
+"380",341663,82,2014-06-27 07:59:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,2014-06-27 08:01:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,513,"Customer",94087
+"381",341495,109,2014-06-26 23:47:00,"Embarcadero at Sansome",60,2014-06-26 23:49:00,"Embarcadero at Sansome",60,503,"Customer",94066
+"382",341122,74,2014-06-26 17:49:00,"South Van Ness at Market",66,2014-06-26 17:50:00,"South Van Ness at Market",66,432,"Subscriber",94403
+"383",340859,122,2014-06-26 16:15:00,"Grant Avenue at Columbus Avenue",73,2014-06-26 16:17:00,"Grant Avenue at Columbus Avenue",73,477,"Subscriber",94606
+"384",340214,135,2014-06-26 08:56:00,"Market at Sansome",77,2014-06-26 08:58:00,"Market at Sansome",77,546,"Subscriber",94804
+"385",339326,66,2014-06-25 17:18:00,"Palo Alto Caltrain Station",34,2014-06-25 17:19:00,"Palo Alto Caltrain Station",34,686,"Customer",94306
+"386",339173,129,2014-06-25 16:24:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-06-25 16:26:00,"San Francisco Caltrain (Townsend at 4th)",70,595,"Subscriber",94086
+"387",339052,82,2014-06-25 14:58:00,"Embarcadero at Bryant",54,2014-06-25 14:59:00,"Embarcadero at Bryant",54,420,"Customer",94965
+"388",338716,100,2014-06-25 09:54:00,"Civic Center BART (7th at Market)",72,2014-06-25 09:56:00,"Civic Center BART (7th at Market)",72,431,"Subscriber",94102
+"389",338661,67,2014-06-25 09:32:00,"Civic Center BART (7th at Market)",72,2014-06-25 09:33:00,"Civic Center BART (7th at Market)",72,431,"Subscriber",94618
+"390",337907,92,2014-06-24 18:51:00,"Embarcadero at Bryant",54,2014-06-24 18:52:00,"Embarcadero at Bryant",54,420,"Subscriber",94609
+"391",337782,65,2014-06-24 18:10:00,"San Jose Diridon Caltrain Station",2,2014-06-24 18:11:00,"San Jose Diridon Caltrain Station",2,18,"Subscriber",95113
+"392",337101,144,2014-06-24 12:21:00,"Davis at Jackson",42,2014-06-24 12:23:00,"Davis at Jackson",42,595,"Subscriber",94111
+"393",337040,119,2014-06-24 11:35:00,"Embarcadero at Folsom",51,2014-06-24 11:37:00,"Embarcadero at Folsom",51,483,"Customer",92124
+"394",335861,142,2014-06-23 17:37:00,"Townsend at 7th",65,2014-06-23 17:40:00,"Townsend at 7th",65,595,"Subscriber",94403
+"395",335857,153,2014-06-23 17:35:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-06-23 17:37:00,"San Francisco Caltrain 2 (330 Townsend)",69,350,"Subscriber",94014
+"396",335844,60,2014-06-23 17:31:00,"Powell Street BART",39,2014-06-23 17:32:00,"Powell Street BART",39,407,"Subscriber",94102
+"397",334921,156,2014-06-23 08:22:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-06-23 08:24:00,"Temporary Transbay Terminal (Howard at Beale)",55,377,"Subscriber",94610
+"398",334622,86,2014-06-22 20:47:00,"Mountain View Caltrain Station",28,2014-06-22 20:48:00,"Mountain View Caltrain Station",28,43,"Customer",11362
+"399",334371,152,2014-06-22 15:37:00,"Embarcadero at Sansome",60,2014-06-22 15:40:00,"Embarcadero at Sansome",60,636,"Customer",60624
+"400",334313,144,2014-06-22 14:31:00,"Embarcadero at Sansome",60,2014-06-22 14:33:00,"Embarcadero at Sansome",60,564,"Customer",12245
+"401",333981,104,2014-06-21 22:36:00,"Market at 4th",76,2014-06-21 22:38:00,"Market at 4th",76,562,"Subscriber",94107
+"402",333960,103,2014-06-21 20:58:00,"Market at 4th",76,2014-06-21 21:00:00,"Market at 4th",76,282,"Subscriber",94104
+"403",333844,168,2014-06-21 17:06:00,"Washington at Kearny",46,2014-06-21 17:09:00,"Washington at Kearny",46,384,"Customer",97214
+"404",333595,130,2014-06-21 10:54:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-06-21 10:57:00,"San Francisco Caltrain 2 (330 Townsend)",69,482,"Customer",30039
+"405",333215,67,2014-06-20 17:56:00,"SJSU - San Salvador at 9th",16,2014-06-20 17:57:00,"SJSU - San Salvador at 9th",16,207,"Subscriber",95126
+"406",332961,66,2014-06-20 16:39:00,"Townsend at 7th",65,2014-06-20 16:40:00,"Townsend at 7th",65,519,"Subscriber",94925
+"407",331918,82,2014-06-19 20:47:00,"Embarcadero at Bryant",54,2014-06-19 20:49:00,"Embarcadero at Bryant",54,475,"Subscriber",94105
+"408",331195,91,2014-06-19 14:29:00,"Powell Street BART",39,2014-06-19 14:30:00,"Powell Street BART",39,598,"Subscriber",94602
+"409",330840,79,2014-06-19 09:38:00,"Palo Alto Caltrain Station",34,2014-06-19 09:39:00,"Palo Alto Caltrain Station",34,52,"Subscriber",95608
+"410",330309,154,2014-06-18 21:31:00,"Evelyn Park and Ride",30,2014-06-18 21:33:00,"Evelyn Park and Ride",30,19,"Customer",94041
+"411",330130,177,2014-06-18 18:49:00,"2nd at South Park",64,2014-06-18 18:52:00,"2nd at South Park",64,357,"Customer",94404
+"412",330099,83,2014-06-18 18:35:00,"Embarcadero at Vallejo",48,2014-06-18 18:37:00,"Embarcadero at Vallejo",48,602,"Subscriber",94105
+"413",329734,177,2014-06-18 16:43:00,"Market at 10th",67,2014-06-18 16:46:00,"Market at 10th",67,546,"Customer",94102
+"414",329580,66,2014-06-18 14:55:00,"University and Emerson",35,2014-06-18 14:56:00,"University and Emerson",35,147,"Customer",14850
+"415",329502,66,2014-06-18 13:14:00,"Market at Sansome",77,2014-06-18 13:16:00,"Market at Sansome",77,352,"Subscriber",94611
+"416",329263,109,2014-06-18 10:00:00,"2nd at Folsom",62,2014-06-18 10:02:00,"2nd at Folsom",62,288,"Subscriber",94804
+"417",328091,75,2014-06-17 17:03:00,"Townsend at 7th",65,2014-06-17 17:04:00,"Townsend at 7th",65,327,"Subscriber",95120
+"418",326559,168,2014-06-16 17:42:00,"2nd at Townsend",61,2014-06-16 17:45:00,"2nd at Townsend",61,390,"Subscriber",94105
+"419",326126,84,2014-06-16 14:54:00,"Embarcadero at Sansome",60,2014-06-16 14:55:00,"Embarcadero at Sansome",60,608,"Subscriber",94028
+"420",326010,61,2014-06-16 12:22:00,"Commercial at Montgomery",45,2014-06-16 12:23:00,"Commercial at Montgomery",45,380,"Subscriber",94122
+"421",325463,70,2014-06-16 08:07:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-06-16 08:08:00,"San Francisco Caltrain (Townsend at 4th)",70,528,"Subscriber",94402
+"422",324936,68,2014-06-15 14:42:00,"Cowper at University",37,2014-06-15 14:43:00,"Cowper at University",37,643,"Subscriber",94116
+"423",324325,61,2014-06-14 12:44:00,"Powell Street BART",39,2014-06-14 12:45:00,"Powell Street BART",39,429,"Subscriber",94117
+"424",324025,160,2014-06-13 19:47:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,2014-06-13 19:49:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,289,"Subscriber",94131
+"425",323841,76,2014-06-13 18:06:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,2014-06-13 18:08:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,359,"Subscriber",94117
+"426",323341,125,2014-06-13 14:08:00,"Market at 10th",67,2014-06-13 14:10:00,"Market at 10th",67,491,"Customer",92620
+"427",323016,92,2014-06-13 09:44:00,"Evelyn Park and Ride",30,2014-06-13 09:46:00,"Evelyn Park and Ride",30,657,"Subscriber",94089
+"428",322786,72,2014-06-13 08:33:00,"Harry Bridges Plaza (Ferry Building)",50,2014-06-13 08:35:00,"Harry Bridges Plaza (Ferry Building)",50,266,"Subscriber",94546
+"429",322396,154,2014-06-12 20:10:00,"Mechanics Plaza (Market at Battery)",75,2014-06-12 20:13:00,"Mechanics Plaza (Market at Battery)",75,420,"Customer",91107
+"430",322176,102,2014-06-12 17:50:00,"Civic Center BART (7th at Market)",72,2014-06-12 17:51:00,"Civic Center BART (7th at Market)",72,327,"Customer",7722
+"431",321159,64,2014-06-12 08:02:00,"Civic Center BART (7th at Market)",72,2014-06-12 08:03:00,"Civic Center BART (7th at Market)",72,357,"Subscriber",94103
+"432",320873,136,2014-06-11 19:50:00,"SJSU - San Salvador at 9th",16,2014-06-11 19:52:00,"SJSU - San Salvador at 9th",16,178,"Subscriber",95112
+"433",319962,129,2014-06-11 11:02:00,"Paseo de San Antonio",7,2014-06-11 11:04:00,"Paseo de San Antonio",7,99,"Subscriber",95113
+"434",319259,68,2014-06-10 21:34:00,"2nd at South Park",64,2014-06-10 21:35:00,"2nd at South Park",64,415,"Customer",53711
+"435",318992,102,2014-06-10 18:18:00,"San Jose Diridon Caltrain Station",2,2014-06-10 18:19:00,"San Jose Diridon Caltrain Station",2,667,"Subscriber",95113
+"436",318967,82,2014-06-10 18:10:00,"Redwood City Public Library",24,2014-06-10 18:11:00,"Redwood City Public Library",24,641,"Subscriber",94041
+"437",317774,104,2014-06-10 07:45:00,"5th at Howard",57,2014-06-10 07:47:00,"5th at Howard",57,522,"Subscriber",94103
+"438",317135,81,2014-06-09 17:32:00,"Broadway St at Battery St",82,2014-06-09 17:33:00,"Broadway St at Battery St",82,137,"Subscriber",94109
+"439",315209,91,2014-06-08 00:34:00,"SJSU 4th at San Carlos",12,2014-06-08 00:35:00,"SJSU 4th at San Carlos",12,132,"Customer",94041
+"440",314762,129,2014-06-07 11:37:00,"Steuart at Market",74,2014-06-07 11:39:00,"Steuart at Market",74,416,"Customer",94123
+"441",314750,163,2014-06-07 11:08:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-06-07 11:10:00,"San Francisco Caltrain (Townsend at 4th)",70,488,"Customer",95112
+"442",314677,66,2014-06-07 09:29:00,"Powell Street BART",39,2014-06-07 09:30:00,"Powell Street BART",39,498,"Customer",NA
+"443",314471,71,2014-06-06 19:02:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-06-06 19:03:00,"San Francisco Caltrain (Townsend at 4th)",70,267,"Customer",94709
+"444",313970,152,2014-06-06 15:40:00,"Mechanics Plaza (Market at Battery)",75,2014-06-06 15:42:00,"Mechanics Plaza (Market at Battery)",75,537,"Customer",NA
+"445",313474,112,2014-06-06 09:09:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-06-06 09:11:00,"San Francisco Caltrain (Townsend at 4th)",70,337,"Subscriber",95129
+"446",313345,70,2014-06-06 08:38:00,"San Jose Civic Center",3,2014-06-06 08:40:00,"San Jose Civic Center",3,15,"Customer",75068
+"447",312777,120,2014-06-05 18:19:00,"Grant Avenue at Columbus Avenue",73,2014-06-05 18:21:00,"Grant Avenue at Columbus Avenue",73,677,"Subscriber",94111
+"448",312214,126,2014-06-05 13:25:00,"Market at 4th",76,2014-06-05 13:27:00,"Market at 4th",76,620,"Customer",94010
+"449",311841,65,2014-06-05 08:56:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-06-05 08:57:00,"San Francisco Caltrain (Townsend at 4th)",70,407,"Customer",90803
+"450",311450,157,2014-06-04 22:07:00,"Embarcadero at Vallejo",48,2014-06-04 22:09:00,"Embarcadero at Vallejo",48,505,"Customer",NA
+"451",311359,95,2014-06-04 19:49:00,"Market at 4th",76,2014-06-04 19:50:00,"Market at 4th",76,447,"Subscriber",94110
+"452",310914,76,2014-06-04 17:05:00,"2nd at Townsend",61,2014-06-04 17:07:00,"2nd at Townsend",61,414,"Subscriber",94044
+"453",310532,124,2014-06-04 12:55:00,"Embarcadero at Vallejo",48,2014-06-04 12:57:00,"Embarcadero at Vallejo",48,618,"Customer",NA
+"454",310001,134,2014-06-04 08:07:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-06-04 08:10:00,"San Francisco Caltrain 2 (330 Townsend)",69,597,"Subscriber",94402
+"455",309883,69,2014-06-04 07:38:00,"Santa Clara County Civic Center",80,2014-06-04 07:39:00,"Santa Clara County Civic Center",80,688,"Subscriber",95110
+"456",309804,99,2014-06-04 06:35:00,"Spear at Folsom",49,2014-06-04 06:37:00,"Spear at Folsom",49,372,"Subscriber",94105
+"457",308734,123,2014-06-03 12:03:00,"2nd at Townsend",61,2014-06-03 12:05:00,"2nd at Townsend",61,596,"Customer",NA
+"458",308592,66,2014-06-03 10:05:00,"2nd at Folsom",62,2014-06-03 10:06:00,"2nd at Folsom",62,438,"Subscriber",94804
+"459",308587,102,2014-06-03 10:03:00,"2nd at Folsom",62,2014-06-03 10:05:00,"2nd at Folsom",62,506,"Subscriber",94804
+"460",308366,69,2014-06-03 08:48:00,"Townsend at 7th",65,2014-06-03 08:49:00,"Townsend at 7th",65,355,"Subscriber",94103
+"461",308033,66,2014-06-03 06:15:00,"Embarcadero at Folsom",51,2014-06-03 06:16:00,"Embarcadero at Folsom",51,444,"Customer",30189
+"462",307926,85,2014-06-02 20:17:00,"Mountain View Caltrain Station",28,2014-06-02 20:19:00,"Mountain View Caltrain Station",28,296,"Subscriber",94041
+"463",306877,73,2014-06-02 10:52:00,"Townsend at 7th",65,2014-06-02 10:53:00,"Townsend at 7th",65,390,"Subscriber",94044
+"464",306110,137,2014-06-01 18:42:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,2014-06-01 18:44:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,617,"Subscriber",94105
+"465",305977,84,2014-06-01 16:05:00,"Market at 4th",76,2014-06-01 16:07:00,"Market at 4th",76,556,"Subscriber",95126
+"466",305806,75,2014-06-01 13:35:00,"Powell at Post (Union Square)",71,2014-06-01 13:36:00,"Powell at Post (Union Square)",71,435,"Subscriber",94105
+"467",305723,62,2014-06-01 12:03:00,"Harry Bridges Plaza (Ferry Building)",50,2014-06-01 12:04:00,"Harry Bridges Plaza (Ferry Building)",50,579,"Customer",NA
+"468",305672,118,2014-06-01 11:05:00,"Market at Sansome",77,2014-06-01 11:07:00,"Market at Sansome",77,300,"Customer",11111
+"469",305546,107,2014-05-31 20:59:00,"Market at Sansome",77,2014-05-31 21:01:00,"Market at Sansome",77,878,"Customer",91765
+"470",305545,145,2014-05-31 20:59:00,"Market at Sansome",77,2014-05-31 21:01:00,"Market at Sansome",77,300,"Customer",91765
+"471",304933,102,2014-05-30 21:32:00,"5th at Howard",57,2014-05-30 21:33:00,"5th at Howard",57,394,"Subscriber",94598
+"472",304840,63,2014-05-30 18:43:00,"University and Emerson",35,2014-05-30 18:44:00,"University and Emerson",35,210,"Customer",11374
+"473",304228,64,2014-05-30 12:10:00,"Market at 4th",76,2014-05-30 12:11:00,"Market at 4th",76,471,"Subscriber",94121
+"474",302876,169,2014-05-29 15:18:00,"Embarcadero at Vallejo",48,2014-05-29 15:21:00,"Embarcadero at Vallejo",48,445,"Customer",94109
+"475",301625,96,2014-05-28 17:53:00,"Santa Clara County Civic Center",80,2014-05-28 17:54:00,"Santa Clara County Civic Center",80,193,"Subscriber",95112
+"476",301483,157,2014-05-28 17:15:00,"Davis at Jackson",42,2014-05-28 17:18:00,"Davis at Jackson",42,422,"Customer",98115
+"477",299569,71,2014-05-27 15:08:00,"Mechanics Plaza (Market at Battery)",75,2014-05-27 15:09:00,"Mechanics Plaza (Market at Battery)",75,580,"Subscriber",94010
+"478",299438,75,2014-05-27 12:24:00,"Embarcadero at Sansome",60,2014-05-27 12:26:00,"Embarcadero at Sansome",60,507,"Subscriber",94133
+"479",299073,121,2014-05-27 08:50:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-05-27 08:52:00,"San Francisco Caltrain 2 (330 Townsend)",69,541,"Subscriber",94041
+"480",298396,167,2014-05-26 14:58:00,"2nd at Townsend",61,2014-05-26 15:01:00,"2nd at Townsend",61,525,"Customer",91505
+"481",297935,72,2014-05-25 19:19:00,"Embarcadero at Bryant",54,2014-05-25 19:20:00,"Embarcadero at Bryant",54,876,"Subscriber",94111
+"482",297172,115,2014-05-24 18:27:00,"Clay at Battery",41,2014-05-24 18:29:00,"Clay at Battery",41,624,"Subscriber",94402
+"483",296833,111,2014-05-24 09:50:00,"Cowper at University",37,2014-05-24 09:52:00,"Cowper at University",37,22,"Subscriber",94301
+"484",296408,63,2014-05-23 17:04:00,"5th at Howard",57,2014-05-23 17:05:00,"5th at Howard",57,328,"Subscriber",94103
+"485",296241,71,2014-05-23 15:50:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-05-23 15:51:00,"San Francisco Caltrain (Townsend at 4th)",70,513,"Subscriber",94104
+"486",296201,72,2014-05-23 15:21:00,"San Antonio Shopping Center",31,2014-05-23 15:23:00,"San Antonio Shopping Center",31,111,"Subscriber",94040
+"487",296143,109,2014-05-23 14:22:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-05-23 14:24:00,"San Francisco Caltrain 2 (330 Townsend)",69,414,"Subscriber",94107
+"488",294403,95,2014-05-22 11:29:00,"Market at 4th",76,2014-05-22 11:30:00,"Market at 4th",76,623,"Subscriber",94501
+"489",294291,86,2014-05-22 09:49:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-05-22 09:51:00,"San Francisco Caltrain (Townsend at 4th)",70,637,"Subscriber",95129
+"490",293764,106,2014-05-21 22:46:00,"Washington at Kearny",46,2014-05-21 22:48:00,"Washington at Kearny",46,352,"Subscriber",94123
+"491",293518,71,2014-05-21 18:21:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,2014-05-21 18:22:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,356,"Subscriber",94087
+"492",292903,101,2014-05-21 12:09:00,"University and Emerson",35,2014-05-21 12:10:00,"University and Emerson",35,295,"Customer",57186
+"493",291949,67,2014-05-20 17:58:00,"Market at 10th",67,2014-05-20 18:00:00,"Market at 10th",67,589,"Subscriber",94103
+"494",291473,80,2014-05-20 13:11:00,"Market at 10th",67,2014-05-20 13:13:00,"Market at 10th",67,627,"Subscriber",94102
+"495",290642,162,2014-05-19 20:44:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-05-19 20:47:00,"Temporary Transbay Terminal (Howard at Beale)",55,313,"Subscriber",95131
+"496",290467,71,2014-05-19 18:43:00,"Post at Kearny",47,2014-05-19 18:44:00,"Post at Kearny",47,513,"Customer",91387
+"497",290162,165,2014-05-19 17:12:00,"2nd at Folsom",62,2014-05-19 17:15:00,"2nd at Folsom",62,459,"Subscriber",94105
+"498",289781,169,2014-05-19 12:19:00,"Powell Street BART",39,2014-05-19 12:22:00,"Powell Street BART",39,310,"Subscriber",94501
+"499",289457,136,2014-05-19 08:45:00,"Harry Bridges Plaza (Ferry Building)",50,2014-05-19 08:47:00,"Harry Bridges Plaza (Ferry Building)",50,340,"Subscriber",94591
+"500",289037,168,2014-05-18 19:15:00,"Spear at Folsom",49,2014-05-18 19:17:00,"Spear at Folsom",49,259,"Subscriber",94105
+"501",288952,128,2014-05-18 16:54:00,"Embarcadero at Sansome",60,2014-05-18 16:56:00,"Embarcadero at Sansome",60,331,"Customer",53707
+"502",288760,107,2014-05-18 12:47:00,"Embarcadero at Folsom",51,2014-05-18 12:49:00,"Embarcadero at Folsom",51,529,"Subscriber",94105
+"503",288691,125,2014-05-18 11:31:00,"Civic Center BART (7th at Market)",72,2014-05-18 11:33:00,"Civic Center BART (7th at Market)",72,284,"Customer",55117
+"504",288105,148,2014-05-17 12:24:00,"Washington at Kearny",46,2014-05-17 12:26:00,"Washington at Kearny",46,457,"Customer",95110
+"505",288104,85,2014-05-17 12:23:00,"Washington at Kearny",46,2014-05-17 12:25:00,"Washington at Kearny",46,601,"Customer",95110
+"506",287923,92,2014-05-17 09:04:00,"Embarcadero at Sansome",60,2014-05-17 09:06:00,"Embarcadero at Sansome",60,607,"Customer",94133
+"507",287774,83,2014-05-16 19:55:00,"Embarcadero at Sansome",60,2014-05-16 19:56:00,"Embarcadero at Sansome",60,607,"Customer",NA
+"508",287092,96,2014-05-16 13:05:00,"Powell Street BART",39,2014-05-16 13:07:00,"Powell Street BART",39,401,"Subscriber",94109
+"509",286897,110,2014-05-16 10:43:00,"University and Emerson",35,2014-05-16 10:44:00,"University and Emerson",35,97,"Customer",NA
+"510",286523,154,2014-05-16 08:05:00,"Evelyn Park and Ride",30,2014-05-16 08:07:00,"Evelyn Park and Ride",30,212,"Subscriber",94022
+"511",286070,103,2014-05-15 18:27:00,"Clay at Battery",41,2014-05-15 18:29:00,"Clay at Battery",41,317,"Subscriber",94123
+"512",285544,94,2014-05-15 13:59:00,"Clay at Battery",41,2014-05-15 14:01:00,"Clay at Battery",41,317,"Subscriber",94111
+"513",285052,71,2014-05-15 08:46:00,"Beale at Market",56,2014-05-15 08:47:00,"Beale at Market",56,385,"Subscriber",94703
+"514",284638,60,2014-05-14 20:11:00,"Market at 10th",67,2014-05-14 20:12:00,"Market at 10th",67,372,"Subscriber",94107
+"515",284451,118,2014-05-14 18:10:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-05-14 18:12:00,"San Francisco Caltrain (Townsend at 4th)",70,469,"Subscriber",94530
+"516",284299,111,2014-05-14 17:24:00,"Washington at Kearny",46,2014-05-14 17:26:00,"Washington at Kearny",46,345,"Subscriber",94122
+"517",283927,96,2014-05-14 13:00:00,"Embarcadero at Bryant",54,2014-05-14 13:02:00,"Embarcadero at Bryant",54,519,"Subscriber",94549
+"518",283786,131,2014-05-14 10:53:00,"Market at Sansome",77,2014-05-14 10:55:00,"Market at Sansome",77,467,"Customer",NA
+"519",282184,125,2014-05-13 11:35:00,"Powell at Post (Union Square)",71,2014-05-13 11:37:00,"Powell at Post (Union Square)",71,530,"Customer",23556
+"520",281807,109,2014-05-13 08:37:00,"South Van Ness at Market",66,2014-05-13 08:39:00,"South Van Ness at Market",66,560,"Subscriber",94114
+"521",281042,73,2014-05-12 17:33:00,"Townsend at 7th",65,2014-05-12 17:34:00,"Townsend at 7th",65,360,"Subscriber",94707
+"522",280602,85,2014-05-12 12:14:00,"Market at 10th",67,2014-05-12 12:16:00,"Market at 10th",67,542,"Customer",NA
+"523",280089,75,2014-05-12 08:11:00,"Steuart at Market",74,2014-05-12 08:12:00,"Steuart at Market",74,361,"Subscriber",94121
+"524",279584,74,2014-05-11 12:59:00,"Redwood City Public Library",24,2014-05-11 13:01:00,"Redwood City Public Library",24,38,"Subscriber",94070
+"525",279488,135,2014-05-11 10:54:00,"2nd at South Park",64,2014-05-11 10:57:00,"2nd at South Park",64,576,"Subscriber",95815
+"526",279373,130,2014-05-10 18:36:00,"Civic Center BART (7th at Market)",72,2014-05-10 18:38:00,"Civic Center BART (7th at Market)",72,417,"Subscriber",94102
+"527",279347,94,2014-05-10 17:56:00,"Powell Street BART",39,2014-05-10 17:58:00,"Powell Street BART",39,621,"Customer",94588
+"528",279246,64,2014-05-10 15:40:00,"Embarcadero at Vallejo",48,2014-05-10 15:41:00,"Embarcadero at Vallejo",48,325,"Subscriber",94111
+"529",278460,140,2014-05-09 16:53:00,"Market at 4th",76,2014-05-09 16:56:00,"Market at 4th",76,267,"Subscriber",94109
+"530",278384,134,2014-05-09 16:21:00,"Market at 4th",76,2014-05-09 16:23:00,"Market at 4th",76,267,"Subscriber",94109
+"531",277755,145,2014-05-09 08:31:00,"Ryland Park",84,2014-05-09 08:33:00,"Ryland Park",84,656,"Subscriber",95112
+"532",277534,118,2014-05-09 06:33:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-05-09 06:35:00,"San Francisco Caltrain (Townsend at 4th)",70,629,"Subscriber",95125
+"533",277504,99,2014-05-08 21:36:00,"Embarcadero at Folsom",51,2014-05-08 21:38:00,"Embarcadero at Folsom",51,591,"Customer",2445
+"534",277198,114,2014-05-08 17:21:00,"San Jose City Hall",10,2014-05-08 17:23:00,"San Jose City Hall",10,257,"Subscriber",94041
+"535",277157,101,2014-05-08 17:05:00,"Mechanics Plaza (Market at Battery)",75,2014-05-08 17:06:00,"Mechanics Plaza (Market at Battery)",75,557,"Subscriber",94107
+"536",276039,133,2014-05-07 19:46:00,"Beale at Market",56,2014-05-07 19:48:00,"Beale at Market",56,627,"Subscriber",94110
+"537",275629,91,2014-05-07 16:58:00,"Market at 10th",67,2014-05-07 17:00:00,"Market at 10th",67,470,"Subscriber",94103
+"538",275628,91,2014-05-07 16:58:00,"Market at 10th",67,2014-05-07 17:00:00,"Market at 10th",67,277,"Subscriber",94103
+"539",275326,95,2014-05-07 12:49:00,"Embarcadero at Sansome",60,2014-05-07 12:50:00,"Embarcadero at Sansome",60,624,"Customer",91438
+"540",274634,61,2014-05-07 06:40:00,"Harry Bridges Plaza (Ferry Building)",50,2014-05-07 06:41:00,"Harry Bridges Plaza (Ferry Building)",50,391,"Subscriber",94111
+"541",274516,143,2014-05-06 20:33:00,"Davis at Jackson",42,2014-05-06 20:36:00,"Davis at Jackson",42,450,"Subscriber",94108
+"542",273733,87,2014-05-06 13:01:00,"Embarcadero at Sansome",60,2014-05-06 13:03:00,"Embarcadero at Sansome",60,558,"Customer",94121
+"543",272822,99,2014-05-05 19:05:00,"Townsend at 7th",65,2014-05-05 19:07:00,"Townsend at 7th",65,474,"Customer",94102
+"544",272807,95,2014-05-05 18:55:00,"Washington at Kearny",46,2014-05-05 18:57:00,"Washington at Kearny",46,495,"Subscriber",94133
+"545",272103,120,2014-05-05 12:20:00,"Embarcadero at Folsom",51,2014-05-05 12:22:00,"Embarcadero at Folsom",51,515,"Subscriber",94105
+"546",271822,62,2014-05-05 09:10:00,"Embarcadero at Sansome",60,2014-05-05 09:11:00,"Embarcadero at Sansome",60,620,"Customer",NA
+"547",271332,124,2014-05-04 19:26:00,"Embarcadero at Folsom",51,2014-05-04 19:28:00,"Embarcadero at Folsom",51,515,"Subscriber",94107
+"548",271037,65,2014-05-04 13:53:00,"Civic Center BART (7th at Market)",72,2014-05-04 13:54:00,"Civic Center BART (7th at Market)",72,522,"Subscriber",94103
+"549",270573,160,2014-05-03 14:42:00,"San Pedro Square",6,2014-05-03 14:45:00,"San Pedro Square",6,143,"Customer",91360
+"550",270032,73,2014-05-02 18:05:00,"San Jose City Hall",10,2014-05-02 18:06:00,"San Jose City Hall",10,61,"Subscriber",94010
+"551",269987,71,2014-05-02 17:47:00,"Steuart at Market",74,2014-05-02 17:48:00,"Steuart at Market",74,437,"Subscriber",94158
+"552",269974,135,2014-05-02 17:44:00,"Palo Alto Caltrain Station",34,2014-05-02 17:46:00,"Palo Alto Caltrain Station",34,111,"Subscriber",94301
+"553",269891,126,2014-05-02 17:10:00,"San Jose Diridon Caltrain Station",2,2014-05-02 17:12:00,"San Jose Diridon Caltrain Station",2,65,"Subscriber",94133
+"554",269562,134,2014-05-02 13:09:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-05-02 13:11:00,"Temporary Transbay Terminal (Howard at Beale)",55,270,"Subscriber",94158
+"555",269343,67,2014-05-02 09:56:00,"Harry Bridges Plaza (Ferry Building)",50,2014-05-02 09:57:00,"Harry Bridges Plaza (Ferry Building)",50,477,"Subscriber",94579
+"556",269098,70,2014-05-02 08:24:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-05-02 08:25:00,"Temporary Transbay Terminal (Howard at Beale)",55,539,"Subscriber",94133
+"557",268806,138,2014-05-01 20:11:00,"Harry Bridges Plaza (Ferry Building)",50,2014-05-01 20:14:00,"Harry Bridges Plaza (Ferry Building)",50,623,"Customer",NA
+"558",268540,67,2014-05-01 17:54:00,"Embarcadero at Vallejo",48,2014-05-01 17:55:00,"Embarcadero at Vallejo",48,387,"Subscriber",94114
+"559",268377,104,2014-05-01 17:01:00,"Market at Sansome",77,2014-05-01 17:03:00,"Market at Sansome",77,541,"Subscriber",94104
+"560",268078,112,2014-05-01 13:04:00,"Market at Sansome",77,2014-05-01 13:06:00,"Market at Sansome",77,280,"Subscriber",94131
+"561",267034,71,2014-04-30 17:56:00,"Beale at Market",56,2014-04-30 17:58:00,"Beale at Market",56,380,"Subscriber",94404
+"562",266570,89,2014-04-30 13:38:00,"5th at Howard",57,2014-04-30 13:39:00,"5th at Howard",57,274,"Customer",94039
+"563",266461,74,2014-04-30 12:12:00,"Adobe on Almaden",5,2014-04-30 12:13:00,"Adobe on Almaden",5,205,"Subscriber",95136
+"564",266377,157,2014-04-30 11:07:00,"Spear at Folsom",49,2014-04-30 11:09:00,"Spear at Folsom",49,365,"Subscriber",94105
+"565",263518,84,2014-04-28 16:48:00,"2nd at Townsend",61,2014-04-28 16:50:00,"2nd at Townsend",61,267,"Subscriber",94606
+"566",262706,132,2014-04-28 07:42:00,"Market at 10th",67,2014-04-28 07:44:00,"Market at 10th",67,617,"Customer",NA
+"567",262290,125,2014-04-27 13:11:00,"Ryland Park",84,2014-04-27 13:13:00,"Ryland Park",84,49,"Subscriber",95112
+"568",261926,73,2014-04-26 16:42:00,"Harry Bridges Plaza (Ferry Building)",50,2014-04-26 16:44:00,"Harry Bridges Plaza (Ferry Building)",50,495,"Subscriber",94107
+"569",261795,173,2014-04-26 13:18:00,"Powell Street BART",39,2014-04-26 13:21:00,"Powell Street BART",39,625,"Subscriber",94105
+"570",261530,106,2014-04-25 22:14:00,"2nd at Townsend",61,2014-04-25 22:15:00,"2nd at Townsend",61,333,"Subscriber",94117
+"571",261528,62,2014-04-25 22:14:00,"Grant Avenue at Columbus Avenue",73,2014-04-25 22:15:00,"Grant Avenue at Columbus Avenue",73,542,"Subscriber",94133
+"572",261376,80,2014-04-25 18:29:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-04-25 18:30:00,"San Francisco Caltrain (Townsend at 4th)",70,531,"Subscriber",94107
+"573",261034,146,2014-04-25 12:18:00,"Davis at Jackson",42,2014-04-25 12:21:00,"Davis at Jackson",42,594,"Subscriber",94111
+"574",260619,74,2014-04-24 19:21:00,"Powell Street BART",39,2014-04-24 19:23:00,"Powell Street BART",39,310,"Subscriber",94103
+"575",260560,62,2014-04-24 18:36:00,"Market at Sansome",77,2014-04-24 18:37:00,"Market at Sansome",77,376,"Subscriber",91405
+"576",260102,98,2014-04-24 13:43:00,"Grant Avenue at Columbus Avenue",73,2014-04-24 13:45:00,"Grant Avenue at Columbus Avenue",73,470,"Subscriber",94109
+"577",259654,71,2014-04-24 08:32:00,"5th at Howard",57,2014-04-24 08:33:00,"5th at Howard",57,469,"Subscriber",94103
+"578",259419,96,2014-04-23 23:41:00,"Embarcadero at Bryant",54,2014-04-23 23:43:00,"Embarcadero at Bryant",54,339,"Subscriber",94105
+"579",258697,79,2014-04-23 13:34:00,"Market at 4th",76,2014-04-23 13:35:00,"Market at 4th",76,582,"Subscriber",94062
+"580",258387,84,2014-04-23 09:12:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-04-23 09:14:00,"San Francisco Caltrain 2 (330 Townsend)",69,634,"Subscriber",94158
+"581",258076,65,2014-04-23 07:05:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-04-23 07:06:00,"San Francisco Caltrain 2 (330 Townsend)",69,526,"Customer",NA
+"582",257724,128,2014-04-22 18:05:00,"5th at Howard",57,2014-04-22 18:07:00,"5th at Howard",57,443,"Subscriber",94133
+"583",257643,107,2014-04-22 17:34:00,"Market at 4th",76,2014-04-22 17:35:00,"Market at 4th",76,585,"Subscriber",94608
+"584",257020,79,2014-04-22 09:14:00,"Civic Center BART (7th at Market)",72,2014-04-22 09:15:00,"Civic Center BART (7th at Market)",72,321,"Subscriber",94103
+"585",256150,102,2014-04-21 17:13:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-04-21 17:14:00,"San Francisco Caltrain 2 (330 Townsend)",69,398,"Customer",94110
+"586",255654,71,2014-04-21 09:33:00,"Civic Center BART (7th at Market)",72,2014-04-21 09:35:00,"Civic Center BART (7th at Market)",72,422,"Subscriber",94103
+"587",255026,153,2014-04-20 15:54:00,"Harry Bridges Plaza (Ferry Building)",50,2014-04-20 15:57:00,"Harry Bridges Plaza (Ferry Building)",50,397,"Subscriber",94401
+"588",254867,126,2014-04-20 12:09:00,"Embarcadero at Folsom",51,2014-04-20 12:11:00,"Embarcadero at Folsom",51,528,"Subscriber",94133
+"589",254576,94,2014-04-19 17:09:00,"Paseo de San Antonio",7,2014-04-19 17:11:00,"Paseo de San Antonio",7,263,"Subscriber",94611
+"590",254433,90,2014-04-19 14:18:00,"Market at Sansome",77,2014-04-19 14:20:00,"Market at Sansome",77,635,"Customer",80482
+"591",254415,61,2014-04-19 14:03:00,"San Jose Civic Center",3,2014-04-19 14:04:00,"San Jose Civic Center",3,15,"Customer",NA
+"592",254142,73,2014-04-18 22:06:00,"Market at 4th",76,2014-04-18 22:07:00,"Market at 4th",76,625,"Subscriber",94134
+"593",253642,77,2014-04-18 15:24:00,"Powell Street BART",39,2014-04-18 15:25:00,"Powell Street BART",39,279,"Subscriber",94025
+"594",253218,69,2014-04-18 09:19:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-04-18 09:20:00,"San Francisco Caltrain (Townsend at 4th)",70,540,"Subscriber",94158
+"595",253076,108,2014-04-18 08:30:00,"Powell Street BART",39,2014-04-18 08:32:00,"Powell Street BART",39,278,"Customer",85044
+"596",251392,173,2014-04-16 21:43:00,"Beale at Market",56,2014-04-16 21:46:00,"Beale at Market",56,545,"Customer",94704
+"597",251024,128,2014-04-16 17:43:00,"Broadway St at Battery St",82,2014-04-16 17:45:00,"Broadway St at Battery St",82,378,"Subscriber",95130
+"598",250175,93,2014-04-16 09:03:00,"Embarcadero at Bryant",54,2014-04-16 09:04:00,"Embarcadero at Bryant",54,608,"Subscriber",94105
+"599",250085,98,2014-04-16 08:38:00,"Embarcadero at Bryant",54,2014-04-16 08:39:00,"Embarcadero at Bryant",54,608,"Subscriber",94105
+"600",249769,122,2014-04-15 21:25:00,"2nd at Townsend",61,2014-04-15 21:27:00,"2nd at Townsend",61,277,"Subscriber",94124
+"601",249707,96,2014-04-15 20:09:00,"Broadway St at Battery St",82,2014-04-15 20:11:00,"Broadway St at Battery St",82,340,"Subscriber",94111
+"602",249352,70,2014-04-15 17:20:00,"San Pedro Square",6,2014-04-15 17:21:00,"San Pedro Square",6,257,"Subscriber",95377
+"603",249101,101,2014-04-15 14:54:00,"Arena Green / SAP Center",14,2014-04-15 14:56:00,"Arena Green / SAP Center",14,147,"Subscriber",95120
+"604",248922,96,2014-04-15 12:00:00,"Grant Avenue at Columbus Avenue",73,2014-04-15 12:02:00,"Grant Avenue at Columbus Avenue",73,568,"Customer",NA
+"605",248735,105,2014-04-15 09:30:00,"Palo Alto Caltrain Station",34,2014-04-15 09:32:00,"Palo Alto Caltrain Station",34,212,"Subscriber",94708
+"606",248632,66,2014-04-15 08:55:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-04-15 08:57:00,"San Francisco Caltrain 2 (330 Townsend)",69,320,"Subscriber",94010
+"607",248309,148,2014-04-14 23:56:00,"2nd at Folsom",62,2014-04-14 23:58:00,"2nd at Folsom",62,458,"Subscriber",94103
+"608",247901,65,2014-04-14 17:34:00,"Mechanics Plaza (Market at Battery)",75,2014-04-14 17:35:00,"Mechanics Plaza (Market at Battery)",75,522,"Customer",NA
+"609",247879,101,2014-04-14 17:27:00,"Beale at Market",56,2014-04-14 17:29:00,"Beale at Market",56,518,"Subscriber",94107
+"610",247874,95,2014-04-14 17:24:00,"Steuart at Market",74,2014-04-14 17:26:00,"Steuart at Market",74,328,"Customer",29910
+"611",246580,172,2014-04-13 14:58:00,"2nd at Folsom",62,2014-04-13 15:01:00,"2nd at Folsom",62,136,"Customer",NA
+"612",246482,141,2014-04-13 12:51:00,"Washington at Kearny",46,2014-04-13 12:53:00,"Washington at Kearny",46,381,"Customer",90277
+"613",246462,98,2014-04-13 12:19:00,"Grant Avenue at Columbus Avenue",73,2014-04-13 12:21:00,"Grant Avenue at Columbus Avenue",73,548,"Subscriber",94111
+"614",246120,64,2014-04-12 16:10:00,"South Van Ness at Market",66,2014-04-12 16:11:00,"South Van Ness at Market",66,447,"Customer",NA
+"615",246119,136,2014-04-12 16:10:00,"Embarcadero at Sansome",60,2014-04-12 16:12:00,"Embarcadero at Sansome",60,332,"Customer",20152
+"616",246118,110,2014-04-12 16:10:00,"South Van Ness at Market",66,2014-04-12 16:12:00,"South Van Ness at Market",66,514,"Customer",NA
+"617",246114,70,2014-04-12 16:04:00,"Mechanics Plaza (Market at Battery)",75,2014-04-12 16:06:00,"Mechanics Plaza (Market at Battery)",75,372,"Subscriber",94102
+"618",246039,72,2014-04-12 14:47:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,2014-04-12 14:48:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,309,"Customer",NA
+"619",245823,103,2014-04-12 09:49:00,"South Van Ness at Market",66,2014-04-12 09:51:00,"South Van Ness at Market",66,471,"Subscriber",94107
+"620",245737,61,2014-04-12 04:28:00,"South Van Ness at Market",66,2014-04-12 04:29:00,"South Van Ness at Market",66,540,"Subscriber",94110
+"621",245096,67,2014-04-11 14:10:00,"Harry Bridges Plaza (Ferry Building)",50,2014-04-11 14:11:00,"Harry Bridges Plaza (Ferry Building)",50,591,"Customer",NA
+"622",244131,137,2014-04-10 17:30:00,"Golden Gate at Polk",59,2014-04-10 17:32:00,"Golden Gate at Polk",59,365,"Subscriber",94117
+"623",244068,85,2014-04-10 17:10:00,"San Antonio Caltrain Station",29,2014-04-10 17:11:00,"San Antonio Caltrain Station",29,194,"Subscriber",94133
+"624",243962,75,2014-04-10 16:21:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,2014-04-10 16:23:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,468,"Subscriber",94104
+"625",243243,95,2014-04-10 07:56:00,"Clay at Battery",41,2014-04-10 07:58:00,"Clay at Battery",41,472,"Customer",4901
+"626",242643,175,2014-04-09 17:06:00,"5th at Howard",57,2014-04-09 17:09:00,"5th at Howard",57,637,"Subscriber",94102
+"627",242555,131,2014-04-09 16:37:00,"Market at 4th",76,2014-04-09 16:39:00,"Market at 4th",76,380,"Customer",NA
+"628",242479,111,2014-04-09 15:57:00,"Harry Bridges Plaza (Ferry Building)",50,2014-04-09 15:58:00,"Harry Bridges Plaza (Ferry Building)",50,534,"Customer",20011
+"629",242264,131,2014-04-09 12:25:00,"California Ave Caltrain Station",36,2014-04-09 12:27:00,"California Ave Caltrain Station",36,298,"Customer",11249
+"630",241904,107,2014-04-09 08:46:00,"Clay at Battery",41,2014-04-09 08:48:00,"Clay at Battery",41,357,"Subscriber",94111
+"631",241881,96,2014-04-09 08:38:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-04-09 08:40:00,"Temporary Transbay Terminal (Howard at Beale)",55,573,"Subscriber",94107
+"632",241602,109,2014-04-08 23:28:00,"Embarcadero at Vallejo",48,2014-04-08 23:30:00,"Embarcadero at Vallejo",48,285,"Subscriber",94102
+"633",241582,118,2014-04-08 22:42:00,"Market at 10th",67,2014-04-08 22:44:00,"Market at 10th",67,364,"Subscriber",94102
+"634",241543,66,2014-04-08 21:00:00,"Grant Avenue at Columbus Avenue",73,2014-04-08 21:01:00,"Grant Avenue at Columbus Avenue",73,321,"Subscriber",94111
+"635",240270,85,2014-04-08 08:49:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-04-08 08:51:00,"San Francisco Caltrain (Townsend at 4th)",70,474,"Subscriber",95014
+"636",239947,164,2014-04-08 00:01:00,"Embarcadero at Sansome",60,2014-04-08 00:03:00,"Embarcadero at Sansome",60,582,"Customer",95204
+"637",239649,72,2014-04-07 18:07:00,"Broadway St at Battery St",82,2014-04-07 18:08:00,"Broadway St at Battery St",82,373,"Subscriber",95130
+"638",239048,70,2014-04-07 12:14:00,"Grant Avenue at Columbus Avenue",73,2014-04-07 12:15:00,"Grant Avenue at Columbus Avenue",73,332,"Customer",NA
+"639",238371,97,2014-04-06 18:49:00,"Townsend at 7th",65,2014-04-06 18:51:00,"Townsend at 7th",65,636,"Subscriber",94131
+"640",238139,116,2014-04-06 13:46:00,"Embarcadero at Vallejo",48,2014-04-06 13:47:00,"Embarcadero at Vallejo",48,605,"Customer",94002
+"641",237630,139,2014-04-05 14:40:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-04-05 14:42:00,"San Francisco Caltrain 2 (330 Townsend)",69,538,"Customer",NA
+"642",237624,136,2014-04-05 14:34:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-04-05 14:37:00,"San Francisco Caltrain (Townsend at 4th)",70,442,"Customer",NA
+"643",236909,87,2014-04-04 17:15:00,"Market at Sansome",77,2014-04-04 17:16:00,"Market at Sansome",77,468,"Subscriber",95118
+"644",236112,136,2014-04-03 22:47:00,"South Van Ness at Market",66,2014-04-03 22:50:00,"South Van Ness at Market",66,447,"Subscriber",94115
+"645",236039,102,2014-04-03 19:47:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-04-03 19:49:00,"San Francisco Caltrain 2 (330 Townsend)",69,433,"Subscriber",94598
+"646",235972,70,2014-04-03 18:49:00,"San Antonio Caltrain Station",29,2014-04-03 18:50:00,"San Antonio Caltrain Station",29,647,"Subscriber",94040
+"647",234023,100,2014-04-02 13:12:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-04-02 13:14:00,"San Francisco Caltrain 2 (330 Townsend)",69,511,"Subscriber",94103
+"648",233220,77,2014-04-01 16:07:00,"Commercial at Montgomery",45,2014-04-01 16:09:00,"Commercial at Montgomery",45,369,"Subscriber",94111
+"649",233107,155,2014-04-01 12:05:00,"Mechanics Plaza (Market at Battery)",75,2014-04-01 12:08:00,"Mechanics Plaza (Market at Battery)",75,496,"Customer",NA
+"650",232739,136,2014-04-01 00:10:00,"San Antonio Caltrain Station",29,2014-04-01 00:12:00,"San Antonio Caltrain Station",29,40,"Customer",94022
+"651",232485,149,2014-03-31 17:55:00,"Market at 10th",67,2014-03-31 17:57:00,"Market at 10th",67,436,"Subscriber",94102
+"652",232070,69,2014-03-31 09:06:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-03-31 09:07:00,"San Francisco Caltrain (Townsend at 4th)",70,330,"Subscriber",94158
+"653",231607,79,2014-03-30 17:50:00,"Beale at Market",56,2014-03-30 17:52:00,"Beale at Market",56,274,"Subscriber",95113
+"654",231388,71,2014-03-30 13:39:00,"Washington at Kearny",46,2014-03-30 13:40:00,"Washington at Kearny",46,455,"Customer",30066
+"655",231381,130,2014-03-30 13:33:00,"Davis at Jackson",42,2014-03-30 13:35:00,"Davis at Jackson",42,510,"Customer",90277
+"656",231361,79,2014-03-30 13:01:00,"Steuart at Market",74,2014-03-30 13:02:00,"Steuart at Market",74,329,"Subscriber",94105
+"657",230923,76,2014-03-28 23:49:00,"Market at 4th",76,2014-03-28 23:50:00,"Market at 4th",76,350,"Subscriber",94103
+"658",230772,65,2014-03-28 19:05:00,"San Antonio Shopping Center",31,2014-03-28 19:07:00,"San Antonio Shopping Center",31,647,"Customer",98028
+"659",229300,102,2014-03-27 18:09:00,"2nd at Townsend",61,2014-03-27 18:11:00,"2nd at Townsend",61,355,"Subscriber",94960
+"660",229245,114,2014-03-27 17:48:00,"2nd at Townsend",61,2014-03-27 17:50:00,"2nd at Townsend",61,355,"Subscriber",94706
+"661",229194,74,2014-03-27 17:34:00,"San Pedro Square",6,2014-03-27 17:35:00,"San Pedro Square",6,74,"Customer",30218
+"662",228094,91,2014-03-26 21:03:00,"Embarcadero at Bryant",54,2014-03-26 21:05:00,"Embarcadero at Bryant",54,610,"Customer",94114
+"663",227988,150,2014-03-26 19:16:00,"San Jose Diridon Caltrain Station",2,2014-03-26 19:18:00,"San Jose Diridon Caltrain Station",2,184,"Customer",90036
+"664",227435,89,2014-03-26 12:25:00,"Powell Street BART",39,2014-03-26 12:26:00,"Powell Street BART",39,470,"Subscriber",94610
+"665",227059,97,2014-03-25 19:33:00,"Market at 10th",67,2014-03-25 19:35:00,"Market at 10th",67,412,"Subscriber",94108
+"666",225578,67,2014-03-24 17:36:00,"Market at 10th",67,2014-03-24 17:38:00,"Market at 10th",67,449,"Subscriber",94103
+"667",225174,64,2014-03-24 12:58:00,"Townsend at 7th",65,2014-03-24 12:59:00,"Townsend at 7th",65,383,"Subscriber",94114
+"668",224999,66,2014-03-24 10:08:00,"San Jose Diridon Caltrain Station",2,2014-03-24 10:09:00,"San Jose Diridon Caltrain Station",2,184,"Subscriber",94117
+"669",224844,122,2014-03-24 08:50:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-03-24 08:52:00,"San Francisco Caltrain 2 (330 Townsend)",69,420,"Subscriber",94930
+"670",224291,150,2014-03-23 14:21:00,"Japantown",9,2014-03-23 14:23:00,"Japantown",9,682,"Customer",95134
+"671",224016,64,2014-03-22 19:26:00,"Embarcadero at Sansome",60,2014-03-22 19:27:00,"Embarcadero at Sansome",60,509,"Customer",NA
+"672",223755,104,2014-03-22 14:08:00,"Redwood City Caltrain Station",22,2014-03-22 14:09:00,"Redwood City Caltrain Station",22,174,"Subscriber",94105
+"673",223118,150,2014-03-21 16:56:00,"San Salvador at 1st",8,2014-03-21 16:59:00,"San Salvador at 1st",8,643,"Subscriber",94303
+"674",222017,63,2014-03-20 19:11:00,"Post at Kearny",47,2014-03-20 19:12:00,"Post at Kearny",47,612,"Subscriber",94104
+"675",220932,94,2014-03-20 08:37:00,"St James Park",13,2014-03-20 08:39:00,"St James Park",13,14,"Subscriber",95112
+"676",220770,84,2014-03-20 07:43:00,"Castro Street and El Camino Real",32,2014-03-20 07:44:00,"Castro Street and El Camino Real",32,250,"Subscriber",94040
+"677",220759,64,2014-03-20 07:34:00,"Harry Bridges Plaza (Ferry Building)",50,2014-03-20 07:35:00,"Harry Bridges Plaza (Ferry Building)",50,470,"Subscriber",94960
+"678",220600,75,2014-03-19 21:13:00,"Spear at Folsom",49,2014-03-19 21:14:00,"Spear at Folsom",49,461,"Subscriber",94114
+"679",220378,108,2014-03-19 18:19:00,"Market at Sansome",77,2014-03-19 18:21:00,"Market at Sansome",77,320,"Subscriber",94122
+"680",219959,92,2014-03-19 15:32:00,"Embarcadero at Folsom",51,2014-03-19 15:33:00,"Embarcadero at Folsom",51,572,"Subscriber",94105
+"681",219892,64,2014-03-19 14:23:00,"Powell at Post (Union Square)",71,2014-03-19 14:24:00,"Powell at Post (Union Square)",71,487,"Customer",NA
+"682",219891,81,2014-03-19 14:23:00,"Powell at Post (Union Square)",71,2014-03-19 14:24:00,"Powell at Post (Union Square)",71,447,"Customer",NA
+"683",219873,70,2014-03-19 14:07:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-03-19 14:08:00,"San Francisco Caltrain (Townsend at 4th)",70,455,"Subscriber",94158
+"684",219786,67,2014-03-19 12:50:00,"Market at Sansome",77,2014-03-19 12:51:00,"Market at Sansome",77,428,"Subscriber",94112
+"685",219001,120,2014-03-18 19:28:00,"South Van Ness at Market",66,2014-03-18 19:30:00,"South Van Ness at Market",66,551,"Subscriber",94115
+"686",218776,60,2014-03-18 17:50:00,"Mechanics Plaza (Market at Battery)",75,2014-03-18 17:51:00,"Mechanics Plaza (Market at Battery)",75,334,"Subscriber",94104
+"687",216178,144,2014-03-16 21:27:00,"Mechanics Plaza (Market at Battery)",75,2014-03-16 21:29:00,"Mechanics Plaza (Market at Battery)",75,634,"Customer",95204
+"688",216129,121,2014-03-16 19:13:00,"2nd at South Park",64,2014-03-16 19:15:00,"2nd at South Park",64,557,"Subscriber",94104
+"689",215902,84,2014-03-16 15:14:00,"2nd at Townsend",61,2014-03-16 15:16:00,"2nd at Townsend",61,385,"Subscriber",94107
+"690",215853,159,2014-03-16 14:35:00,"Powell Street BART",39,2014-03-16 14:37:00,"Powell Street BART",39,610,"Customer",886
+"691",215807,166,2014-03-16 13:58:00,"Harry Bridges Plaza (Ferry Building)",50,2014-03-16 14:01:00,"Harry Bridges Plaza (Ferry Building)",50,401,"Customer",NA
+"692",215593,147,2014-03-16 08:51:00,"Civic Center BART (7th at Market)",72,2014-03-16 08:53:00,"Civic Center BART (7th at Market)",72,429,"Customer",NA
+"693",215209,105,2014-03-15 14:32:00,"Civic Center BART (7th at Market)",72,2014-03-15 14:33:00,"Civic Center BART (7th at Market)",72,420,"Subscriber",94114
+"694",215189,170,2014-03-15 14:04:00,"Embarcadero at Sansome",60,2014-03-15 14:07:00,"Embarcadero at Sansome",60,443,"Customer",60068
+"695",215107,171,2014-03-15 12:48:00,"Townsend at 7th",65,2014-03-15 12:51:00,"Townsend at 7th",65,523,"Customer",94107
+"696",214690,99,2014-03-14 19:09:00,"Embarcadero at Bryant",54,2014-03-14 19:10:00,"Embarcadero at Bryant",54,266,"Subscriber",94111
+"697",214630,69,2014-03-14 18:25:00,"Steuart at Market",74,2014-03-14 18:26:00,"Steuart at Market",74,402,"Subscriber",94103
+"698",214626,114,2014-03-14 18:24:00,"San Jose Diridon Caltrain Station",2,2014-03-14 18:25:00,"San Jose Diridon Caltrain Station",2,177,"Subscriber",94709
+"699",214074,75,2014-03-14 13:03:00,"Spear at Folsom",49,2014-03-14 13:04:00,"Spear at Folsom",49,523,"Subscriber",94112
+"700",213275,74,2014-03-13 19:08:00,"Steuart at Market",74,2014-03-13 19:09:00,"Steuart at Market",74,408,"Subscriber",94158
+"701",212843,153,2014-03-13 16:17:00,"Commercial at Montgomery",45,2014-03-13 16:20:00,"Commercial at Montgomery",45,377,"Subscriber",94105
+"702",212224,94,2014-03-13 08:56:00,"Embarcadero at Folsom",51,2014-03-13 08:57:00,"Embarcadero at Folsom",51,621,"Subscriber",94105
+"703",211814,133,2014-03-12 20:29:00,"St James Park",13,2014-03-12 20:31:00,"St James Park",13,668,"Subscriber",95112
+"704",211671,94,2014-03-12 18:37:00,"San Jose Diridon Caltrain Station",2,2014-03-12 18:39:00,"San Jose Diridon Caltrain Station",2,182,"Subscriber",95112
+"705",211523,116,2014-03-12 17:41:00,"Mechanics Plaza (Market at Battery)",75,2014-03-12 17:43:00,"Mechanics Plaza (Market at Battery)",75,375,"Subscriber",94111
+"706",211327,62,2014-03-12 16:38:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-03-12 16:39:00,"San Francisco Caltrain (Townsend at 4th)",70,404,"Subscriber",94105
+"707",211319,63,2014-03-12 16:36:00,"Townsend at 7th",65,2014-03-12 16:38:00,"Townsend at 7th",65,448,"Subscriber",94903
+"708",210353,62,2014-03-11 20:01:00,"Davis at Jackson",42,2014-03-11 20:02:00,"Davis at Jackson",42,309,"Subscriber",94111
+"709",210138,66,2014-03-11 18:08:00,"Townsend at 7th",65,2014-03-11 18:10:00,"Townsend at 7th",65,384,"Subscriber",94107
+"710",210028,137,2014-03-11 17:30:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-03-11 17:32:00,"San Francisco Caltrain (Townsend at 4th)",70,269,"Subscriber",95608
+"711",208647,94,2014-03-10 18:16:00,"2nd at Folsom",62,2014-03-10 18:17:00,"2nd at Folsom",62,624,"Subscriber",94703
+"712",208463,92,2014-03-10 17:12:00,"Steuart at Market",74,2014-03-10 17:14:00,"Steuart at Market",74,388,"Subscriber",94133
+"713",208063,89,2014-03-10 12:21:00,"Embarcadero at Sansome",60,2014-03-10 12:22:00,"Embarcadero at Sansome",60,277,"Subscriber",94133
+"714",207182,157,2014-03-09 15:13:00,"St James Park",13,2014-03-09 15:15:00,"St James Park",13,182,"Subscriber",95112
+"715",206452,87,2014-03-08 14:05:00,"Powell at Post (Union Square)",71,2014-03-08 14:07:00,"Powell at Post (Union Square)",71,328,"Subscriber",94109
+"716",206392,100,2014-03-08 13:13:00,"Harry Bridges Plaza (Ferry Building)",50,2014-03-08 13:15:00,"Harry Bridges Plaza (Ferry Building)",50,596,"Customer",95121
+"717",206339,179,2014-03-08 12:06:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-03-08 12:09:00,"San Francisco Caltrain (Townsend at 4th)",70,578,"Customer",94086
+"718",206008,64,2014-03-07 19:18:00,"Spear at Folsom",49,2014-03-07 19:19:00,"Spear at Folsom",49,367,"Subscriber",94105
+"719",204677,107,2014-03-06 20:02:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-03-06 20:03:00,"San Francisco Caltrain 2 (330 Townsend)",69,407,"Subscriber",94107
+"720",202979,75,2014-03-05 17:21:00,"Commercial at Montgomery",45,2014-03-05 17:22:00,"Commercial at Montgomery",45,489,"Subscriber",94105
+"721",202211,167,2014-03-05 08:42:00,"Palo Alto Caltrain Station",34,2014-03-05 08:45:00,"Palo Alto Caltrain Station",34,81,"Subscriber",94131
+"722",201676,70,2014-03-04 18:07:00,"Townsend at 7th",65,2014-03-04 18:08:00,"Townsend at 7th",65,456,"Subscriber",94901
+"723",200593,91,2014-03-03 19:38:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-03-03 19:40:00,"San Francisco Caltrain (Townsend at 4th)",70,409,"Subscriber",94107
+"724",199497,79,2014-03-02 17:40:00,"Spear at Folsom",49,2014-03-02 17:42:00,"Spear at Folsom",49,546,"Subscriber",94105
+"725",199465,91,2014-03-02 16:38:00,"Rengstorff Avenue / California Street",33,2014-03-02 16:40:00,"Rengstorff Avenue / California Street",33,126,"Customer",94040
+"726",199464,125,2014-03-02 16:38:00,"Rengstorff Avenue / California Street",33,2014-03-02 16:40:00,"Rengstorff Avenue / California Street",33,97,"Customer",94040
+"727",198940,119,2014-03-01 12:12:00,"Grant Avenue at Columbus Avenue",73,2014-03-01 12:14:00,"Grant Avenue at Columbus Avenue",73,605,"Subscriber",94133
+"728",198827,66,2014-03-01 08:56:00,"Market at 10th",67,2014-03-01 08:57:00,"Market at 10th",67,594,"Customer",NA
+"729",588746,62,2014-12-31 15:12:00,"Embarcadero at Vallejo",48,2014-12-31 15:13:00,"Embarcadero at Vallejo",48,317,"Customer",30097
+"730",587995,89,2014-12-30 11:47:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-12-30 11:49:00,"San Francisco Caltrain (Townsend at 4th)",70,480,"Subscriber",95129
+"731",587637,106,2014-12-29 20:10:00,"Mechanics Plaza (Market at Battery)",75,2014-12-29 20:12:00,"Mechanics Plaza (Market at Battery)",75,587,"Customer",7310
+"732",586820,89,2014-12-29 01:19:00,"Powell Street BART",39,2014-12-29 01:20:00,"Powell Street BART",39,571,"Customer",92646
+"733",586774,79,2014-12-28 17:56:00,"Market at 10th",67,2014-12-28 17:57:00,"Market at 10th",67,354,"Customer",45227
+"734",586772,67,2014-12-28 17:54:00,"Market at 10th",67,2014-12-28 17:55:00,"Market at 10th",67,424,"Customer",45227
+"735",585973,135,2014-12-26 15:46:00,"2nd at Townsend",61,2014-12-26 15:48:00,"2nd at Townsend",61,412,"Customer",NA
+"736",585938,92,2014-12-26 15:03:00,"Golden Gate at Polk",59,2014-12-26 15:05:00,"Golden Gate at Polk",59,629,"Customer",NA
+"737",585815,167,2014-12-26 11:57:00,"Civic Center BART (7th at Market)",72,2014-12-26 12:00:00,"Civic Center BART (7th at Market)",72,511,"Customer",60614
+"738",585184,74,2014-12-24 10:52:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,2014-12-24 10:53:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,442,"Subscriber",94105
+"739",584667,72,2014-12-23 16:31:00,"Harry Bridges Plaza (Ferry Building)",50,2014-12-23 16:32:00,"Harry Bridges Plaza (Ferry Building)",50,534,"Customer",NA
+"740",584536,178,2014-12-23 15:23:00,"Harry Bridges Plaza (Ferry Building)",50,2014-12-23 15:26:00,"Harry Bridges Plaza (Ferry Building)",50,270,"Customer",94530
+"741",583659,76,2014-12-22 18:31:00,"Spear at Folsom",49,2014-12-22 18:32:00,"Spear at Folsom",49,534,"Subscriber",94107
+"742",583654,86,2014-12-22 18:27:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,2014-12-22 18:28:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,442,"Subscriber",94102
+"743",583345,61,2014-12-22 16:19:00,"Mechanics Plaza (Market at Battery)",75,2014-12-22 16:20:00,"Mechanics Plaza (Market at Battery)",75,570,"Subscriber",94102
+"744",583153,116,2014-12-22 13:45:00,"2nd at South Park",64,2014-12-22 13:47:00,"2nd at South Park",64,598,"Subscriber",94107
+"745",582391,70,2014-12-21 18:24:00,"Townsend at 7th",65,2014-12-21 18:26:00,"Townsend at 7th",65,429,"Subscriber",94107
+"746",582153,157,2014-12-21 09:31:00,"Howard at 2nd",63,2014-12-21 09:34:00,"Howard at 2nd",63,374,"Subscriber",94107
+"747",581661,100,2014-12-19 21:19:00,"Market at Sansome",77,2014-12-19 21:21:00,"Market at Sansome",77,633,"Subscriber",94107
+"748",581557,75,2014-12-19 18:32:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-12-19 18:33:00,"San Francisco Caltrain (Townsend at 4th)",70,406,"Subscriber",94133
+"749",581153,75,2014-12-19 09:04:00,"Broadway St at Battery St",82,2014-12-19 09:05:00,"Broadway St at Battery St",82,403,"Subscriber",94107
+"750",580968,108,2014-12-19 06:42:00,"Townsend at 7th",65,2014-12-19 06:44:00,"Townsend at 7th",65,56,"Subscriber",94107
+"751",580497,113,2014-12-18 16:56:00,"Embarcadero at Sansome",60,2014-12-18 16:57:00,"Embarcadero at Sansome",60,406,"Customer",10009
+"752",580048,116,2014-12-18 10:48:00,"Embarcadero at Bryant",54,2014-12-18 10:50:00,"Embarcadero at Bryant",54,367,"Subscriber",94107
+"753",578946,82,2014-12-17 13:21:00,"Embarcadero at Folsom",51,2014-12-17 13:22:00,"Embarcadero at Folsom",51,604,"Subscriber",94117
+"754",578518,74,2014-12-17 08:37:00,"Commercial at Montgomery",45,2014-12-17 08:38:00,"Commercial at Montgomery",45,382,"Subscriber",94133
+"755",578171,70,2014-12-17 04:01:00,"Market at Sansome",77,2014-12-17 04:02:00,"Market at Sansome",77,281,"Subscriber",94111
+"756",577492,131,2014-12-16 09:19:00,"Harry Bridges Plaza (Ferry Building)",50,2014-12-16 09:21:00,"Harry Bridges Plaza (Ferry Building)",50,267,"Subscriber",94590
+"757",577063,66,2014-12-15 22:12:00,"Embarcadero at Bryant",54,2014-12-15 22:13:00,"Embarcadero at Bryant",54,288,"Subscriber",94105
+"758",577025,148,2014-12-15 20:32:00,"Spear at Folsom",49,2014-12-15 20:34:00,"Spear at Folsom",49,481,"Subscriber",94107
+"759",576472,135,2014-12-15 11:19:00,"Steuart at Market",74,2014-12-15 11:22:00,"Steuart at Market",74,471,"Subscriber",94551
+"760",576265,75,2014-12-15 08:39:00,"Golden Gate at Polk",59,2014-12-15 08:40:00,"Golden Gate at Polk",59,508,"Subscriber",94102
+"761",576216,75,2014-12-15 08:13:00,"Market at 10th",67,2014-12-15 08:14:00,"Market at 10th",67,633,"Subscriber",94107
+"762",575912,66,2014-12-14 12:36:00,"Harry Bridges Plaza (Ferry Building)",50,2014-12-14 12:37:00,"Harry Bridges Plaza (Ferry Building)",50,421,"Subscriber",94404
+"763",575620,82,2014-12-13 16:53:00,"Powell Street BART",39,2014-12-13 16:54:00,"Powell Street BART",39,372,"Subscriber",94107
+"764",575455,78,2014-12-13 13:23:00,"Powell Street BART",39,2014-12-13 13:24:00,"Powell Street BART",39,372,"Subscriber",94103
+"765",575437,97,2014-12-13 12:58:00,"Powell Street BART",39,2014-12-13 12:59:00,"Powell Street BART",39,517,"Customer",92102
+"766",575425,174,2014-12-13 12:42:00,"Arena Green / SAP Center",14,2014-12-13 12:45:00,"Arena Green / SAP Center",14,22,"Subscriber",95113
+"767",575350,88,2014-12-13 11:23:00,"San Francisco City Hall",58,2014-12-13 11:25:00,"San Francisco City Hall",58,381,"Subscriber",94107
+"768",574993,86,2014-12-12 17:48:00,"Steuart at Market",74,2014-12-12 17:49:00,"Steuart at Market",74,522,"Subscriber",94111
+"769",574684,70,2014-12-12 15:21:00,"Steuart at Market",74,2014-12-12 15:22:00,"Steuart at Market",74,471,"Subscriber",94109
+"770",574497,74,2014-12-12 09:54:00,"Steuart at Market",74,2014-12-12 09:55:00,"Steuart at Market",74,471,"Subscriber",94612
+"771",574356,122,2014-12-12 07:54:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-12-12 07:56:00,"San Francisco Caltrain 2 (330 Townsend)",69,451,"Subscriber",94301
+"772",574197,85,2014-12-11 09:42:00,"Paseo de San Antonio",7,2014-12-11 09:43:00,"Paseo de San Antonio",7,138,"Subscriber",95113
+"773",574024,93,2014-12-10 19:30:00,"Powell Street BART",39,2014-12-10 19:32:00,"Powell Street BART",39,607,"Subscriber",94103
+"774",573825,168,2014-12-10 17:50:00,"Mountain View Caltrain Station",28,2014-12-10 17:53:00,"Mountain View Caltrain Station",28,218,"Subscriber",94103
+"775",572848,86,2014-12-10 08:55:00,"Embarcadero at Folsom",51,2014-12-10 08:56:00,"Embarcadero at Folsom",51,547,"Subscriber",94110
+"776",570544,71,2014-12-08 18:52:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-12-08 18:53:00,"Temporary Transbay Terminal (Howard at Beale)",55,534,"Subscriber",94118
+"777",570229,98,2014-12-08 17:16:00,"Powell Street BART",39,2014-12-08 17:17:00,"Powell Street BART",39,300,"Customer",NA
+"778",569966,73,2014-12-08 15:53:00,"Embarcadero at Folsom",51,2014-12-08 15:55:00,"Embarcadero at Folsom",51,589,"Subscriber",94070
+"779",569847,127,2014-12-08 14:15:00,"Powell at Post (Union Square)",71,2014-12-08 14:17:00,"Powell at Post (Union Square)",71,552,"Customer",NA
+"780",569702,60,2014-12-08 11:38:00,"2nd at South Park",64,2014-12-08 11:39:00,"2nd at South Park",64,659,"Subscriber",94107
+"781",569620,84,2014-12-08 10:09:00,"Civic Center BART (7th at Market)",72,2014-12-08 10:10:00,"Civic Center BART (7th at Market)",72,326,"Subscriber",94111
+"782",569426,66,2014-12-08 09:00:00,"Steuart at Market",74,2014-12-08 09:01:00,"Steuart at Market",74,260,"Subscriber",94612
+"783",569340,92,2014-12-08 08:47:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-12-08 08:49:00,"Temporary Transbay Terminal (Howard at Beale)",55,374,"Subscriber",94618
+"784",568350,144,2014-12-06 17:09:00,"Embarcadero at Sansome",60,2014-12-06 17:12:00,"Embarcadero at Sansome",60,611,"Customer",98121
+"785",568115,66,2014-12-06 12:11:00,"Civic Center BART (7th at Market)",72,2014-12-06 12:12:00,"Civic Center BART (7th at Market)",72,537,"Customer",NA
+"786",567482,69,2014-12-05 16:03:00,"San Pedro Square",6,2014-12-05 16:04:00,"San Pedro Square",6,200,"Subscriber",94110
+"787",567207,95,2014-12-05 10:58:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-12-05 11:00:00,"San Francisco Caltrain 2 (330 Townsend)",69,562,"Subscriber",94107
+"788",567134,81,2014-12-05 10:05:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-12-05 10:06:00,"San Francisco Caltrain 2 (330 Townsend)",69,562,"Subscriber",94103
+"789",567050,179,2014-12-05 09:26:00,"2nd at South Park",64,2014-12-05 09:29:00,"2nd at South Park",64,16,"Subscriber",94107
+"790",567033,68,2014-12-05 09:19:00,"Powell at Post (Union Square)",71,2014-12-05 09:20:00,"Powell at Post (Union Square)",71,590,"Subscriber",94115
+"791",565941,76,2014-12-04 16:04:00,"Mountain View Caltrain Station",28,2014-12-04 16:05:00,"Mountain View Caltrain Station",28,157,"Subscriber",94107
+"792",565934,69,2014-12-04 16:02:00,"Townsend at 7th",65,2014-12-04 16:03:00,"Townsend at 7th",65,614,"Subscriber",94526
+"793",565858,89,2014-12-04 14:28:00,"Post at Kearny",47,2014-12-04 14:29:00,"Post at Kearny",47,438,"Customer",92109
+"794",565586,146,2014-12-04 10:07:00,"Embarcadero at Bryant",54,2014-12-04 10:10:00,"Embarcadero at Bryant",54,358,"Subscriber",94111
+"795",565561,62,2014-12-04 09:49:00,"Embarcadero at Bryant",54,2014-12-04 09:50:00,"Embarcadero at Bryant",54,358,"Subscriber",94107
+"796",565478,86,2014-12-04 09:22:00,"Steuart at Market",74,2014-12-04 09:23:00,"Steuart at Market",74,371,"Subscriber",94708
+"797",565469,120,2014-12-04 09:17:00,"Steuart at Market",74,2014-12-04 09:19:00,"Steuart at Market",74,371,"Subscriber",94708
+"798",564874,86,2014-12-03 19:26:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-12-03 19:27:00,"San Francisco Caltrain (Townsend at 4th)",70,585,"Subscriber",94133
+"799",564588,67,2014-12-03 17:09:00,"Commercial at Montgomery",45,2014-12-03 17:10:00,"Commercial at Montgomery",45,598,"Subscriber",94041
+"800",564369,92,2014-12-03 14:31:00,"Commercial at Montgomery",45,2014-12-03 14:33:00,"Commercial at Montgomery",45,518,"Subscriber",94105
+"801",564275,90,2014-12-03 10:25:00,"Market at Sansome",77,2014-12-03 10:26:00,"Market at Sansome",77,401,"Subscriber",94611
+"802",563347,85,2014-12-02 10:44:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,2014-12-02 10:45:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,315,"Subscriber",94107
+"803",562072,105,2014-12-01 10:17:00,"Embarcadero at Bryant",54,2014-12-01 10:19:00,"Embarcadero at Bryant",54,368,"Subscriber",94111
+"804",561899,106,2014-12-01 09:05:00,"Civic Center BART (7th at Market)",72,2014-12-01 09:07:00,"Civic Center BART (7th at Market)",72,300,"Subscriber",94518
+"805",561167,150,2014-11-30 09:11:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-11-30 09:13:00,"Temporary Transbay Terminal (Howard at Beale)",55,434,"Subscriber",94107
+"806",560855,150,2014-11-29 12:45:00,"Steuart at Market",74,2014-11-29 12:48:00,"Steuart at Market",74,268,"Subscriber",94131
+"807",560805,177,2014-11-29 11:41:00,"Commercial at Montgomery",45,2014-11-29 11:44:00,"Commercial at Montgomery",45,520,"Subscriber",94107
+"808",560468,85,2014-11-28 14:09:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-11-28 14:10:00,"Temporary Transbay Terminal (Howard at Beale)",55,441,"Customer",94704
+"809",559566,140,2014-11-26 15:05:00,"Embarcadero at Folsom",51,2014-11-26 15:07:00,"Embarcadero at Folsom",51,507,"Subscriber",94105
+"810",558803,146,2014-11-25 20:36:00,"Market at 4th",76,2014-11-25 20:38:00,"Market at 4th",76,16,"Customer",92078
+"811",558722,145,2014-11-25 18:56:00,"2nd at South Park",64,2014-11-25 18:58:00,"2nd at South Park",64,85,"Subscriber",94107
+"812",558712,87,2014-11-25 18:47:00,"Spear at Folsom",49,2014-11-25 18:49:00,"Spear at Folsom",49,373,"Subscriber",94110
+"813",558630,78,2014-11-25 18:09:00,"Steuart at Market",74,2014-11-25 18:10:00,"Steuart at Market",74,611,"Subscriber",94133
+"814",558228,100,2014-11-25 15:57:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-11-25 15:59:00,"San Francisco Caltrain 2 (330 Townsend)",69,398,"Subscriber",94107
+"815",558163,171,2014-11-25 15:11:00,"Clay at Battery",41,2014-11-25 15:14:00,"Clay at Battery",41,618,"Customer",95673
+"816",557768,75,2014-11-25 09:42:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-11-25 09:43:00,"San Francisco Caltrain 2 (330 Townsend)",69,400,"Subscriber",94107
+"817",557603,70,2014-11-25 08:49:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-11-25 08:50:00,"Temporary Transbay Terminal (Howard at Beale)",55,491,"Subscriber",94610
+"818",556714,65,2014-11-24 17:19:00,"Powell Street BART",39,2014-11-24 17:20:00,"Powell Street BART",39,375,"Subscriber",94107
+"819",556685,111,2014-11-24 17:12:00,"San Jose Diridon Caltrain Station",2,2014-11-24 17:14:00,"San Jose Diridon Caltrain Station",2,716,"Subscriber",95112
+"820",556115,84,2014-11-24 10:53:00,"2nd at South Park",64,2014-11-24 10:54:00,"2nd at South Park",64,372,"Subscriber",94107
+"821",555232,92,2014-11-23 14:54:00,"Townsend at 7th",65,2014-11-23 14:55:00,"Townsend at 7th",65,447,"Subscriber",94105
+"822",554606,116,2014-11-22 12:37:00,"Redwood City Public Library",24,2014-11-22 12:39:00,"Redwood City Public Library",24,252,"Subscriber",94002
+"823",554044,172,2014-11-21 17:08:00,"2nd at South Park",64,2014-11-21 17:11:00,"2nd at South Park",64,222,"Subscriber",94107
+"824",553840,119,2014-11-21 16:03:00,"Post at Kearny",47,2014-11-21 16:05:00,"Post at Kearny",47,687,"Subscriber",94102
+"825",553283,75,2014-11-21 09:07:00,"Broadway St at Battery St",82,2014-11-21 09:09:00,"Broadway St at Battery St",82,69,"Subscriber",94107
+"826",552929,132,2014-11-21 07:22:00,"SJSU - San Salvador at 9th",16,2014-11-21 07:24:00,"SJSU - San Salvador at 9th",16,198,"Subscriber",95112
+"827",552825,87,2014-11-20 23:06:00,"Grant Avenue at Columbus Avenue",73,2014-11-20 23:07:00,"Grant Avenue at Columbus Avenue",73,282,"Subscriber",94133
+"828",552273,78,2014-11-20 11:13:00,"Embarcadero at Bryant",54,2014-11-20 11:14:00,"Embarcadero at Bryant",54,275,"Subscriber",94107
+"829",552255,115,2014-11-20 10:50:00,"Embarcadero at Bryant",54,2014-11-20 10:52:00,"Embarcadero at Bryant",54,275,"Subscriber",94105
+"830",552062,133,2014-11-20 09:01:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-11-20 09:03:00,"San Francisco Caltrain 2 (330 Townsend)",69,495,"Subscriber",94577
+"831",550693,89,2014-11-19 08:57:00,"Davis at Jackson",42,2014-11-19 08:59:00,"Davis at Jackson",42,578,"Subscriber",94111
+"832",550568,155,2014-11-19 08:11:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-11-19 08:13:00,"San Francisco Caltrain (Townsend at 4th)",70,520,"Subscriber",94089
+"833",550513,102,2014-11-19 07:56:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-11-19 07:58:00,"San Francisco Caltrain (Townsend at 4th)",70,373,"Subscriber",95126
+"834",549322,171,2014-11-18 12:34:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-11-18 12:37:00,"Temporary Transbay Terminal (Howard at Beale)",55,331,"Subscriber",94107
+"835",549254,65,2014-11-18 11:40:00,"Ryland Park",84,2014-11-18 11:41:00,"Ryland Park",84,28,"Subscriber",95112
+"836",548002,81,2014-11-17 17:43:00,"Embarcadero at Bryant",54,2014-11-17 17:45:00,"Embarcadero at Bryant",54,393,"Subscriber",94110
+"837",547684,172,2014-11-17 16:12:00,"Clay at Battery",41,2014-11-17 16:15:00,"Clay at Battery",41,510,"Subscriber",94310
+"838",547516,105,2014-11-17 14:05:00,"Market at Sansome",77,2014-11-17 14:07:00,"Market at Sansome",77,524,"Subscriber",94107
+"839",547248,131,2014-11-17 09:48:00,"Powell at Post (Union Square)",71,2014-11-17 09:51:00,"Powell at Post (Union Square)",71,634,"Subscriber",94109
+"840",547063,63,2014-11-17 08:56:00,"South Van Ness at Market",66,2014-11-17 08:57:00,"South Van Ness at Market",66,339,"Subscriber",94110
+"841",545959,108,2014-11-15 14:24:00,"Davis at Jackson",42,2014-11-15 14:26:00,"Davis at Jackson",42,430,"Customer",10038
+"842",545958,131,2014-11-15 14:24:00,"Davis at Jackson",42,2014-11-15 14:26:00,"Davis at Jackson",42,514,"Customer",10038
+"843",545812,133,2014-11-15 11:01:00,"Powell Street BART",39,2014-11-15 11:03:00,"Powell Street BART",39,439,"Customer",2020
+"844",544292,67,2014-11-14 08:23:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-11-14 08:24:00,"San Francisco Caltrain (Townsend at 4th)",70,428,"Subscriber",94107
+"845",542614,72,2014-11-13 08:26:00,"Harry Bridges Plaza (Ferry Building)",50,2014-11-13 08:28:00,"Harry Bridges Plaza (Ferry Building)",50,395,"Subscriber",94903
+"846",541591,106,2014-11-12 15:45:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-11-12 15:46:00,"San Francisco Caltrain (Townsend at 4th)",70,282,"Subscriber",95112
+"847",541396,73,2014-11-12 12:14:00,"Powell at Post (Union Square)",71,2014-11-12 12:16:00,"Powell at Post (Union Square)",71,417,"Subscriber",94107
+"848",541197,135,2014-11-12 09:49:00,"Redwood City Public Library",24,2014-11-12 09:52:00,"Redwood City Public Library",24,225,"Customer",27312
+"849",540874,95,2014-11-12 08:29:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-11-12 08:31:00,"San Francisco Caltrain (Townsend at 4th)",70,278,"Subscriber",92084
+"850",539607,82,2014-11-11 11:59:00,"Harry Bridges Plaza (Ferry Building)",50,2014-11-11 12:01:00,"Harry Bridges Plaza (Ferry Building)",50,574,"Subscriber",94709
+"851",537670,122,2014-11-10 11:03:00,"San Mateo County Center",23,2014-11-10 11:05:00,"San Mateo County Center",23,643,"Subscriber",94118
+"852",537618,121,2014-11-10 10:19:00,"Castro Street and El Camino Real",32,2014-11-10 10:21:00,"Castro Street and El Camino Real",32,654,"Customer",95054
+"853",536782,70,2014-11-09 17:13:00,"Market at 4th",76,2014-11-09 17:14:00,"Market at 4th",76,576,"Subscriber",94105
+"854",536757,166,2014-11-09 16:31:00,"San Antonio Shopping Center",31,2014-11-09 16:34:00,"San Antonio Shopping Center",31,386,"Subscriber",94040
+"855",536436,155,2014-11-09 09:45:00,"South Van Ness at Market",66,2014-11-09 09:48:00,"South Van Ness at Market",66,97,"Customer",90027
+"856",536124,67,2014-11-08 17:05:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-11-08 17:07:00,"San Francisco Caltrain 2 (330 Townsend)",69,464,"Subscriber",94107
+"857",536026,85,2014-11-08 15:26:00,"5th at Howard",57,2014-11-08 15:27:00,"5th at Howard",57,604,"Customer",93940
+"858",535928,83,2014-11-08 13:55:00,"2nd at Folsom",62,2014-11-08 13:57:00,"2nd at Folsom",62,468,"Subscriber",94107
+"859",535862,73,2014-11-08 12:56:00,"Embarcadero at Bryant",54,2014-11-08 12:58:00,"Embarcadero at Bryant",54,315,"Customer",94105
+"860",534449,140,2014-11-07 10:52:00,"San Mateo County Center",23,2014-11-07 10:55:00,"San Mateo County Center",23,643,"Subscriber",94118
+"861",534424,89,2014-11-07 10:34:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-11-07 10:36:00,"Temporary Transbay Terminal (Howard at Beale)",55,29,"Subscriber",94105
+"862",534343,60,2014-11-07 09:45:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-11-07 09:46:00,"Temporary Transbay Terminal (Howard at Beale)",55,300,"Subscriber",94107
+"863",534156,70,2014-11-07 08:49:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-11-07 08:50:00,"San Francisco Caltrain 2 (330 Townsend)",69,329,"Subscriber",95112
+"864",534037,124,2014-11-07 08:24:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-11-07 08:27:00,"San Francisco Caltrain 2 (330 Townsend)",69,329,"Customer",94087
+"865",533816,65,2014-11-07 07:05:00,"Paseo de San Antonio",7,2014-11-07 07:06:00,"Paseo de San Antonio",7,678,"Subscriber",95113
+"866",533716,139,2014-11-06 21:24:00,"Market at 4th",76,2014-11-06 21:26:00,"Market at 4th",76,312,"Subscriber",94566
+"867",533583,163,2014-11-06 18:56:00,"Powell Street BART",39,2014-11-06 18:59:00,"Powell Street BART",39,334,"Subscriber",94107
+"868",532407,64,2014-11-06 09:17:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-11-06 09:19:00,"San Francisco Caltrain (Townsend at 4th)",70,531,"Subscriber",95125
+"869",530596,175,2014-11-05 10:00:00,"Powell at Post (Union Square)",71,2014-11-05 10:03:00,"Powell at Post (Union Square)",71,567,"Customer",3006
+"870",530279,152,2014-11-05 08:39:00,"San Jose Diridon Caltrain Station",2,2014-11-05 08:41:00,"San Jose Diridon Caltrain Station",2,716,"Subscriber",94041
+"871",529785,104,2014-11-04 21:24:00,"Grant Avenue at Columbus Avenue",73,2014-11-04 21:26:00,"Grant Avenue at Columbus Avenue",73,677,"Subscriber",94133
+"872",529441,112,2014-11-04 17:48:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-11-04 17:50:00,"San Francisco Caltrain 2 (330 Townsend)",69,321,"Subscriber",94102
+"873",529256,92,2014-11-04 17:02:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,2014-11-04 17:03:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,524,"Subscriber",94903
+"874",528588,73,2014-11-04 09:59:00,"Civic Center BART (7th at Market)",72,2014-11-04 10:00:00,"Civic Center BART (7th at Market)",72,475,"Subscriber",94547
+"875",526831,121,2014-11-03 11:46:00,"Mezes Park",83,2014-11-03 11:48:00,"Mezes Park",83,78,"Subscriber",94063
+"876",525505,73,2014-11-02 10:18:00,"Washington at Kearny",46,2014-11-02 10:19:00,"Washington at Kearny",46,327,"Customer",NA
+"877",525133,91,2014-11-01 14:17:00,"Civic Center BART (7th at Market)",72,2014-11-01 14:19:00,"Civic Center BART (7th at Market)",72,467,"Customer",94107
+"878",525093,125,2014-11-01 13:14:00,"Japantown",9,2014-11-01 13:16:00,"Japantown",9,230,"Subscriber",94110
+"879",524733,174,2014-10-31 18:22:00,"Market at 10th",67,2014-10-31 18:25:00,"Market at 10th",67,397,"Subscriber",94403
+"880",524083,96,2014-10-31 09:09:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-10-31 09:11:00,"San Francisco Caltrain (Townsend at 4th)",70,430,"Subscriber",95125
+"881",523786,102,2014-10-30 21:23:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-10-30 21:25:00,"San Francisco Caltrain 2 (330 Townsend)",69,374,"Subscriber",94105
+"882",523746,88,2014-10-30 20:28:00,"Powell Street BART",39,2014-10-30 20:30:00,"Powell Street BART",39,600,"Subscriber",94107
+"883",523538,84,2014-10-30 18:07:00,"Commercial at Montgomery",45,2014-10-30 18:09:00,"Commercial at Montgomery",45,314,"Subscriber",94610
+"884",523346,74,2014-10-30 17:17:00,"San Jose Civic Center",3,2014-10-30 17:18:00,"San Jose Civic Center",3,665,"Subscriber",5112
+"885",522990,165,2014-10-30 14:25:00,"2nd at Townsend",61,2014-10-30 14:27:00,"2nd at Townsend",61,634,"Subscriber",94061
+"886",522970,113,2014-10-30 13:56:00,"Steuart at Market",74,2014-10-30 13:58:00,"Steuart at Market",74,282,"Subscriber",94105
+"887",522908,94,2014-10-30 12:54:00,"2nd at Townsend",61,2014-10-30 12:56:00,"2nd at Townsend",61,545,"Subscriber",94133
+"888",522072,62,2014-10-30 06:58:00,"San Jose Diridon Caltrain Station",2,2014-10-30 06:59:00,"San Jose Diridon Caltrain Station",2,716,"Subscriber",95020
+"889",521346,139,2014-10-29 17:00:00,"Golden Gate at Polk",59,2014-10-29 17:03:00,"Golden Gate at Polk",59,109,"Subscriber",94305
+"890",521269,71,2014-10-29 16:42:00,"Market at Sansome",77,2014-10-29 16:43:00,"Market at Sansome",77,427,"Subscriber",94107
+"891",520896,100,2014-10-29 12:36:00,"Commercial at Montgomery",45,2014-10-29 12:38:00,"Commercial at Montgomery",45,625,"Subscriber",94117
+"892",520600,168,2014-10-29 09:19:00,"San Jose Diridon Caltrain Station",2,2014-10-29 09:22:00,"San Jose Diridon Caltrain Station",2,716,"Subscriber",94105
+"893",519313,104,2014-10-28 16:36:00,"Townsend at 7th",65,2014-10-28 16:38:00,"Townsend at 7th",65,368,"Subscriber",94501
+"894",518413,72,2014-10-28 08:29:00,"Commercial at Montgomery",45,2014-10-28 08:30:00,"Commercial at Montgomery",45,328,"Subscriber",94133
+"895",517976,101,2014-10-27 19:47:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-10-27 19:48:00,"Temporary Transbay Terminal (Howard at Beale)",55,622,"Subscriber",94107
+"896",517593,108,2014-10-27 17:38:00,"Civic Center BART (7th at Market)",72,2014-10-27 17:40:00,"Civic Center BART (7th at Market)",72,191,"Subscriber",94611
+"897",516957,91,2014-10-27 11:19:00,"Civic Center BART (7th at Market)",72,2014-10-27 11:20:00,"Civic Center BART (7th at Market)",72,191,"Subscriber",94103
+"898",516939,116,2014-10-27 10:59:00,"Civic Center BART (7th at Market)",72,2014-10-27 11:01:00,"Civic Center BART (7th at Market)",72,191,"Subscriber",94547
+"899",516843,129,2014-10-27 10:00:00,"Powell Street BART",39,2014-10-27 10:02:00,"Powell Street BART",39,358,"Subscriber",94103
+"900",516152,64,2014-10-27 06:44:00,"Townsend at 7th",65,2014-10-27 06:46:00,"Townsend at 7th",65,503,"Subscriber",94107
+"901",515776,92,2014-10-26 14:46:00,"2nd at Townsend",61,2014-10-26 14:47:00,"2nd at Townsend",61,600,"Customer",94703
+"902",515552,125,2014-10-26 10:14:00,"Harry Bridges Plaza (Ferry Building)",50,2014-10-26 10:16:00,"Harry Bridges Plaza (Ferry Building)",50,209,"Subscriber",94105
+"903",515506,97,2014-10-26 08:11:00,"Powell at Post (Union Square)",71,2014-10-26 08:13:00,"Powell at Post (Union Square)",71,27,"Subscriber",94107
+"904",515475,178,2014-10-25 23:53:00,"2nd at Townsend",61,2014-10-25 23:56:00,"2nd at Townsend",61,600,"Customer",94925
+"905",515387,75,2014-10-25 18:38:00,"Powell at Post (Union Square)",71,2014-10-25 18:39:00,"Powell at Post (Union Square)",71,27,"Customer",NA
+"906",515264,140,2014-10-25 15:40:00,"MLK Library",11,2014-10-25 15:43:00,"MLK Library",11,152,"Customer",NA
+"907",515169,73,2014-10-25 13:19:00,"Grant Avenue at Columbus Avenue",73,2014-10-25 13:20:00,"Grant Avenue at Columbus Avenue",73,633,"Subscriber",94403
+"908",514922,85,2014-10-24 22:09:00,"Powell at Post (Union Square)",71,2014-10-24 22:11:00,"Powell at Post (Union Square)",71,27,"Subscriber",94110
+"909",514464,80,2014-10-24 17:10:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-10-24 17:11:00,"San Francisco Caltrain (Townsend at 4th)",70,43,"Subscriber",94087
+"910",513826,80,2014-10-24 11:30:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-10-24 11:31:00,"San Francisco Caltrain (Townsend at 4th)",70,530,"Customer",3755
+"911",513635,138,2014-10-24 09:28:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,2014-10-24 09:30:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,76,"Customer",NA
+"912",513385,117,2014-10-24 08:31:00,"South Van Ness at Market",66,2014-10-24 08:33:00,"South Van Ness at Market",66,464,"Subscriber",94110
+"913",513329,143,2014-10-24 08:18:00,"2nd at Folsom",62,2014-10-24 08:21:00,"2nd at Folsom",62,465,"Subscriber",94107
+"914",511866,161,2014-10-23 10:36:00,"Townsend at 7th",65,2014-10-23 10:39:00,"Townsend at 7th",65,339,"Subscriber",94107
+"915",511355,64,2014-10-23 08:00:00,"Market at 10th",67,2014-10-23 08:01:00,"Market at 10th",67,536,"Subscriber",94103
+"916",511062,170,2014-10-22 20:25:00,"Market at 10th",67,2014-10-22 20:28:00,"Market at 10th",67,536,"Subscriber",94303
+"917",508466,97,2014-10-21 14:39:00,"Embarcadero at Sansome",60,2014-10-21 14:41:00,"Embarcadero at Sansome",60,556,"Subscriber",94121
+"918",508274,60,2014-10-21 11:57:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-10-21 11:58:00,"San Francisco Caltrain 2 (330 Townsend)",69,578,"Subscriber",94107
+"919",506553,148,2014-10-20 14:09:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,2014-10-20 14:12:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,502,"Subscriber",94107
+"920",506025,60,2014-10-20 08:16:00,"Market at Sansome",77,2014-10-20 08:17:00,"Market at Sansome",77,109,"Subscriber",94114
+"921",505787,70,2014-10-20 06:38:00,"Embarcadero at Bryant",54,2014-10-20 06:39:00,"Embarcadero at Bryant",54,489,"Subscriber",94109
+"922",505634,137,2014-10-19 17:15:00,"Embarcadero at Sansome",60,2014-10-19 17:17:00,"Embarcadero at Sansome",60,530,"Customer",94579
+"923",505421,160,2014-10-19 13:08:00,"Civic Center BART (7th at Market)",72,2014-10-19 13:10:00,"Civic Center BART (7th at Market)",72,191,"Customer",NA
+"924",505370,84,2014-10-19 12:13:00,"California Ave Caltrain Station",36,2014-10-19 12:14:00,"California Ave Caltrain Station",36,638,"Customer",95060
+"925",505213,163,2014-10-19 06:40:00,"Powell Street BART",39,2014-10-19 06:43:00,"Powell Street BART",39,637,"Customer",NA
+"926",504253,75,2014-10-17 17:50:00,"2nd at South Park",64,2014-10-17 17:51:00,"2nd at South Park",64,526,"Subscriber",94107
+"927",503600,165,2014-10-17 11:24:00,"Market at 10th",67,2014-10-17 11:26:00,"Market at 10th",67,275,"Customer",68102
+"928",503274,84,2014-10-17 08:58:00,"Steuart at Market",74,2014-10-17 08:59:00,"Steuart at Market",74,589,"Subscriber",94607
+"929",501895,115,2014-10-16 14:29:00,"Harry Bridges Plaza (Ferry Building)",50,2014-10-16 14:31:00,"Harry Bridges Plaza (Ferry Building)",50,209,"Subscriber",94105
+"930",501474,72,2014-10-16 09:22:00,"Powell Street BART",39,2014-10-16 09:23:00,"Powell Street BART",39,515,"Subscriber",94109
+"931",500680,154,2014-10-15 19:33:00,"Redwood City Caltrain Station",22,2014-10-15 19:36:00,"Redwood City Caltrain Station",22,225,"Subscriber",94022
+"932",500610,123,2014-10-15 18:43:00,"Palo Alto Caltrain Station",34,2014-10-15 18:45:00,"Palo Alto Caltrain Station",34,699,"Subscriber",95111
+"933",499837,101,2014-10-15 12:18:00,"Harry Bridges Plaza (Ferry Building)",50,2014-10-15 12:20:00,"Harry Bridges Plaza (Ferry Building)",50,382,"Subscriber",95008
+"934",499699,78,2014-10-15 10:38:00,"South Van Ness at Market",66,2014-10-15 10:39:00,"South Van Ness at Market",66,453,"Subscriber",94107
+"935",499601,73,2014-10-15 09:46:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-10-15 09:47:00,"San Francisco Caltrain (Townsend at 4th)",70,514,"Subscriber",94086
+"936",498760,89,2014-10-14 19:20:00,"Townsend at 7th",65,2014-10-14 19:21:00,"Townsend at 7th",65,329,"Subscriber",94133
+"937",496767,150,2014-10-13 20:43:00,"Market at 4th",76,2014-10-13 20:45:00,"Market at 4th",76,214,"Customer",59718
+"938",496263,116,2014-10-13 17:07:00,"Redwood City Caltrain Station",22,2014-10-13 17:09:00,"Redwood City Caltrain Station",22,225,"Subscriber",94061
+"939",495875,69,2014-10-13 12:27:00,"Market at 10th",67,2014-10-13 12:28:00,"Market at 10th",67,538,"Subscriber",94103
+"940",495775,100,2014-10-13 11:14:00,"Market at 4th",76,2014-10-13 11:15:00,"Market at 4th",76,404,"Customer",1617
+"941",495464,126,2014-10-13 08:54:00,"Harry Bridges Plaza (Ferry Building)",50,2014-10-13 08:56:00,"Harry Bridges Plaza (Ferry Building)",50,634,"Subscriber",94133
+"942",494793,172,2014-10-12 16:16:00,"Broadway St at Battery St",82,2014-10-12 16:19:00,"Broadway St at Battery St",82,329,"Customer",95118
+"943",494455,77,2014-10-12 09:37:00,"Clay at Battery",41,2014-10-12 09:39:00,"Clay at Battery",41,541,"Customer",NA
+"944",494087,109,2014-10-11 15:47:00,"Embarcadero at Bryant",54,2014-10-11 15:49:00,"Embarcadero at Bryant",54,520,"Subscriber",94109
+"945",493794,106,2014-10-11 11:58:00,"Harry Bridges Plaza (Ferry Building)",50,2014-10-11 12:00:00,"Harry Bridges Plaza (Ferry Building)",50,569,"Subscriber",94066
+"946",493488,80,2014-10-10 19:19:00,"Commercial at Montgomery",45,2014-10-10 19:21:00,"Commercial at Montgomery",45,619,"Subscriber",94107
+"947",493403,101,2014-10-10 18:23:00,"Market at 4th",76,2014-10-10 18:25:00,"Market at 4th",76,593,"Customer",94904
+"948",492897,104,2014-10-10 15:36:00,"Broadway St at Battery St",82,2014-10-10 15:38:00,"Broadway St at Battery St",82,629,"Subscriber",94602
+"949",490742,96,2014-10-09 12:47:00,"Market at 10th",67,2014-10-09 12:48:00,"Market at 10th",67,687,"Subscriber",94103
+"950",490617,159,2014-10-09 11:19:00,"Commercial at Montgomery",45,2014-10-09 11:21:00,"Commercial at Montgomery",45,464,"Subscriber",94122
+"951",490450,84,2014-10-09 09:27:00,"Harry Bridges Plaza (Ferry Building)",50,2014-10-09 09:29:00,"Harry Bridges Plaza (Ferry Building)",50,191,"Subscriber",94116
+"952",490118,113,2014-10-09 08:03:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-10-09 08:05:00,"San Francisco Caltrain 2 (330 Townsend)",69,100,"Subscriber",94002
+"953",488684,155,2014-10-08 10:34:00,"2nd at Townsend",61,2014-10-08 10:37:00,"2nd at Townsend",61,542,"Subscriber",94002
+"954",488522,123,2014-10-08 09:24:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-10-08 09:26:00,"San Francisco Caltrain 2 (330 Townsend)",69,69,"Subscriber",94063
+"955",487577,72,2014-10-07 18:25:00,"Embarcadero at Vallejo",48,2014-10-07 18:27:00,"Embarcadero at Vallejo",48,282,"Subscriber",94116
+"956",486575,118,2014-10-07 10:17:00,"2nd at South Park",64,2014-10-07 10:19:00,"2nd at South Park",64,579,"Subscriber",94107
+"957",486533,65,2014-10-07 09:54:00,"2nd at Townsend",61,2014-10-07 09:55:00,"2nd at Townsend",61,367,"Subscriber",94105
+"958",486056,161,2014-10-07 08:00:00,"Steuart at Market",74,2014-10-07 08:02:00,"Steuart at Market",74,419,"Customer",94606
+"959",485772,160,2014-10-06 21:13:00,"2nd at Townsend",61,2014-10-06 21:15:00,"2nd at Townsend",61,367,"Subscriber",94107
+"960",485313,80,2014-10-06 17:19:00,"2nd at Townsend",61,2014-10-06 17:20:00,"2nd at Townsend",61,367,"Subscriber",94611
+"961",484986,144,2014-10-06 15:01:00,"Powell at Post (Union Square)",71,2014-10-06 15:03:00,"Powell at Post (Union Square)",71,267,"Customer",92571
+"962",484835,83,2014-10-06 12:30:00,"Market at Sansome",77,2014-10-06 12:31:00,"Market at Sansome",77,447,"Subscriber",94112
+"963",484774,128,2014-10-06 11:45:00,"Spear at Folsom",49,2014-10-06 11:47:00,"Spear at Folsom",49,489,"Customer",NA
+"964",484701,78,2014-10-06 10:39:00,"Mountain View Caltrain Station",28,2014-10-06 10:41:00,"Mountain View Caltrain Station",28,182,"Subscriber",94133
+"965",484550,123,2014-10-06 09:32:00,"Palo Alto Caltrain Station",34,2014-10-06 09:34:00,"Palo Alto Caltrain Station",34,128,"Subscriber",94301
+"966",484031,118,2014-10-06 07:21:00,"Powell Street BART",39,2014-10-06 07:23:00,"Powell Street BART",39,557,"Subscriber",94605
+"967",483786,80,2014-10-05 16:42:00,"2nd at Townsend",61,2014-10-05 16:43:00,"2nd at Townsend",61,570,"Customer",94107
+"968",483333,60,2014-10-04 19:21:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,2014-10-04 19:22:00,"Yerba Buena Center of the Arts (3rd @ Howard)",68,560,"Customer",NA
+"969",483052,81,2014-10-04 13:52:00,"Harry Bridges Plaza (Ferry Building)",50,2014-10-04 13:53:00,"Harry Bridges Plaza (Ferry Building)",50,306,"Customer",NA
+"970",483046,68,2014-10-04 13:50:00,"Harry Bridges Plaza (Ferry Building)",50,2014-10-04 13:51:00,"Harry Bridges Plaza (Ferry Building)",50,273,"Customer",NA
+"971",482797,65,2014-10-04 07:50:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-10-04 07:52:00,"San Francisco Caltrain (Townsend at 4th)",70,430,"Subscriber",95112
+"972",482653,62,2014-10-03 19:07:00,"Market at 10th",67,2014-10-03 19:08:00,"Market at 10th",67,212,"Subscriber",94403
+"973",482404,174,2014-10-03 17:35:00,"Powell Street BART",39,2014-10-03 17:38:00,"Powell Street BART",39,425,"Subscriber",94107
+"974",481969,74,2014-10-03 13:58:00,"Market at 10th",67,2014-10-03 13:59:00,"Market at 10th",67,376,"Customer",10025
+"975",481968,114,2014-10-03 13:55:00,"Market at 10th",67,2014-10-03 13:57:00,"Market at 10th",67,376,"Customer",10025
+"976",481389,65,2014-10-03 08:27:00,"Civic Center BART (7th at Market)",72,2014-10-03 08:28:00,"Civic Center BART (7th at Market)",72,415,"Subscriber",94609
+"977",481078,93,2014-10-02 22:24:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-10-02 22:26:00,"San Francisco Caltrain (Townsend at 4th)",70,596,"Subscriber",94107
+"978",479988,91,2014-10-02 12:35:00,"2nd at South Park",64,2014-10-02 12:36:00,"2nd at South Park",64,279,"Subscriber",94303
+"979",479062,84,2014-10-01 22:13:00,"Davis at Jackson",42,2014-10-01 22:15:00,"Davis at Jackson",42,401,"Subscriber",94111
+"980",478914,166,2014-10-01 19:22:00,"2nd at South Park",64,2014-10-01 19:25:00,"2nd at South Park",64,598,"Subscriber",94107
+"981",478357,109,2014-10-01 16:32:00,"Broadway St at Battery St",82,2014-10-01 16:34:00,"Broadway St at Battery St",82,275,"Subscriber",94107
+"982",477997,91,2014-10-01 12:07:00,"Mechanics Plaza (Market at Battery)",75,2014-10-01 12:09:00,"Mechanics Plaza (Market at Battery)",75,600,"Customer",55414
+"983",475884,75,2014-09-30 10:00:00,"Harry Bridges Plaza (Ferry Building)",50,2014-09-30 10:01:00,"Harry Bridges Plaza (Ferry Building)",50,498,"Subscriber",94925
+"984",475748,71,2014-09-30 09:07:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-09-30 09:08:00,"San Francisco Caltrain 2 (330 Townsend)",69,447,"Subscriber",94086
+"985",475648,73,2014-09-30 08:48:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-09-30 08:49:00,"San Francisco Caltrain (Townsend at 4th)",70,300,"Subscriber",94158
+"986",475256,113,2014-09-30 06:47:00,"Townsend at 7th",65,2014-09-30 06:48:00,"Townsend at 7th",65,423,"Subscriber",94107
+"987",474749,69,2014-09-29 17:47:00,"Townsend at 7th",65,2014-09-29 17:48:00,"Townsend at 7th",65,627,"Subscriber",94107
+"988",473925,69,2014-09-29 09:49:00,"Civic Center BART (7th at Market)",72,2014-09-29 09:50:00,"Civic Center BART (7th at Market)",72,495,"Subscriber",94102
+"989",473603,66,2014-09-29 08:26:00,"Civic Center BART (7th at Market)",72,2014-09-29 08:27:00,"Civic Center BART (7th at Market)",72,878,"Subscriber",94609
+"990",473451,60,2014-09-29 07:38:00,"Civic Center BART (7th at Market)",72,2014-09-29 07:39:00,"Civic Center BART (7th at Market)",72,358,"Subscriber",94062
+"991",473167,79,2014-09-28 17:28:00,"Civic Center BART (7th at Market)",72,2014-09-28 17:30:00,"Civic Center BART (7th at Market)",72,630,"Subscriber",94102
+"992",473041,70,2014-09-28 14:56:00,"Mountain View Caltrain Station",28,2014-09-28 14:57:00,"Mountain View Caltrain Station",28,57,"Customer",94041
+"993",472778,163,2014-09-28 08:26:00,"Embarcadero at Folsom",51,2014-09-28 08:29:00,"Embarcadero at Folsom",51,624,"Subscriber",94111
+"994",472776,97,2014-09-28 08:23:00,"Embarcadero at Folsom",51,2014-09-28 08:25:00,"Embarcadero at Folsom",51,555,"Subscriber",94111
+"995",472737,67,2014-09-28 00:14:00,"Ryland Park",84,2014-09-28 00:15:00,"Ryland Park",84,122,"Subscriber",95110
+"996",472554,78,2014-09-27 16:38:00,"Embarcadero at Bryant",54,2014-09-27 16:39:00,"Embarcadero at Bryant",54,465,"Customer",94509
+"997",472159,130,2014-09-27 09:04:00,"Ryland Park",84,2014-09-27 09:06:00,"Ryland Park",84,233,"Customer",95134
+"998",472039,91,2014-09-26 21:56:00,"Mountain View Caltrain Station",28,2014-09-26 21:57:00,"Mountain View Caltrain Station",28,684,"Subscriber",95831
+"999",471928,90,2014-09-26 18:57:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-09-26 18:58:00,"Temporary Transbay Terminal (Howard at Beale)",55,594,"Subscriber",94111
+"1000",471731,123,2014-09-26 17:50:00,"Arena Green / SAP Center",14,2014-09-26 17:52:00,"Arena Green / SAP Center",14,679,"Customer",NA
+"1001",471521,126,2014-09-26 16:59:00,"Embarcadero at Sansome",60,2014-09-26 17:01:00,"Embarcadero at Sansome",60,357,"Customer",NA
+"1002",470918,93,2014-09-26 10:00:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-09-26 10:02:00,"San Francisco Caltrain 2 (330 Townsend)",69,273,"Subscriber",94107
+"1003",470640,70,2014-09-26 08:38:00,"Embarcadero at Sansome",60,2014-09-26 08:39:00,"Embarcadero at Sansome",60,292,"Subscriber",94133
+"1004",470442,144,2014-09-26 07:23:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-09-26 07:25:00,"Temporary Transbay Terminal (Howard at Beale)",55,390,"Subscriber",94602
+"1005",469842,146,2014-09-25 17:22:00,"Powell Street BART",39,2014-09-25 17:25:00,"Powell Street BART",39,552,"Subscriber",94114
+"1006",469707,68,2014-09-25 16:55:00,"Broadway St at Battery St",82,2014-09-25 16:57:00,"Broadway St at Battery St",82,438,"Subscriber",94089
+"1007",469393,83,2014-09-25 13:07:00,"Commercial at Montgomery",45,2014-09-25 13:09:00,"Commercial at Montgomery",45,283,"Subscriber",94703
+"1008",469300,81,2014-09-25 11:35:00,"5th at Howard",57,2014-09-25 11:36:00,"5th at Howard",57,212,"Subscriber",94103
+"1009",469069,61,2014-09-25 09:18:00,"Powell Street BART",39,2014-09-25 09:19:00,"Powell Street BART",39,513,"Subscriber",94544
+"1010",468592,105,2014-09-24 19:41:00,"2nd at South Park",64,2014-09-24 19:43:00,"2nd at South Park",64,651,"Subscriber",94110
+"1011",467735,101,2014-09-24 12:50:00,"2nd at South Park",64,2014-09-24 12:52:00,"2nd at South Park",64,134,"Customer",95112
+"1012",467291,94,2014-09-24 08:48:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-09-24 08:50:00,"San Francisco Caltrain (Townsend at 4th)",70,428,"Subscriber",95126
+"1013",466704,134,2014-09-23 19:11:00,"Beale at Market",56,2014-09-23 19:13:00,"Beale at Market",56,373,"Customer",NA
+"1014",465668,179,2014-09-23 10:19:00,"Civic Center BART (7th at Market)",72,2014-09-23 10:22:00,"Civic Center BART (7th at Market)",72,542,"Customer",NA
+"1015",464706,68,2014-09-22 18:54:00,"Powell Street BART",39,2014-09-22 18:55:00,"Powell Street BART",39,401,"Subscriber",94130
+"1016",464484,157,2014-09-22 17:50:00,"2nd at South Park",64,2014-09-22 17:52:00,"2nd at South Park",64,395,"Subscriber",94107
+"1017",463972,68,2014-09-22 14:58:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-09-22 14:59:00,"San Francisco Caltrain 2 (330 Townsend)",69,383,"Subscriber",94107
+"1018",462473,91,2014-09-20 19:54:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-09-20 19:55:00,"Temporary Transbay Terminal (Howard at Beale)",55,515,"Subscriber",94130
+"1019",462252,80,2014-09-20 15:25:00,"St James Park",13,2014-09-20 15:27:00,"St James Park",13,160,"Subscriber",95110
+"1020",462215,119,2014-09-20 14:44:00,"2nd at South Park",64,2014-09-20 14:46:00,"2nd at South Park",64,451,"Subscriber",94558
+"1021",462176,72,2014-09-20 13:59:00,"Market at Sansome",77,2014-09-20 14:00:00,"Market at Sansome",77,432,"Customer",32301
+"1022",461472,140,2014-09-19 17:15:00,"2nd at South Park",64,2014-09-19 17:17:00,"2nd at South Park",64,512,"Subscriber",94105
+"1023",461167,105,2014-09-19 14:49:00,"Civic Center BART (7th at Market)",72,2014-09-19 14:51:00,"Civic Center BART (7th at Market)",72,613,"Customer",NA
+"1024",461023,133,2014-09-19 12:42:00,"Broadway St at Battery St",82,2014-09-19 12:44:00,"Broadway St at Battery St",82,488,"Subscriber",94536
+"1025",460187,114,2014-09-19 06:24:00,"Harry Bridges Plaza (Ferry Building)",50,2014-09-19 06:25:00,"Harry Bridges Plaza (Ferry Building)",50,592,"Subscriber",94939
+"1026",459844,102,2014-09-18 17:56:00,"2nd at Townsend",61,2014-09-18 17:58:00,"2nd at Townsend",61,469,"Subscriber",94121
+"1027",459269,67,2014-09-18 13:21:00,"Howard at 2nd",63,2014-09-18 13:23:00,"Howard at 2nd",63,629,"Subscriber",94111
+"1028",458714,106,2014-09-18 08:35:00,"2nd at Townsend",61,2014-09-18 08:37:00,"2nd at Townsend",61,318,"Subscriber",94025
+"1029",458592,69,2014-09-18 07:53:00,"2nd at Townsend",61,2014-09-18 07:54:00,"2nd at Townsend",61,276,"Subscriber",94107
+"1030",457859,138,2014-09-17 17:00:00,"Harry Bridges Plaza (Ferry Building)",50,2014-09-17 17:02:00,"Harry Bridges Plaza (Ferry Building)",50,100,"Customer",80202
+"1031",456019,125,2014-09-16 17:33:00,"Embarcadero at Folsom",51,2014-09-16 17:35:00,"Embarcadero at Folsom",51,16,"Subscriber",94610
+"1032",455810,117,2014-09-16 16:48:00,"Embarcadero at Folsom",51,2014-09-16 16:50:00,"Embarcadero at Folsom",51,16,"Customer",98027
+"1033",455595,171,2014-09-16 14:55:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-09-16 14:58:00,"Temporary Transbay Terminal (Howard at Beale)",55,354,"Subscriber",94107
+"1034",455199,70,2014-09-16 09:43:00,"MLK Library",11,2014-09-16 09:44:00,"MLK Library",11,180,"Subscriber",94107
+"1035",453959,113,2014-09-15 17:13:00,"2nd at South Park",64,2014-09-15 17:15:00,"2nd at South Park",64,420,"Subscriber",94127
+"1036",453812,79,2014-09-15 16:45:00,"San Francisco Caltrain 2 (330 Townsend)",69,2014-09-15 16:46:00,"San Francisco Caltrain 2 (330 Townsend)",69,597,"Subscriber",94703
+"1037",452769,66,2014-09-15 08:15:00,"2nd at Townsend",61,2014-09-15 08:16:00,"2nd at Townsend",61,391,"Subscriber",95148
+"1038",452285,70,2014-09-14 16:13:00,"Embarcadero at Bryant",54,2014-09-14 16:14:00,"Embarcadero at Bryant",54,545,"Subscriber",94111
+"1039",451626,179,2014-09-13 16:57:00,"Embarcadero at Sansome",60,2014-09-13 17:00:00,"Embarcadero at Sansome",60,344,"Subscriber",94703
+"1040",451372,90,2014-09-13 12:11:00,"2nd at Townsend",61,2014-09-13 12:13:00,"2nd at Townsend",61,607,"Subscriber",94107
+"1041",451263,75,2014-09-13 10:11:00,"Redwood City Caltrain Station",22,2014-09-13 10:12:00,"Redwood City Caltrain Station",22,165,"Customer",94541
+"1042",450653,75,2014-09-12 17:12:00,"Spear at Folsom",49,2014-09-12 17:14:00,"Spear at Folsom",49,330,"Subscriber",94070
+"1043",450330,178,2014-09-12 14:55:00,"Market at Sansome",77,2014-09-12 14:58:00,"Market at Sansome",77,512,"Subscriber",94107
+"1044",450166,88,2014-09-12 12:55:00,"Powell at Post (Union Square)",71,2014-09-12 12:57:00,"Powell at Post (Union Square)",71,461,"Subscriber",94109
+"1045",449307,80,2014-09-11 23:24:00,"Townsend at 7th",65,2014-09-11 23:25:00,"Townsend at 7th",65,604,"Subscriber",94111
+"1046",448687,132,2014-09-11 16:16:00,"2nd at Folsom",62,2014-09-11 16:19:00,"2nd at Folsom",62,571,"Subscriber",94105
+"1047",448467,147,2014-09-11 14:30:00,"Harry Bridges Plaza (Ferry Building)",50,2014-09-11 14:33:00,"Harry Bridges Plaza (Ferry Building)",50,413,"Customer",22304
+"1048",448186,61,2014-09-11 11:13:00,"2nd at South Park",64,2014-09-11 11:14:00,"2nd at South Park",64,281,"Subscriber",94107
+"1049",447710,77,2014-09-11 08:11:00,"Civic Center BART (7th at Market)",72,2014-09-11 08:12:00,"Civic Center BART (7th at Market)",72,580,"Subscriber",94117
+"1050",447438,61,2014-09-10 22:24:00,"2nd at Townsend",61,2014-09-10 22:25:00,"2nd at Townsend",61,406,"Subscriber",94107
+"1051",447200,127,2014-09-10 18:32:00,"Embarcadero at Vallejo",48,2014-09-10 18:34:00,"Embarcadero at Vallejo",48,480,"Customer",8854
+"1052",446254,156,2014-09-10 10:11:00,"San Jose City Hall",10,2014-09-10 10:14:00,"San Jose City Hall",10,710,"Customer",11106
+"1053",446144,102,2014-09-10 09:21:00,"Market at Sansome",77,2014-09-10 09:23:00,"Market at Sansome",77,348,"Subscriber",94702
+"1054",445950,103,2014-09-10 08:41:00,"2nd at South Park",64,2014-09-10 08:42:00,"2nd at South Park",64,468,"Subscriber",94107
+"1055",444327,69,2014-09-09 09:48:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-09-09 09:49:00,"San Francisco Caltrain (Townsend at 4th)",70,426,"Subscriber",95050
+"1056",444107,72,2014-09-09 08:49:00,"Steuart at Market",74,2014-09-09 08:50:00,"Steuart at Market",74,291,"Subscriber",94618
+"1057",443058,79,2014-09-08 17:00:00,"Embarcadero at Sansome",60,2014-09-08 17:02:00,"Embarcadero at Sansome",60,310,"Subscriber",94703
+"1058",442288,170,2014-09-08 08:51:00,"5th at Howard",57,2014-09-08 08:54:00,"5th at Howard",57,472,"Subscriber",94606
+"1059",441265,96,2014-09-06 18:00:00,"Market at 10th",67,2014-09-06 18:02:00,"Market at 10th",67,338,"Customer",97008
+"1060",441241,163,2014-09-06 17:37:00,"Civic Center BART (7th at Market)",72,2014-09-06 17:39:00,"Civic Center BART (7th at Market)",72,576,"Subscriber",94103
+"1061",441034,140,2014-09-06 13:14:00,"Embarcadero at Sansome",60,2014-09-06 13:16:00,"Embarcadero at Sansome",60,878,"Customer",94022
+"1062",440433,140,2014-09-05 17:28:00,"Clay at Battery",41,2014-09-05 17:30:00,"Clay at Battery",41,600,"Subscriber",94602
+"1063",440398,68,2014-09-05 17:18:00,"Temporary Transbay Terminal (Howard at Beale)",55,2014-09-05 17:19:00,"Temporary Transbay Terminal (Howard at Beale)",55,359,"Subscriber",94130
+"1064",440042,144,2014-09-05 14:15:00,"Embarcadero at Vallejo",48,2014-09-05 14:18:00,"Embarcadero at Vallejo",48,580,"Customer",NA
+"1065",439970,72,2014-09-05 13:05:00,"Harry Bridges Plaza (Ferry Building)",50,2014-09-05 13:06:00,"Harry Bridges Plaza (Ferry Building)",50,474,"Subscriber",94107
+"1066",439933,140,2014-09-05 12:29:00,"Broadway St at Battery St",82,2014-09-05 12:32:00,"Broadway St at Battery St",82,67,"Subscriber",94133
+"1067",439101,140,2014-09-04 20:16:00,"Market at 4th",76,2014-09-04 20:19:00,"Market at 4th",76,636,"Subscriber",94103
+"1068",439100,130,2014-09-04 20:16:00,"Market at 4th",76,2014-09-04 20:18:00,"Market at 4th",76,419,"Subscriber",94103
+"1069",439099,150,2014-09-04 20:16:00,"Market at 4th",76,2014-09-04 20:19:00,"Market at 4th",76,395,"Subscriber",94103
+"1070",438629,85,2014-09-04 17:02:00,"Spear at Folsom",49,2014-09-04 17:04:00,"Spear at Folsom",49,574,"Subscriber",94028
+"1071",438041,60,2014-09-04 10:53:00,"Civic Center BART (7th at Market)",72,2014-09-04 10:54:00,"Civic Center BART (7th at Market)",72,291,"Subscriber",94117
+"1072",437650,74,2014-09-04 08:32:00,"Broadway St at Battery St",82,2014-09-04 08:33:00,"Broadway St at Battery St",82,292,"Subscriber",94107
+"1073",437154,84,2014-09-03 19:21:00,"San Jose City Hall",10,2014-09-03 19:22:00,"San Jose City Hall",10,108,"Subscriber",95051
+"1074",437027,108,2014-09-03 18:23:00,"Mountain View Caltrain Station",28,2014-09-03 18:25:00,"Mountain View Caltrain Station",28,298,"Subscriber",94041
+"1075",436927,67,2014-09-03 18:00:00,"Mountain View Caltrain Station",28,2014-09-03 18:01:00,"Mountain View Caltrain Station",28,57,"Subscriber",94089
+"1076",436006,71,2014-09-03 09:26:00,"Market at 10th",67,2014-09-03 09:27:00,"Market at 10th",67,483,"Subscriber",94102
+"1077",435667,82,2014-09-03 08:07:00,"California Ave Caltrain Station",36,2014-09-03 08:09:00,"California Ave Caltrain Station",36,190,"Customer",30298
+"1078",435560,85,2014-09-03 07:43:00,"Steuart at Market",74,2014-09-03 07:45:00,"Steuart at Market",74,501,"Subscriber",94601
+"1079",435122,174,2014-09-02 18:20:00,"Mountain View Caltrain Station",28,2014-09-02 18:23:00,"Mountain View Caltrain Station",28,298,"Customer",94043
+"1080",434778,150,2014-09-02 17:03:00,"San Francisco Caltrain (Townsend at 4th)",70,2014-09-02 17:05:00,"San Francisco Caltrain (Townsend at 4th)",70,436,"Subscriber",94306
+"1081",433166,103,2014-09-01 13:26:00,"Beale at Market",56,2014-09-01 13:28:00,"Beale at Market",56,589,"Subscriber",94114
+"1082",433135,87,2014-09-01 12:55:00,"Post at Kearny",47,2014-09-01 12:56:00,"Post at Kearny",47,443,"Customer",94501
