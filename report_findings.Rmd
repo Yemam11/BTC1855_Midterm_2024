@@ -3,6 +3,7 @@ title: "Report Findings"
 author: "Youssef Emam"
 date: "`r Sys.Date()`"
 output: html_document
+always_allow_html: true
 ---
 
 ```{r setup, include=FALSE, echo=FALSE, include=FALSE}
@@ -10,6 +11,7 @@ knitr::opts_chunk$set(
 	echo = FALSE,
 	message = FALSE,
 	warning = FALSE
+	
 )
 source("main.R")
 
@@ -97,8 +99,9 @@ Zip Code outliers were removed \~ Any value beyond the valid zip code range of 0
 Cancelled trips were identified \~ Any trip that lasted less than 3 minutes and started/ended at the same station was considered cancelled. These trips were removed from the data set and stored in a separate file. A snapshot of this file can be seen below:
 
 ```{r eval=TRUE, echo=FALSE, include=TRUE, paged.print=TRUE}
-gt(head(read.csv("cancelled_trips.csv", header = T), 10), rowname_col = "row") %>% 
-  tab_header(title = "Cancelled Trips")
+gt((read.csv("cancelled_trips.csv", header = T))) %>% 
+  tab_header(title = "Cancelled Trips") %>% 
+  opt_interactive(use_pagination = T, use_filters = T)
 ```
 
 Outliers were removed from the duration field \~ Any trip lasting longer than 1 day were removed from the data. It is assumed that any trip lasting longer than 1 day likely means that the customer forgot to return the bike.
@@ -198,7 +201,7 @@ percent_utilization %>%
         legend.title.position = "right")
 ```
 
-From this figure it is evident that the system is more than capable of supporting the biking needs of it's population, as the maximum utilization is less than 2% of the total which occurs in the August. Consistent with the EDA data seen above, utilization peaks in the summer months and decreases in the winter months. To identify specifically how much each bike is used, I created an interactive table which summarizes each bike by the total duration of use. A specific ID can be searched and the usage per month can be identified. The table can also be sorted by pressing on the headers to identify bikes with the lowest usage that might be broken, lost or need servicing:
+From this figure it is evident that the system is more than capable of supporting the biking needs of it's population, as the maximum utilization is less than 2% of the total which occurs in the August. Consistent with the EDA data seen above, utilization peaks in the summer months and decreases in the winter months. To identify specifically how much each bike is used, I created an interactive table which summarizes each bike by the total duration of use (This can be accessed by cloning the repo and interacting with the table through the HTML file, otherwise the table below will just be a snapshot image). A specific ID can be searched and the usage per month can be identified. The table can also be sorted by pressing on the headers to identify bikes with the lowest usage that might be broken, lost or need servicing:
 
 ```{r bike_usage, eval=TRUE, include=T}
 
