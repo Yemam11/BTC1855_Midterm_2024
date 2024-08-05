@@ -98,7 +98,7 @@ Zip Code outliers were removed \~ Any value beyond the valid zip code range of 0
 
 Cancelled trips were identified \~ Any trip that lasted less than 3 minutes and started/ended at the same station was considered cancelled. These trips were removed from the data set and stored in a separate file. A snapshot of this file can be seen below (see the HTML version of this document to use an interactive version of the complete table):
 
-```{r eval=TRUE, echo=FALSE, include=TRUE, paged.print=TRUE}
+```{r eval=TRUE, echo=FALSE, include=TRUE}
 gt(head(read.csv("cancelled_trips.csv", header = T), 10)) %>% 
   tab_header(title = "Cancelled Trips")
 ```
@@ -205,7 +205,8 @@ From this figure it is evident that the system is more than capable of supportin
 ```{r bike_usage, eval=TRUE, include=T}
 
 library(rmarkdown)
-bike_data[1:10,] %>% 
+
+head(bike_data, 10) %>% 
   gt() %>% 
   tab_header(title = "Total Bike Usage")
 ```
