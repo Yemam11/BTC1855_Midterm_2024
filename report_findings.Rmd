@@ -2,7 +2,7 @@
 title: "Report Findings"
 author: "Youssef Emam"
 date: "`r Sys.Date()`"
-output: html_document
+output: github_document
 always_allow_html: true
 ---
 
@@ -96,12 +96,11 @@ Character fields were converted to factors \~ Enables grouping, and allows us to
 
 Zip Code outliers were removed \~ Any value beyond the valid zip code range of 00501- 99950 was removed. Any blank values were converted to NAs, and the column was turned into integer data
 
-Cancelled trips were identified \~ Any trip that lasted less than 3 minutes and started/ended at the same station was considered cancelled. These trips were removed from the data set and stored in a separate file. A snapshot of this file can be seen below:
+Cancelled trips were identified \~ Any trip that lasted less than 3 minutes and started/ended at the same station was considered cancelled. These trips were removed from the data set and stored in a separate file. A snapshot of this file can be seen below (see the HTML version of this document to use an interactive version of the complete table):
 
 ```{r eval=TRUE, echo=FALSE, include=TRUE, paged.print=TRUE}
-gt((read.csv("cancelled_trips.csv", header = T))) %>% 
-  tab_header(title = "Cancelled Trips") %>% 
-  opt_interactive(use_pagination = T, use_filters = T)
+gt(head(read.csv("cancelled_trips.csv", header = T), 10)) %>% 
+  tab_header(title = "Cancelled Trips")
 ```
 
 Outliers were removed from the duration field \~ Any trip lasting longer than 1 day were removed from the data. It is assumed that any trip lasting longer than 1 day likely means that the customer forgot to return the bike.
@@ -206,10 +205,9 @@ From this figure it is evident that the system is more than capable of supportin
 ```{r bike_usage, eval=TRUE, include=T}
 
 library(rmarkdown)
-bike_data %>% 
+bike_data[1:10,] %>% 
   gt() %>% 
-  tab_header(title = "Total Bike Usage") %>% 
-  opt_interactive(use_pagination = TRUE, use_sorting =TRUE, use_filters = T)
+  tab_header(title = "Total Bike Usage")
 ```
 
 ------------------------------------------------------------------------
