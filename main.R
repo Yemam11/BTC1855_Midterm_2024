@@ -107,6 +107,8 @@ stations$installation_date <- mdy(stations$installation_date, tz = "UTC")
 
 #No NAs
 apply(is.na(trips), 2, sum)
+# SK Upon further inspection, I found out that in this dataset empty strings ""
+# are used for missing data! Keep this line ^ together with line 134 for readability.
 
 #look for anomolies in the data
 
@@ -144,6 +146,10 @@ cancelled_trips <- trips %>%
   filter(duration < 180) %>%
   filter(start_station_name == end_station_name) %>% 
   write.csv(file = "cancelled_trips.csv")
+# SK (Points taken) The EDA summary you didn't complete as instructed shows 70 unique 
+# start/end station IDs, and 74 unique start/end station names. 
+# With this discrepancy unattended, I don't think it's the best idea to use station names for
+# any analysis in the trips dataset.
 
 #remove from data set
 trips <- trips %>% 
@@ -153,6 +159,9 @@ trips <- trips %>%
 # Lets assume that the longest possible trip is one day, i.e 86400 seconds
 outliers <- trips %>% 
   filter(duration > 86400)
+# SK Can you provide evidence for your assumption above? When identifying outliers
+# try to use either subject matter expert opinion, or statistical approaches.
+# Gut feelings are not always helpful.
 
 #Remove them from the data set
 trips <- trips %>% 
@@ -170,6 +179,7 @@ unique(weather$city)
 
 #there are some empty values
 unique(weather$events)
+# SK is "rain" different from "Rain"?
 
 #convert to NA
 weather$events[weather$events == ""] <-NA
@@ -189,6 +199,7 @@ weather$precipitation_inches[weather$precipitation_inches == "T"] <- 0.005
 weather$precipitation_inches <- as.numeric(weather$precipitation_inches)
 
 #convert cloud cover to factor, and set levels since its a scale and not a measurement
+# SK cloud cover should actually be an ordered factor
 weather$cloud_cover <- as.factor(weather$cloud_cover)
 
 
@@ -295,6 +306,7 @@ utilization <- months %>%
 # The total number of possible seconds = number of bikes x number of seconds in the month
 # dividing this by the total trip duration per month tells us how much of the possible maximum duration we are using
 # this can be interpreted as a measure of the bike rental system utilization
+# SK I like this one better!
 percent_utilization <- months %>%
   group_by(month) %>%
   #calculate the number of bikes within each group, so we only include bikes that go on trips in our estimate
@@ -370,3 +382,12 @@ for(i in unique(joined_data_numeric$city)){
   #plot the matrix, hide insignificant results (i.e H0: pearson coefficient = 0)
   corrplot(cor_plot$r, method = "shade", title = i, p.mat = cor_plot$P, sig.level = 0.05,insig = "blank",tl.col = "black", tl.srt = 50, cl.pos = "b", cl.ratio = 0.7, mar = c(2, 2, 2, 5))
 }
+
+# SK Where is the benefit in plotting correlations city by city? 
+# Is there a good reason to believe that residents of one city will
+# react differently to the weather than the others?
+# Even if you suspect that is the case, the aggregate level is a better
+# starting place to explore possible correlations. You may prefer to
+# dig deeper into city level later.
+# You need to retain your correlation matrices to provide numbers (ie correlation coefficients) 
+# to support your claim.
